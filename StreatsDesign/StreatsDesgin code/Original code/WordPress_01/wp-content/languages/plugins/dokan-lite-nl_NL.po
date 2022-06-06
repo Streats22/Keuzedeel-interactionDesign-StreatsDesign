@@ -1,0 +1,3082 @@
+# Translation of Plugins - Dokan &#8211; Best WooCommerce Multivendor Marketplace Solution &#8211; Build Your Own Amazon, eBay, Etsy - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Dokan &#8211; Best WooCommerce Multivendor Marketplace Solution &#8211; Build Your Own Amazon, eBay, Etsy - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-23 06:53:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Dokan &#8211; Best WooCommerce Multivendor Marketplace Solution &#8211; Build Your Own Amazon, eBay, Etsy - Stable (latest release)\n"
+
+#: templates/emails/vendor-new-order.php:48
+msgid "Quantity"
+msgstr "Aantal"
+
+#: includes/Admin/SetupWizardNoWC.php:20
+msgid "Welcome to Dokan"
+msgstr "Welkom bij Dokan"
+
+#: assets/js/vue-admin.js:3759 assets/js/vue-admin.js:3770
+#: assets/js/vue-admin.js:3775
+msgid "Download PayPal mass payment file"
+msgstr "Download PayPal mass payment bestand"
+
+#: assets/js/vue-admin.js:3750
+msgid "Approve"
+msgstr "Keur goed"
+
+#: includes/wc-template.php:35
+msgid "Vendor Info"
+msgstr "Informatie verkoper"
+
+#: includes/Widgets/StoreLocation.php:23
+msgid "Dokan: Store Location"
+msgstr "Dokan: Winkellocatie"
+
+#: includes/Widgets/StoreLocation.php:22
+msgid "Dokan Vendor Store Location"
+msgstr "Winkellocatie van Dokan verkoper"
+
+#: includes/Widgets/StoreContactForm.php:23
+msgid "Dokan: Store Contact Form"
+msgstr "Dokan: Contactformulier winkel"
+
+#: includes/Widgets/StoreContactForm.php:22
+msgid "Dokan Vendor Contact Form"
+msgstr "Dokan Contactformulier verkoper"
+
+#: includes/Widgets/TopratedProducts.php:57
+msgid "Top Rated Product"
+msgstr "Best beoordeelde product"
+
+#: includes/Widgets/TopratedProducts.php:14
+msgid "A Widget for displaying To rated products for dokan"
+msgstr "Een Widget om de Best beoordeelde producten te tonen"
+
+#: includes/Widgets/TopratedProducts.php:13
+msgid "Dokan: Top Rated Product Widget"
+msgstr "Dokan: Best gewaardeerd product Widget"
+
+#: includes/Widgets/StoreCategoryMenu.php:16
+msgid "Dokan: Store Category Menu"
+msgstr "Dokan: Winkelcategorie menu"
+
+#: includes/Widgets/StoreCategoryMenu.php:15
+msgid "Dokan Seller Store Menu"
+msgstr "Dokan Verkoper Winkel Menu"
+
+#: includes/Widgets/BestSellingProducts.php:74
+#: includes/Widgets/TopratedProducts.php:73
+msgid "Show Product Rating"
+msgstr "Toon productbeoordeling"
+
+#: includes/Widgets/BestSellingProducts.php:69
+#: includes/Widgets/TopratedProducts.php:68
+msgid "No of Product:"
+msgstr "Nr van product:"
+
+#: includes/Widgets/BestSellingProducts.php:58
+msgid "Best Selling Product"
+msgstr "Meest verkochte product"
+
+#: includes/Widgets/StoreContactForm.php:120
+#: includes/Widgets/BestSellingProducts.php:65
+#: includes/Widgets/ProductCategoryMenu.php:92
+#: includes/Widgets/StoreCategoryMenu.php:82
+#: includes/Widgets/StoreLocation.php:104
+#: includes/Widgets/TopratedProducts.php:64
+#: includes/Widgets/StoreOpenClose.php:111
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/Widgets/ProductCategoryMenu.php:86
+msgid "Product Category"
+msgstr "Productcategorie"
+
+#: includes/Widgets/ProductCategoryMenu.php:16
+msgid "Dokan product category menu"
+msgstr "Dokan productcategorie menu"
+
+#: includes/Admin/SetupWizard.php:654
+msgid "More Settings"
+msgstr "Meer instellingen"
+
+#: includes/Admin/SetupWizard.php:653
+msgid "Visit Dokan Dashboard"
+msgstr "Bezoek Dokan Dashboard"
+
+#: includes/Admin/SetupWizard.php:648
+msgid "Your Marketplace is Ready!"
+msgstr "Jouw marktplaats is klaar!"
+
+#: includes/Admin/SetupWizard.php:519
+msgid "Order status for which vendor can make a withdraw request."
+msgstr "Bestellingstatus waarvoor verkopers een opnameverzoek kunnen maken."
+
+#: includes/Admin/SetupWizard.php:496
+msgid "Order Status for Withdraw"
+msgstr "Status bestellingen voor Opnamen"
+
+#: includes/Admin/SetupWizard.php:492
+msgid "Minimum balance required to make a withdraw request ( Leave it blank to set no limits )"
+msgstr "Minimale balans om een opnameverzoek te doen (laat dit leeg om geen limieten in te stellen)"
+
+#: includes/Admin/SetupWizard.php:448
+msgid "Withdraw Setup"
+msgstr "Opnameinstellingen"
+
+#: templates/admin-setup-wizard/step-selling.php:47
+msgid "Vendor can change order status"
+msgstr "Verkoper kan status bestelling aanpassen"
+
+#: templates/admin-setup-wizard/step-selling.php:35
+msgid "How much amount (%) you will get from each order"
+msgstr "Hoeveel (%) je ontvangt van elke bestelling"
+
+#: templates/admin-setup-wizard/step-selling.php:13
+msgid "Make selling status enable for new registred vendor"
+msgstr "Maak verkoopstatus beschikbaar voor nieuw geregistreerde verkoper"
+
+#: templates/admin-setup-wizard/step-selling.php:5
+msgid "New Vendor Enable Selling"
+msgstr "Nieuwe verkoper beschikbaar voor verkopen"
+
+#: templates/admin-setup-wizard/step-selling.php:1
+msgid "Selling Setup"
+msgstr "Verkoopinstellingen"
+
+#: templates/admin-setup-wizard/step-store.php:10
+msgid "Define vendor store URL"
+msgstr "Definieer verkoper winkel URL"
+
+#: includes/Admin/SetupWizard.php:313
+msgid "No time right now? If you don’t want to go through the wizard, you can skip and return to the WordPress dashboard. Come back anytime if you change your mind!"
+msgstr "Geen tijd op dit moment? Als je niet de wizard wilt gebruiken, kan je deze overslaan en teruig gaan naar het WordPress dashboard. Je kan terugkomen wanneer je verder wilt gaan!"
+
+#: includes/Admin/SetupWizard.php:312
+msgid "Thank you for choosing Dokan to power your online marketplace! This quick setup wizard will help you configure the basic settings. <strong>It’s completely optional and shouldn’t take longer than three minutes.</strong>"
+msgstr "Dank u voor het kiezen van Dokan om uw online marktplaats te beheren! Deze snelle wizard helpt u de basisinstellingen te configureren. <strong>Het is volledig optioneel en duurt niet langer dan drie minuten.</strong>"
+
+#: templates/admin-setup-wizard/step-no-wc-introduction.php:2
+#: includes/Admin/SetupWizard.php:311
+msgid "Welcome to the world of Dokan!"
+msgstr "Welkom in de wereld van Dokan!"
+
+#: includes/Admin/SetupWizard.php:264 includes/Admin/SetupWizardNoWC.php:96
+msgid "Return to the WordPress Dashboard"
+msgstr "Ga terug naar het WordPress Dashboard"
+
+#: includes/Admin/SetupWizard.php:244
+msgid "Dokan &rsaquo; Setup Wizard"
+msgstr "Dokan $rsaquo; Installatie Wizard"
+
+#: includes/Admin/SetupWizard.php:85
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Zoeken&hellip;"
+
+#: includes/Admin/SetupWizard.php:84
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Meer resultaten laden&hellip;"
+
+#: includes/Admin/SetupWizard.php:83
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Je kan alleen %qty% items selecteren"
+
+#: includes/Admin/SetupWizard.php:82
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Je kunt maar 1 item selecteren"
+
+#: includes/Admin/SetupWizard.php:81
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Verwijder %qty% karakters"
+
+#: includes/Admin/SetupWizard.php:80
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Verwijder 1 karakter"
+
+#: includes/Admin/SetupWizard.php:79
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Vul %qty% of meer karakters in"
+
+#: includes/Admin/SetupWizard.php:78
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Vul 1 of meer karakters in"
+
+#: includes/Admin/SetupWizard.php:77
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Laden mislukt"
+
+#: includes/Admin/SetupWizard.php:76
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "Geen overeenkomende resultaten gevonden"
+
+#: includes/Admin/SetupWizard.php:75
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr "%qty% resultaten zijn beschikbaar, gebruik de pijltoetsen om te navigeren."
+
+#: includes/Admin/SetupWizard.php:74
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "Een resultaat is beschikbaar, druk op enter om het te selecteren."
+
+#: includes/Admin/Settings.php:514
+msgid "Enable showing Store Sidebar From Your Theme."
+msgstr "Schakel weergeven van winkel sidebar van je thema in."
+
+#: includes/Admin/Settings.php:513
+msgid "Enable Store Sidebar From Theme"
+msgstr "Schakel winkel sidebar van je thema in"
+
+#: includes/Admin/Settings.php:494
+msgid "Store Header Template"
+msgstr "Winkel header template"
+
+#: includes/Admin/Settings.php:487
+msgid "Show Contact Form on Store Page"
+msgstr "Toon contactformulier op winkelpagina"
+
+#: templates/admin-setup-wizard/step-store.php:56
+#: includes/Admin/Settings.php:470
+msgid "Google Map API Key"
+msgstr "Google Map API-sleutel"
+
+#: includes/Admin/Settings.php:446
+msgid "Show Map on Store Page"
+msgstr "Toon kaart op winkelpagina"
+
+#: includes/Admin/Settings.php:435
+msgid "Terms and Conditions Page"
+msgstr "Algemene voorwaarden pagina"
+
+#: includes/Admin/Settings.php:403
+msgid "Minimum balance required to make a withdraw request. Leave blank to set no minimum limits."
+msgstr ""
+"Minimaal saldo benodigd voor een uitbetalingsverzoek.\n"
+"Laat leeg om geen limiet in te stellen."
+
+#: includes/Admin/SetupWizard.php:489 includes/Admin/Settings.php:402
+msgid "Minimum Withdraw Limit"
+msgstr "Limiet minimum opname"
+
+#: includes/Admin/SetupWizard.php:452 includes/Admin/Settings.php:394
+msgid "Withdraw Methods"
+msgstr "Manieren voor opname"
+
+#: templates/admin-setup-wizard/step-selling.php:39
+#: includes/Admin/Settings.php:375
+msgid "Order Status Change"
+msgstr "Wijzig status bestelling"
+
+#: includes/Admin/Settings.php:369
+msgid "Disable add new product in popup view"
+msgstr "Schakel \"voeg nieuw product toe\" in popup scherm uit"
+
+#: includes/Admin/Settings.php:368
+msgid "Disable Product Popup"
+msgstr "Uitschakelen product popup"
+
+#: includes/Admin/Settings.php:362
+msgid "Allow newly registered vendors to add products"
+msgstr "Sta nieuwe verkopers toe producten toe te voegen"
+
+#: includes/Admin/Settings.php:361
+msgid "New Vendor Product Upload"
+msgstr "Nieuwe verkoper product plaatsen"
+
+#: includes/Admin/SetupWizard.php:337 includes/Admin/Settings.php:340
+#: includes/Admin/Settings.php:348
+msgid "Admin"
+msgstr "Beheerder"
+
+#: includes/Admin/Settings.php:306
+msgid "Enable Terms and Conditions for vendor stores"
+msgstr "Schakel algemene voorwaarden voor winkelverkoper in"
+
+#: includes/Admin/Settings.php:291
+msgid "Disable welcome wizard for newly registered vendors"
+msgstr "Schakel welkomst-wizard uit voor nieuw geregistreerde verkopers"
+
+#: includes/Admin/Settings.php:290
+msgid "Disable Welcome Wizard"
+msgstr "Schakel welkomst-wizard uit"
+
+#: includes/Admin/Settings.php:286
+msgid "Recommended Logo size ( 270px X 90px ). If no logo is uploaded, site title is shown by default."
+msgstr "Aanbevolen grootte logo ( 270px X 90px ). Als er geen logo geplaatst is wordt standaard de titel van de site getoond."
+
+#: includes/Admin/Settings.php:284
+msgid "Vendor Setup Wizard Logo"
+msgstr "Verkoper logo wizard instellingen"
+
+#: templates/admin-setup-wizard/step-store.php:7
+#: includes/Admin/Settings.php:277
+msgid "Vendor Store URL"
+msgstr "Winkel URL verkoper"
+
+#: includes/Admin/Settings.php:270
+msgid "Admin area access"
+msgstr "Toegang beheerderomgeving"
+
+#: includes/Admin/Settings.php:237
+msgid "Appearance"
+msgstr "Uiterlijk"
+
+#: includes/Admin/Settings.php:232
+msgid "Page Settings"
+msgstr "Paginainstellingen"
+
+#: includes/Admin/Settings.php:217
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/Admin/Pointers.php:208 includes/Admin/Settings.php:227
+msgid "Withdraw Options"
+msgstr "Uitbetalingsopties"
+
+#: includes/Admin/Pointers.php:191 includes/Admin/Settings.php:222
+msgid "Selling Options"
+msgstr "Verkoopopties"
+
+#: includes/Admin/AdminBar.php:61 includes/Admin/Menu.php:51
+msgid "PRO Features"
+msgstr "PRO Kenmerken"
+
+#: includes/Admin/Menu.php:36
+msgid "Withdraw %s"
+msgstr "Opname %s"
+
+#: includes/Order/Hooks.php:143
+msgid "Mark parent order completed when all child orders are completed."
+msgstr "Markeer de hoofdbestelling als compleet wanneer alle 'child' bestellingen compleet zijn."
+
+#: includes/wc-functions.php:922
+msgid "Account details changed successfully."
+msgstr "Uw accoungegevens zijn succesvol opgeslagen."
+
+#: includes/wc-functions.php:901
+msgid "New passwords do not match."
+msgstr "Uw wachtwoorden zijn niet gelijk."
+
+#: includes/wc-functions.php:898
+msgid "Please re-enter your password."
+msgstr "Vul opnieuw uw wachtwoord in."
+
+#: includes/wc-functions.php:895
+msgid "Please enter your current password."
+msgstr "Vul A.U.B. jouw huidige wachtwoord in"
+
+#: includes/wc-functions.php:892
+msgid "Please fill out all password fields."
+msgstr "Vul A.U.B. alle wachtwoordvelden in."
+
+#: includes/wc-functions.php:887
+msgid "Your current password is incorrect."
+msgstr "Jouw huidige wachtwoord is incorrect."
+
+#: includes/wc-functions.php:881
+msgid "This email address is already registered."
+msgstr "Dit email adres is reeds geregistreerd."
+
+#: includes/wc-functions.php:879
+msgid "Please provide a valid email address."
+msgstr "Geef a.u.b. een geldig e-mailadres op."
+
+#: includes/wc-functions.php:873
+msgid "is a required field."
+msgstr "is een verplicht veld."
+
+#: includes/wc-functions.php:765
+msgid "Your {site_title} order from {order_date} is complete"
+msgstr "Uw {site_title} bestelling van {order_date} is compleet"
+
+#: includes/wc-functions.php:764
+msgid "Your {site_title} order receipt from {order_date}"
+msgstr "Uw {site_title} ontvangstbewijs van {order_date}"
+
+#: includes/Admin/functions.php:238 includes/Admin/functions.php:512
+msgid "Commision: "
+msgstr "Commissie:"
+
+#: includes/Admin/functions.php:228 includes/Admin/functions.php:502
+msgid "sales"
+msgstr "Verkopen"
+
+#: includes/Admin/functions.php:218 includes/Admin/functions.php:492
+msgid "Total: "
+msgstr "Totaal:"
+
+#: includes/Admin/Hooks.php:338
+msgid "Toggle Sub-orders"
+msgstr "Zet sub-bestellingen aan/uit"
+
+#: includes/Admin/Hooks.php:143
+msgid "Hide Sub-Orders"
+msgstr "Verberg sub-bestelling"
+
+#: includes/Admin/Hooks.php:143
+msgid "Show Sub-Orders"
+msgstr "Toon sub-bestelling"
+
+#: includes/Admin/Hooks.php:80 includes/Admin/Hooks.php:85
+msgid "Sub Order"
+msgstr "Sub-bestelling"
+
+#: includes/Admin/Hooks.php:79 assets/js/vue-admin.js:3702
+msgid "Actions"
+msgstr "Acties"
+
+#: includes/template-tags.php:492
+msgid "Log out"
+msgstr "Uitloggen"
+
+#: includes/template-tags.php:362
+msgid "Back to Dashboard"
+msgstr "Terug naar Dashboard"
+
+#: includes/template-tags.php:282
+msgid "Refunded (%d)"
+msgstr "Terugbetaald (%d)"
+
+#: includes/template-tags.php:268
+msgid "Cancelled (%d)"
+msgstr "Geannuleerd (%d)"
+
+#: includes/template-tags.php:254
+msgid "Pending (%d)"
+msgstr "Wachtend op goedkeuring (%d)"
+
+#: includes/template-tags.php:240
+msgid "On-hold (%d)"
+msgstr "In de wacht (%d)"
+
+#: includes/template-tags.php:226
+msgid "Processing (%d)"
+msgstr "Verwerken (%d)"
+
+#: includes/template-tags.php:212
+msgid "Completed (%d)"
+msgstr "Compleet (%d)"
+
+#: includes/template-tags.php:136
+msgid "Product succesfully deleted"
+msgstr "Product succesvol verwijderd "
+
+#: includes/template-tags.php:48
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: includes/template-tags.php:45
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: includes/Order/functions.php:792
+msgid "Customer Note"
+msgstr "Klant notitie"
+
+#: includes/Order/functions.php:791
+msgid "Customer IP"
+msgstr "Klant IP"
+
+#: includes/Order/functions.php:768
+msgid "Order Date"
+msgstr "Besteldatum"
+
+#: includes/Order/functions.php:765
+msgid "Payment method"
+msgstr "Betaalmethode"
+
+#: includes/Order/functions.php:764
+msgid "Shipping Cost"
+msgstr "Verzendkosten"
+
+#: includes/Order/functions.php:763
+msgid "Shipping method"
+msgstr "Verzendmethode"
+
+#: includes/Order/functions.php:761
+msgid "Order No"
+msgstr "Order nr"
+
+#: includes/Order/functions.php:520
+msgid "Failed"
+msgstr "Mislukt"
+
+#: includes/Admin/SetupWizard.php:514 includes/Order/functions.php:500
+msgid "On-hold"
+msgstr "In de wacht"
+
+#: includes/Order/functions.php:495
+msgid "Pending Payment"
+msgstr "In afwachting van betaling"
+
+#: includes/Vendor/Vendor.php:710
+msgid "Rated %s out of %d"
+msgstr "Beoordeeld met een %s van de %d"
+
+#: includes/Vendor/Vendor.php:709
+msgid "%s rating from %d review"
+msgid_plural "%s rating from %d reviews"
+msgstr[0] "%s beoordeling van %d beoordeling"
+msgstr[1] "%s beoordeling from %d beoordelingen"
+
+#: includes/Vendor/Vendor.php:707
+msgid "No ratings found yet!"
+msgstr "Nog geen beoordelingen!"
+
+#: includes/Core.php:143
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: includes/functions.php:2921
+msgid "View product"
+msgstr "Bekijk product"
+
+#: includes/functions.php:2612
+msgid "Dokan Store Sidebar"
+msgstr "Dokan Winkel sidebar"
+
+#: includes/functions.php:2334
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#. translators: 1: month name, 2: 4-digit year
+#: includes/functions.php:2242
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: includes/functions.php:2227
+msgid "All dates"
+msgstr "Alle datums "
+
+#: includes/functions.php:2124
+msgid "6-8 weeks"
+msgstr "6-8 weken"
+
+#: includes/functions.php:2123
+msgid "4-6 weeks"
+msgstr "4-6 weken"
+
+#: includes/functions.php:2122
+msgid "3-4 weeks"
+msgstr "3-4 weken"
+
+#: includes/functions.php:2121
+msgid "2-3 weeks"
+msgstr "2-3 weken"
+
+#: includes/functions.php:2120
+msgid "1-2 weeks"
+msgstr "1-2 weken"
+
+#: includes/functions.php:2116
+msgid "1 business day"
+msgstr "1 werkdag"
+
+#: includes/functions.php:2115
+msgid "Ready to ship in..."
+msgstr "Klaar om te verzenden binnen..."
+
+#: includes/functions.php:2093
+msgid "- Select a State -"
+msgstr "- Selecteer een provincie - "
+
+#: includes/functions.php:2074 includes/functions.php:2097
+msgid "Everywhere Else"
+msgstr "Overige plaatsen"
+
+#: includes/functions.php:2070
+msgid "- Select a location -"
+msgstr "- Selecteer een locatie - "
+
+#: includes/functions.php:1629
+msgid "Date is not valid"
+msgstr "Datum is ongeldig"
+
+#: includes/functions.php:1271
+msgid "SWIFT: %s"
+msgstr "SWIFT: %s"
+
+#: includes/functions.php:1267
+msgid "IBAN: %s"
+msgstr "IBAN: %s"
+
+#: includes/functions.php:1263
+msgid "Routing Number: %s"
+msgstr "Banknummer: %s"
+
+#: includes/functions.php:1259
+msgid "Address: %s"
+msgstr "Adres: %s"
+
+#: includes/functions.php:1255
+msgid "Bank Name: %s"
+msgstr "Naam van bank: %s"
+
+#: includes/functions.php:1251
+msgid "Account Number: %s"
+msgstr "Rekeningnummer: %s"
+
+#: includes/functions.php:1247 assets/js/vue-admin.js:3871
+msgid "Account Name: %s"
+msgstr "Naam rekeninghouder: %s"
+
+#: includes/functions.php:1024
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/functions.php:811
+msgid "Scheduled Product"
+msgstr "Gepland product"
+
+#: includes/functions.php:810
+msgid "Grouped Product"
+msgstr "Gegroepeerd product"
+
+#: includes/functions.php:809
+msgid "Variable Product"
+msgstr "Variabel product"
+
+#: includes/functions.php:808
+msgid "Simple Product"
+msgstr "Simpel product"
+
+#: includes/reports.php:349
+msgid "Sales total"
+msgstr "Totaal verkocht"
+
+#: includes/Assets.php:651
+msgid "Product category is required"
+msgstr "Een productcategorie is verplicht"
+
+#: includes/Assets.php:650
+msgid "Product title is required"
+msgstr "Een producttitel is verplicht"
+
+#: includes/Assets.php:649
+msgid "Choose Image"
+msgstr "Kies afbeelding"
+
+#: includes/Assets.php:648
+msgid "Select and Crop"
+msgstr "Selecteer en verklein"
+
+#: includes/Assets.php:644
+msgid "No Result Found"
+msgstr "Geen resultaten gevonden"
+
+#: includes/Assets.php:643
+msgid "%qty% variations"
+msgstr "%qty% variaties"
+
+#: includes/Assets.php:642
+msgid "%qty% variation"
+msgstr "%qty% variatie"
+
+#: includes/Assets.php:641
+msgid "Save changes before changing page?"
+msgstr "Sla wijzigingen op voor het verlaten van de pagina?"
+
+#: includes/Assets.php:640
+msgid "Sale end date (YYYY-MM-DD format or leave blank)"
+msgstr "Einddatum aanbieding (YYYY-MM-DD formaat of laat leeg)"
+
+#: includes/Assets.php:639
+msgid "Sale start date (YYYY-MM-DD format or leave blank)"
+msgstr "Startdatum aanbieding (YYYY-MM-DD formaat of laat leeg)"
+
+#: includes/Assets.php:638
+msgid "Are you sure you want to remove this variation?"
+msgstr "Weet je zeker dat je deze variatie wilt verwijderen?"
+
+#: includes/Assets.php:637
+msgid "No variations added"
+msgstr "Geen variaties toegevoegd"
+
+#: includes/Assets.php:636
+msgid "variations added"
+msgstr "variaties toegevoegd"
+
+#: includes/Assets.php:635
+msgid "variation added"
+msgstr "variatie toegevoegd"
+
+#: includes/Assets.php:634
+msgid "Set variation image"
+msgstr "Kies afbeelding voor deze variatie"
+
+#: includes/Assets.php:633
+msgid "Choose an image"
+msgstr "Kies een afbeelding"
+
+#: includes/Assets.php:632
+msgid "Last warning, are you sure?"
+msgstr "Laatste waarschuwing, weet je het zeker?"
+
+#: includes/Assets.php:631
+msgid "Are you sure you want to delete all variations? This cannot be undone."
+msgstr "Weet je zeker dat je alle variaties wilt verwijderen? Dit kan niet ongedaan worden gemaakt."
+
+#: includes/Assets.php:630
+msgid "Enter a value (fixed or %)"
+msgstr "Vul een waarde in (vast of %)"
+
+#: includes/Assets.php:629
+msgid "Variation menu order (determines position in the list of variations)"
+msgstr "Variatie menuvolgorde (bepaald positie in de ijst van variaties)"
+
+#: includes/Assets.php:628
+msgid "Enter a value"
+msgstr "Voeg een waarde in"
+
+#: includes/Assets.php:627
+msgid "Are you sure you want to link all variations? This will create a new variation for each and every possible combination of variation attributes (max %d per run)."
+msgstr "Weet je zeker dat je alle variaties wil koppelen? Dit maakt een nieuwe variatie aan voor elke mogelijke combinatie van de verschillende eigenschappen (max %d per run)."
+
+#: includes/Assets.php:619
+msgid "Remove this attribute?"
+msgstr "Deze eigenschap verwijderen?"
+
+#: includes/Assets.php:618
+msgid "Enter a name for the new attribute term:"
+msgstr "Voer een naam in voor de nieuwe eigenschap:"
+
+#: includes/Assets.php:617
+msgid "Warning! This product will not have any variations if this option is not checked."
+msgstr "Let op! Dit product zal geen variaties hebben wanneer deze optie niet is aangevinkt."
+
+#: includes/Assets.php:616
+msgid "Sorry, this attribute option already exists, Try a different one."
+msgstr "Sorry, deze eigenschap bestaat al. Probeer een andere."
+
+#: includes/Assets.php:615
+msgid "Add to gallery"
+msgstr "Voeg toe aan galerij"
+
+#: includes/Assets.php:613
+msgid "Set featured image"
+msgstr "Stel uitgelichte afbeelding in"
+
+#: includes/Assets.php:612
+msgid "Add Images to Product Gallery"
+msgstr "Voeg afbeelding toe aan galerij van product"
+
+#: includes/Assets.php:611
+msgid "Choose a file"
+msgstr "Kies een bestand"
+
+#: includes/Assets.php:610
+msgid "Upload featured image"
+msgstr "Upload uitgelichte afbeelding"
+
+#: includes/Assets.php:492
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Vul aub een getal in dat groter is of gelijk is aan {0}."
+
+#: includes/Assets.php:491
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Vul aub een getal in dat minder is of gelijk is aan {0}."
+
+#: includes/Assets.php:490
+msgid "Please enter a value between {0} and {1}."
+msgstr "Voer een waarde tussen {0} en {1} in. "
+
+#: includes/Assets.php:489
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Voer een waarde tussen {0} en {1} karakters lang in. "
+
+#: includes/Assets.php:488
+msgid "Please enter at least {0} characters."
+msgstr "Voer minstens {0} tekens in. "
+
+#: includes/Assets.php:487
+msgid "Please enter no more than {0} characters."
+msgstr "Voer niet meer dan {0} tekens in. "
+
+#: includes/Assets.php:486
+msgid "Please enter the same value again."
+msgstr "Voer nogmaals dezelfde waarde in. "
+
+#: includes/Assets.php:485
+msgid "Please enter a valid credit card number."
+msgstr "Voer een geldig creditcard nummer in. "
+
+#: includes/Assets.php:484
+msgid "Please enter only digits."
+msgstr "Voer enkel getallen in. "
+
+#: includes/Assets.php:483
+msgid "Please enter a valid number."
+msgstr "Voer een geldig nummer in. "
+
+#: includes/Assets.php:482
+msgid "Please enter a valid date (ISO)."
+msgstr "Voer een geldige datum in (ISO). "
+
+#: includes/Assets.php:481
+msgid "Please enter a valid date."
+msgstr "Voer een geldige datum in. "
+
+#: includes/Assets.php:480
+msgid "Please enter a valid URL."
+msgstr "Voer een geldige URL in. "
+
+#: includes/Assets.php:479
+msgid "Please enter a valid email address."
+msgstr "Voer een geldig e-mailadres in. "
+
+#: includes/Assets.php:478
+msgid "Please fix this field."
+msgstr "Pas dit veld aan."
+
+#: includes/Assets.php:477
+msgid "This field is required"
+msgstr "Dit veld is verplicht"
+
+#: includes/Assets.php:402
+msgid "Something went wrong. Please try again."
+msgstr "Er is iets mis gegaan, probeer het nogmaals a.u.b."
+
+#: includes/Assets.php:401 assets/js/vue-admin.js:3853
+msgid "Are you sure?"
+msgstr "Weet je het zeker?"
+
+#: includes/wc-legacy-functions.php:61
+msgctxt "Order date parsed by strftime"
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y @ %I:%M %p"
+
+#: includes/wc-legacy-functions.php:61
+msgid "Order &ndash; %s"
+msgstr "Bestelling &ndash; %s"
+
+#: includes/Shortcodes/Dashboard.php:25
+msgid "Please install <a href=\"%s\"><strong>WooCommerce</strong></a> plugin first"
+msgstr "Installer alstublieft eerst de <a href=\"%s\"><strong>WooCommerce</strong></a> plugin"
+
+#: includes/REST/ProductController.php:1871
+msgid "File URL."
+msgstr "URL bestand."
+
+#: includes/REST/ProductController.php:1866
+msgid "File name."
+msgstr "Bestandsnaam."
+
+#: includes/Admin/functions.php:231 includes/Admin/functions.php:505
+#: includes/REST/AdminReportController.php:149
+msgid "Commision"
+msgstr "Commissie"
+
+#: includes/Admin/functions.php:221 includes/Admin/functions.php:495
+#: includes/reports.php:359 includes/REST/AdminReportController.php:142
+msgid "Number of orders"
+msgstr "Aantal bestellingen"
+
+#: includes/Admin/functions.php:211 includes/Admin/functions.php:485
+#: includes/REST/AdminReportController.php:134
+msgid "Total Sales"
+msgstr "Totaal verkopen"
+
+#: includes/Order/functions.php:767 includes/REST/OrderController.php:99
+msgid "Order Status"
+msgstr "Bestelstatus"
+
+#: includes/Withdraw/functions.php:209
+msgid "Swift code"
+msgstr "Swift code"
+
+#: includes/Withdraw/functions.php:197
+msgid "Routing number"
+msgstr "Banknummer"
+
+#: includes/Withdraw/functions.php:191
+msgid "Address of your bank"
+msgstr "Adres van jouw bank"
+
+#: includes/Withdraw/functions.php:185
+msgid "Name of bank"
+msgstr "Naam van jouw bank"
+
+#: includes/Withdraw/functions.php:179
+msgid "Your bank account number"
+msgstr "Jouw rekeningnummer"
+
+#: includes/Withdraw/functions.php:173
+msgid "Your bank account name"
+msgstr "Naam rekeninghouder"
+
+#: includes/Withdraw/functions.php:126 assets/js/vue-admin.js:5859
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/Withdraw/functions.php:16
+msgid "Bank Transfer"
+msgstr "Overschrijving"
+
+#: includes/Withdraw/functions.php:12
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/Emails/Manager.php:514
+msgid "[%s] Your product has been approved!"
+msgstr "[%s] Jouw product is goedgekeurd!"
+
+#: includes/Emails/Manager.php:474
+msgid "[%s] New Product Added"
+msgstr "[%s] Nieuw product toegevoegd"
+
+#: includes/Emails/Manager.php:421
+msgid "[%s] New Vendor Registered"
+msgstr "[%s] Nieuwe verkoper geregistreerd"
+
+#: includes/Emails/Manager.php:382
+msgid "[%s] Your Withdraw Request has been cancelled"
+msgstr "[%s] Jouw opnameverzoek is geannuleerd"
+
+#: includes/Emails/Manager.php:359
+msgid "[%s] Your Withdraw Request has been approved"
+msgstr "[%s] Jouw opnameverzoek is goedgekeurd"
+
+#: includes/Emails/Manager.php:337
+msgid "[%s] New Withdraw Request"
+msgstr "[%s] Nieuw opnameverzoek"
+
+#: includes/Emails/Manager.php:280
+msgid "[%s] New Refund Request"
+msgstr "[%s] Nieuw terugbetalingsverzoek"
+
+#: includes/Emails/Manager.php:246
+msgid "[%s] Refund Request %s"
+msgstr "[%s] Terugbetalingsaanvraag %s"
+
+#: includes/Emails/Manager.php:197
+msgid "\"%s\" sent you a message from your \"%s\" store"
+msgstr "\"%s\" verstuur een bericht vanuit jouw \"%s\" winkel"
+
+#: includes/Product/functions.php:426 assets/js/vue-admin.js:5875
+msgid "Edit"
+msgstr "Edit"
+
+#: includes/Product/functions.php:311
+msgid "Catalog"
+msgstr "Catalogus"
+
+#: includes/Product/functions.php:310
+msgid "Visible"
+msgstr "Zichtbaar"
+
+#: includes/Product/functions.php:287
+msgid "Go to the last page"
+msgstr "Ga naar de laatste pagina"
+
+#: includes/Product/functions.php:286
+msgid "Go to the next page"
+msgstr "Ga naar de volgende pagina"
+
+#: includes/Product/functions.php:284
+msgctxt "number of pages"
+msgid "of"
+msgstr "van"
+
+#: includes/Product/functions.php:279
+msgid "Current page"
+msgstr "Huidige pagina"
+
+#: includes/Product/functions.php:278
+msgid "Select Page"
+msgstr "Selecteer pagina"
+
+#: includes/Product/functions.php:276
+msgid "Go to the previous page"
+msgstr "Ga naar de vorige pagina"
+
+#: includes/Product/functions.php:275
+msgid "Go to the first page"
+msgstr "Ga naar de eerste pagina"
+
+#: includes/Product/functions.php:272
+msgid "Expand"
+msgstr "Breid uit"
+
+#: includes/Product/functions.php:267
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s artikel"
+msgstr[1] "%s artikelen"
+
+#: includes/Product/functions.php:261
+msgid "Save Variations"
+msgstr "Sla variaties op"
+
+#: includes/Product/functions.php:221
+msgid "No default"
+msgstr "Geen standaard"
+
+#: includes/Product/functions.php:203
+msgid "Default Form Values: These are the attributes that will be pre-selected on the frontend."
+msgstr "Standaard formulierwaarden: Deze eigenschappen worden voorgeselecteerd aan de voorkant."
+
+#: includes/Product/functions.php:196
+msgid "Go"
+msgstr "Ga"
+
+#: includes/Product/functions.php:192
+msgid "Download expiry"
+msgstr "Download verstrijken"
+
+#: includes/Product/functions.php:191
+msgid "Download limit"
+msgstr "Downloadlimiet"
+
+#: includes/Product/functions.php:190
+msgid "Downloadable products"
+msgstr "Downloadbare producten"
+
+#: includes/Product/functions.php:188
+msgid "Weight"
+msgstr "Gewicht"
+
+#: includes/Product/functions.php:187
+msgid "Height"
+msgstr "Hoogte"
+
+#: includes/Product/functions.php:186
+msgid "Width"
+msgstr "Breedte"
+
+#: includes/Product/functions.php:185
+msgid "Length"
+msgstr "Lengte"
+
+#: templates/emails/vendor-new-order.php:91
+#: includes/Admin/SetupWizardWCAdmin.php:84
+#: includes/Admin/SetupWizardNoWC.php:183 includes/Product/functions.php:184
+msgid "Shipping"
+msgstr "Verzending"
+
+#: includes/Product/functions.php:181
+msgid "Toggle &quot;Manage stock&quot;"
+msgstr "Zet aan/uit &quot;Beheer voorraad&quot;"
+
+#: includes/Product/functions.php:178
+msgid "Set scheduled sale dates"
+msgstr "Stel data geplande aanbiedingen in"
+
+#: includes/Product/functions.php:177
+msgid "Decrease sale prices (fixed amount or percentage)"
+msgstr "Verlaag kortingsprijzen (vast bedrag of percentage)"
+
+#: includes/Product/functions.php:176
+msgid "Increase sale prices (fixed amount or percentage)"
+msgstr "Verhoog kortingsprijzen (vast bedrag of percentage)"
+
+#: includes/Product/functions.php:175
+msgid "Set sale prices"
+msgstr "Stel aanbiedingsprijzen in"
+
+#: includes/Product/functions.php:174
+msgid "Decrease regular prices (fixed amount or percentage)"
+msgstr "Verlaag normale prijzen (vast bedrag of percentage)"
+
+#: includes/Product/functions.php:173
+msgid "Increase regular prices (fixed amount or percentage)"
+msgstr "Verhoog normale prijzen (vast bedrag of percentage)"
+
+#: includes/Product/functions.php:172
+msgid "Set regular prices"
+msgstr "Stel normale prijzen in"
+
+#: includes/Product/functions.php:171
+msgid "Pricing"
+msgstr "Prijs bepalen"
+
+#: includes/Product/functions.php:169
+msgid "Toggle &quot;Virtual&quot;"
+msgstr "Zet aan/uit &quot;Virtueel&quot;"
+
+#: includes/Product/functions.php:168
+msgid "Toggle &quot;Downloadable&quot;"
+msgstr "Zet aan/uit &quot;Downloadbaar&quot;"
+
+#: includes/Product/functions.php:167
+msgid "Toggle &quot;Enabled&quot;"
+msgstr "Zet aan/uit &quot;Ingeschakeld&quot;"
+
+#: includes/Product/functions.php:165
+msgid "Delete all variations"
+msgstr "Verwijder alle variaties"
+
+#: includes/Product/functions.php:164
+msgid "Create variations from all attributes"
+msgstr "Maak variaties van alle eigenschappen"
+
+#: includes/Product/functions.php:163
+msgid "Add variation"
+msgstr "Voeg variatie toe"
+
+#: includes/Product/functions.php:153
+msgid "Before you can add a variation you need to add some variation attributes on the <strong>Attributes</strong> section"
+msgstr "Voordat een variatie toegevoegd kan worden moeten er variatie-eigenschappen worden toegevoegd bij de <strong>Eigenschappen</strong> sectie"
+
+#: includes/Registration.php:64
+msgid "Please enter your phone number."
+msgstr "Voer jouw telefoonnummer in."
+
+#: includes/Registration.php:63
+msgid "Please enter your last name."
+msgstr "Voer jouw achternaam in."
+
+#: includes/Registration.php:62
+msgid "Please enter your first name."
+msgstr "Voer jouw voornaam in."
+
+#: includes/Registration.php:56
+msgid "Cheating, eh?"
+msgstr "Valsspelen, eh?"
+
+#: includes/woo-views/html-product-download.php:8 includes/Assets.php:614
+msgid "Insert file URL"
+msgstr "Voeg URL bestand toe"
+
+#: includes/woo-views/html-product-download.php:8
+msgid "Choose file"
+msgstr "Kies bestand"
+
+#: includes/woo-views/html-product-download.php:7
+msgid "http://"
+msgstr "http://"
+
+#: includes/woo-views/html-product-download.php:3
+msgid "File Name"
+msgstr "Bestandsnaam"
+
+#: dokan.php:439
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: dokan.php:435
+msgid "Get Pro"
+msgstr "Neem Pro"
+
+#: includes/Dashboard/Templates/Settings.php:606
+msgid "Electronic"
+msgstr "Electronisch"
+
+#: includes/Dashboard/Templates/Settings.php:605
+msgid "Dress"
+msgstr "Jurk"
+
+#: includes/Dashboard/Templates/Settings.php:604
+msgid "Book"
+msgstr "Boek"
+
+#: includes/Dashboard/Templates/Settings.php:327
+msgid "Address field for %s is required"
+msgstr "Adres veld voor %s  is vereist. "
+
+#: includes/Dashboard/Templates/Settings.php:308
+#: includes/Dashboard/Templates/Settings.php:368
+#: includes/Dashboard/Templates/Settings.php:415
+#: includes/Dashboard/Templates/Settings.php:452
+msgid "Invalid email"
+msgstr "Onjuist e-mailadres"
+
+#: includes/Dashboard/Templates/Settings.php:300
+#: includes/Dashboard/Templates/Settings.php:360
+#: includes/Dashboard/Templates/Settings.php:407
+msgid "Store type required"
+msgstr "Winkeltype vereist"
+
+#: includes/Dashboard/Templates/Settings.php:294
+#: includes/Dashboard/Templates/Settings.php:401
+msgid "Store name required"
+msgstr "Winkelnaam vereist"
+
+#: includes/Dashboard/Templates/Settings.php:263
+msgid "Your information has been saved successfully"
+msgstr "Jouw informatie is succesvol opgeslagen"
+
+#: includes/Dashboard/Templates/Settings.php:81
+msgid "These are the withdraw methods available for you. Please update your payment information below to submit withdraw requests and get your store payments seamlessly."
+msgstr "Dit zijn de opties om een uitbetaling aan te vragen. Je kunt hier onder je betalingsinformatie bijwerken."
+
+#: includes/Dashboard/Templates/Settings.php:60
+msgid "Payment Settings"
+msgstr "Betalingsinstellingen"
+
+#: languages/dokan-lite.php:131 assets/js/dokan-upgrade.js:150
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "Wij bevelen aan om een backup te maken voordat je verder gaat. Weet je zeker dat je de updater nu wilt starten?"
+
+#: includes/Ajax.php:601
+msgid "Image could not be processed. Please go back and try again."
+msgstr "Afbeelding kon niet worden verwerkt. Ga terug en probeer opnieuw."
+
+#: includes/Ajax.php:514
+msgid "Error: Nonce verification failed"
+msgstr "Error: Nonce verificatie mislukt"
+
+#: includes/woo-views/html-product-download.php:14 includes/Ajax.php:469
+#: assets/js/vue-admin.js:3729 assets/js/vue-admin.js:3737
+#: assets/js/vue-admin.js:3756 assets/js/vue-admin.js:3767
+msgid "Delete"
+msgstr "Verwijder"
+
+#: includes/Ajax.php:343 includes/REST/StoreController.php:759
+msgid "Email sent successfully!"
+msgstr "E-mail is succesvol verzonden!"
+
+#: includes/Ajax.php:337 includes/template-tags.php:140
+msgid "Something went wrong!"
+msgstr "Er ging iets verkeerd!"
+
+#: includes/Ajax.php:325 includes/Ajax.php:330
+msgid "Please provide your name."
+msgstr "Geef a.u.b. uw naam op."
+
+#: includes/Ajax.php:268
+msgid "File %d"
+msgstr "Bestand %d"
+
+#: includes/Ajax.php:170 includes/Ajax.php:205
+msgid "You do not have permission to change this order"
+msgstr "Je hebt niet voldoende rechten om deze bestelling te wijzigen"
+
+#: includes/Ajax.php:160 includes/Ajax.php:195
+msgid "You have taken too long. Please go back and retry."
+msgstr "Het heeft te lang geduurd. Ga terug en probeer het opnieuw."
+
+#: includes/Ajax.php:156 includes/Ajax.php:191
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt niet voldoende rechten om deze pagina te bekijken."
+
+#: includes/Ajax.php:93
+msgid "Something wrong, please try again later"
+msgstr "Er is iets verkeerd, probeer het later opnieuw"
+
+#: includes/Vendor/SetupWizard.php:483
+msgid "Go to your Store Dashboard!"
+msgstr "Ga naar het dashboard van jouw winkel!"
+
+#: includes/Vendor/SetupWizard.php:478
+msgid "Your Store is Ready!"
+msgstr "Jouw winkel is klaar!"
+
+#: includes/Vendor/SetupWizard.php:374
+msgid "Payment Setup"
+msgstr "Betalingsinstellingen"
+
+#: includes/Vendor/SetupWizard.php:263
+msgid "Select an option&hellip;"
+msgstr "Selecteer een optie&hellip;"
+
+#: templates/admin-setup-wizard/step-store.php:101
+#: templates/admin-setup-wizard/step-selling.php:54
+#: includes/Admin/SetupWizard.php:525 includes/Vendor/SetupWizard.php:244
+#: includes/Vendor/SetupWizard.php:397
+msgid "Skip this step"
+msgstr "Sla deze stap over"
+
+#: templates/admin-setup-wizard/step-store.php:100
+#: templates/admin-setup-wizard/step-selling.php:53
+#: includes/Admin/SetupWizardWCAdmin.php:232 includes/Admin/SetupWizard.php:524
+#: includes/Admin/SetupWizard.php:565 includes/Vendor/SetupWizard.php:243
+#: includes/Vendor/SetupWizard.php:396
+msgid "Continue"
+msgstr "Ga door"
+
+#: includes/Vendor/SetupWizard.php:223
+msgid "State Name"
+msgstr "Staat"
+
+#: includes/Vendor/SetupWizard.php:208
+msgid "Post/Zip Code"
+msgstr "Postcode"
+
+#: includes/Vendor/SetupWizard.php:191
+msgid "Street"
+msgstr "Adres"
+
+#: templates/admin-setup-wizard/step-store.php:1
+#: includes/Vendor/SetupWizard.php:181
+msgid "Store Setup"
+msgstr "Winkelinstallatie"
+
+#: includes/Admin/SetupWizard.php:316 includes/Vendor/SetupWizard.php:156
+msgid "Not right now"
+msgstr "Nu nog niet"
+
+#: templates/admin-setup-wizard/step-no-wc-introduction.php:54
+#: includes/Admin/SetupWizard.php:315 includes/Vendor/SetupWizard.php:155
+msgid "Let's Go!"
+msgstr "Let's Go!"
+
+#: includes/Vendor/SetupWizard.php:153
+msgid "No time right now? If you don’t want to go through the wizard, you can skip and return to the Store!"
+msgstr "Geen tijd? Als je niet gebruik wilt maken van de wizard, dan kun je deze overslaan!"
+
+#: includes/Vendor/SetupWizard.php:152
+msgid "Thank you for choosing The Marketplace to power your online store! This quick setup wizard will help you configure the basic settings. <strong>It’s completely optional and shouldn’t take longer than two minutes.</strong>"
+msgstr "Bedankt voor het gebruiken van Dokan als jouw online winkel! Deze installatiewizard zal jou helpen om de basisinstellingen alvast in te vullen. <strong>Het is optioneel, maar sterk aangeraden. Het zal niet langer dan twee minuten duren.</strong>"
+
+#: includes/Vendor/SetupWizard.php:151
+msgid "Welcome to the Marketplace!"
+msgstr "Welkom op Dokan!"
+
+#: includes/Vendor/SetupWizard.php:138
+msgid "Return to the Marketplace"
+msgstr "Ga terug naar Dokan"
+
+#: includes/Vendor/SetupWizard.php:119
+msgid "Vendor &rsaquo; Setup Wizard"
+msgstr "Verkoper &rsaquo; installatiewizard"
+
+#: includes/Admin/SetupWizard.php:167 includes/Vendor/SetupWizard.php:85
+msgid "Ready!"
+msgstr "Klaar!"
+
+#: includes/Admin/SetupWizardNoWC.php:177 includes/template-tags.php:375
+#: includes/Vendor/SetupWizard.php:80
+msgid "Payment"
+msgstr "Betaling"
+
+#: includes/Admin/SetupWizard.php:147 includes/template-tags.php:368
+#: includes/Vendor/SetupWizard.php:75 assets/js/vue-admin.js:5855
+msgid "Store"
+msgstr "Winkel"
+
+#: includes/Admin/SetupWizard.php:143 includes/Vendor/SetupWizard.php:70
+msgid "Introduction"
+msgstr "Introductie"
+
+#: includes/Admin/UserProfile.php:348
+msgid "This vendor will be marked as a featured vendor."
+msgstr "Deze verkoper zal worden gemarkeerd als aanbevolen verkopen."
+
+#: includes/Admin/UserProfile.php:345
+msgid "Mark as featured vendor"
+msgstr "Markeer als uitgelichte verkoper"
+
+#: includes/Admin/UserProfile.php:340
+msgid "Featured vendor"
+msgstr "Aanbevolen verkoper"
+
+#: includes/Admin/UserProfile.php:315
+msgid "Bypass pending, publish products directly"
+msgstr "Omzeil de wachtrij en publiceer deze producten direct"
+
+#: includes/Admin/UserProfile.php:312
+msgid "Publish product directly"
+msgstr "Publiceer product direct"
+
+#: includes/Admin/UserProfile.php:307
+msgid "Publishing"
+msgstr "Publiceren"
+
+#: includes/Admin/UserProfile.php:302
+msgid "Enable or disable product adding capability"
+msgstr "Zet producten toe kunnen voegen aan of uit"
+
+#: includes/Admin/UserProfile.php:299
+msgid "Enable Adding Products"
+msgstr "Zet producten toevoegen aan"
+
+#: includes/Admin/UserProfile.php:294 includes/Admin/SetupWizard.php:152
+msgid "Selling"
+msgstr "Verkopen"
+
+#: includes/Admin/UserProfile.php:287
+msgid "Bank Swift "
+msgstr "Bank Swiftcode"
+
+#: includes/Admin/UserProfile.php:269
+msgid "Bank Address "
+msgstr "Bank adresgegevens"
+
+#: includes/Admin/UserProfile.php:263
+msgid "Account Number "
+msgstr "Rekeningnummer"
+
+#: includes/Admin/UserProfile.php:257
+msgid "Account Name "
+msgstr "Naam rekeninghouder"
+
+#: includes/Admin/UserProfile.php:251
+msgid "Bank name "
+msgstr "Bank naam"
+
+#: includes/Admin/UserProfile.php:242
+msgid "Skrill Email "
+msgstr "Skrill Email"
+
+#: includes/Admin/UserProfile.php:234
+msgid "Paypal Email "
+msgstr "Paypal Email"
+
+#: includes/Admin/UserProfile.php:229
+msgid "Payment Options : "
+msgstr "Betalingsopties:"
+
+#: includes/Admin/UserProfile.php:170
+msgid "Zip Code"
+msgstr "Postcode"
+
+#: includes/Admin/UserProfile.php:163
+msgid "Town/City"
+msgstr "Woonplaats"
+
+#: includes/Admin/UserProfile.php:156 includes/Privacy.php:217
+msgid "Address 2"
+msgstr "Adres 2"
+
+#: includes/Admin/UserProfile.php:149 includes/Privacy.php:216
+msgid "Address 1"
+msgstr "Adres 1"
+
+#: includes/Admin/UserProfile.php:134
+msgid "Store name"
+msgstr "Winkelnaam"
+
+#: includes/Admin/UserProfile.php:122
+msgid "Upload a banner for your store. Banner size is (%1$sx%2$s) pixels."
+msgstr "Upload een banner voor je winkel. Banner grootte is (%1$sx%2$s) pixels."
+
+#: includes/Admin/UserProfile.php:106
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/Admin/UserProfile.php:101
+msgid "Dokan Options"
+msgstr "Dokan opties"
+
+#: includes/Admin/UserProfile.php:96
+msgid "State/County or state code"
+msgstr "Gemeente or gemeentecode"
+
+#: includes/Admin/UserProfile.php:95
+msgid "State/County"
+msgstr "Gemeente"
+
+#: includes/Admin/UserProfile.php:92
+msgid "Select a country&hellip;"
+msgstr "Selecteer een land&hellip;"
+
+#: includes/Dashboard/Templates/Products.php:411
+msgid "No product found!"
+msgstr "Geen product gevonden!"
+
+#: includes/Product/functions.php:42
+#: includes/Dashboard/Templates/Products.php:256
+#: includes/Dashboard/Templates/Products.php:404
+msgid "Please select AT LEAST ONE category"
+msgstr "Kies a.u.b. minimaal één categorie"
+
+#: includes/Product/functions.php:38
+#: includes/Dashboard/Templates/Products.php:251
+#: includes/Dashboard/Templates/Products.php:399
+msgid "Please select a category"
+msgstr "Selecteer a.u.b. een categorie"
+
+#: includes/Product/functions.php:33
+#: includes/Dashboard/Templates/Products.php:244
+#: includes/Dashboard/Templates/Products.php:392
+msgid "Please enter product title"
+msgstr "Geef a.u.b. de titel van het Product"
+
+#: includes/Dashboard/Templates/Products.php:235
+msgid "Details of your product ..."
+msgstr "Details van je product ..."
+
+#: includes/Product/functions.php:434
+#: includes/Dashboard/Templates/Products.php:202
+msgid "Delete Permanently"
+msgstr "Verwijder permanent"
+
+#: includes/Install/Installer.php:163
+msgid "Store List"
+msgstr "Overzicht winkels"
+
+#: includes/Dashboard/Templates/Withdraw.php:498
+#: includes/Dashboard/Templates/Withdraw.php:524
+msgid "Sorry, no transactions were found!"
+msgstr "Sorry, er zijn geen transacties gevonden."
+
+#: includes/Dashboard/Templates/Withdraw.php:438
+msgid "You don't have sufficient balance for a withdraw request!"
+msgstr "Je hebt niet voldoende saldo voor dit opnameverzoek!"
+
+#: includes/Dashboard/Templates/Withdraw.php:428
+msgid "Please submit your request after approval or cancellation of your previous request."
+msgstr "Vul je aanvraag pas weer in nadat je vorige aanvraag is goed- of afgekeurd."
+
+#: includes/Dashboard/Templates/Withdraw.php:428
+msgid "You already have pending withdraw request(s)."
+msgstr "Je hebt al een uitbetaling aangevraagd. "
+
+#: includes/Dashboard/Templates/Withdraw.php:383
+msgid "Unknown error!"
+msgstr "Onbekende fout!"
+
+#: includes/Dashboard/Templates/Withdraw.php:379
+msgid "Your request has been received successfully and being reviewed!"
+msgstr "Je aanvraag is succesvol ontvangen en wordt bekeken!"
+
+#: includes/Dashboard/Templates/Withdraw.php:375
+msgid "Your request has been cancelled successfully!"
+msgstr "Jouw verzoek was succesvol geannuleerd!"
+
+#: includes/Withdraw/Manager.php:45
+msgid "Withdraw amount must be greater than %d"
+msgstr "Bedrag voor opname moet groter zijn dan %d"
+
+#: includes/Withdraw/Manager.php:41
+msgid "You don't have enough balance for this request"
+msgstr "Je hebt niet voldoende saldo voor dit verzoek"
+
+#: includes/Withdraw/Manager.php:37
+msgid "Withdraw amount required "
+msgstr "Bedrag voor opname verplicht"
+
+#: includes/Ajax.php:108 includes/Dashboard/Templates/Withdraw.php:106
+#: includes/Dashboard/Templates/Withdraw.php:165
+#: includes/Dashboard/Templates/Settings.php:211
+#: includes/Dashboard/Templates/Settings.php:225
+#: includes/Dashboard/Templates/Settings.php:237
+#: includes/Dashboard/Templates/Settings.php:249
+#: includes/Dashboard/Templates/Settings.php:286
+#: includes/Dashboard/Templates/Settings.php:352
+#: includes/Dashboard/Templates/Settings.php:393
+#: includes/Dashboard/Templates/Settings.php:443
+msgid "Are you cheating?"
+msgstr "Hou je ons voor de gek?"
+
+#: includes/Dashboard/Templates/Withdraw.php:318
+msgid "<br>Withdraw Threshold: %d days "
+msgstr "<br>Opnamedrempel: %d days "
+
+#: includes/Dashboard/Templates/Withdraw.php:314
+msgid "<br>Minimum Withdraw amount: %s "
+msgstr "<br>Minimaal opnamebedrag: %s "
+
+#: includes/Dashboard/Templates/Withdraw.php:311
+msgid "Current Balance: %s "
+msgstr "Huidige balans: %s "
+
+#: templates/widgets/store-contact-form.php:30
+msgid "Send Message"
+msgstr "Stuur bericht"
+
+#: templates/widgets/store-contact-form.php:21
+msgid "Type your messsage..."
+msgstr "Typ uw bericht..."
+
+#: templates/widgets/store-contact-form.php:18
+msgid "you@example.com"
+msgstr "jij@voorbeeld.com"
+
+#: templates/widgets/store-contact-form.php:15
+#: includes/REST/StoreController.php:132
+msgid "Your Name"
+msgstr "Uw naam"
+
+#: templates/widgets/widget-content-product.php:44
+msgid "No products found"
+msgstr "Geen producten gevonden"
+
+#: templates/global/seller-warning.php:12
+#: includes/Dashboard/Templates/Withdraw.php:125
+msgid "Your account is not enabled for selling, please contact the admin"
+msgstr "Jouw account is niet ingericht om te verkopen, neem contact op met de beheerder"
+
+#: templates/global/product-tab.php:36
+msgid "Address:"
+msgstr "Adres:"
+
+#: templates/global/product-tab.php:27
+msgid "Vendor:"
+msgstr "Verkoper"
+
+#: templates/global/product-tab.php:18
+msgid "Store Name:"
+msgstr "Shopnaam:"
+
+#: templates/global/product-tab.php:11
+msgid "Vendor Information"
+msgstr "Informatie verkoper"
+
+#: templates/global/seller-registration-form.php:67
+msgid "I am a vendor"
+msgstr "Ik ben een verkoper"
+
+#: templates/global/seller-registration-form.php:62
+msgid "I am a customer"
+msgstr "Ik ben klant"
+
+#: templates/global/header-menu.php:59
+msgid "Sign Up"
+msgstr "Registreer"
+
+#: templates/global/header-menu.php:58
+msgid "Log in"
+msgstr "Log in"
+
+#: templates/global/header-menu.php:48 includes/template-tags.php:491
+msgid "Edit Account"
+msgstr "Pas account aan"
+
+#: templates/global/header-menu.php:47
+msgid "My Account"
+msgstr "Mijn account"
+
+#: templates/global/header-menu.php:46 includes/Install/Installer.php:169
+#: includes/Admin/Settings.php:419
+msgid "My Orders"
+msgstr "Mijn bestellingen"
+
+#: templates/global/header-menu.php:32
+msgid "Visit your store"
+msgstr "Bezoek jouw winkel"
+
+#: templates/global/header-menu.php:29
+msgid "Vendor Dashboard"
+msgstr "Verkopers dashboard"
+
+#: templates/global/header-menu.php:13
+msgid "Cart %s"
+msgstr "Winkelwagen %s"
+
+#: templates/seller-search-form.php:8
+msgid "Search seller &hellip;"
+msgstr "Zoek verkoper &hellip;"
+
+#: templates/seller-search-form.php:8
+msgid "Search Vendor &hellip;"
+msgstr "Zoek verkoper &hellip;"
+
+#: templates/seller-search-form.php:2
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: templates/sub-orders.php:17
+msgid ""
+"This order has products from multiple vendors. So we divided this order into multiple vendor orders.\n"
+"    Each order will be handled by their respective vendor independently."
+msgstr "Deze bestelling bestaat uit producten van meerdere verkopers. Daarom hebben wij uw bestelling over meerdere verkopers verdeeld."
+
+#: templates/sub-orders.php:16
+msgid "Note:"
+msgstr "Notitie:"
+
+#: templates/sub-orders.php:12
+msgid "Sub Orders"
+msgstr "Sub-bestellingen"
+
+#: templates/my-orders.php:106
+msgid "No orders found!"
+msgstr "Geen bestellingen gevonden!"
+
+#: templates/my-orders.php:77
+msgid "Pay"
+msgstr "Betaal"
+
+#: templates/my-orders.php:65
+msgid "Multiple Vendor"
+msgstr "Meerdere verkopers"
+
+#: templates/my-orders.php:55 templates/sub-orders.php:51
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s van %s item"
+msgstr[1] "%s van %s items"
+
+#: templates/my-orders.php:31 includes/Install/Installer.php:93
+#: includes/Admin/Hooks.php:78 includes/Admin/Hooks.php:84
+#: includes/Admin/Hooks.php:367 includes/Admin/Hooks.php:384
+#: includes/Admin/SetupWizard.php:336 includes/Admin/Settings.php:340
+#: includes/Admin/Settings.php:348 includes/wc-template.php:17
+#: includes/wc-template.php:150 includes/wc-template.php:292
+#: assets/js/vue-admin.js:3681
+msgid "Vendor"
+msgstr "Verkoper"
+
+#: templates/my-orders.php:21
+msgid "Recent Orders"
+msgstr "Recente bestellingen"
+
+#: templates/store-lists-loop.php:129
+msgid "No vendor found!"
+msgstr "Geen verkoper gevonden!"
+
+#: templates/store-lists-loop.php:103 includes/template-tags.php:120
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+#: templates/store-lists-loop.php:102 includes/template-tags.php:105
+#: includes/template-tags.php:109
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#: templates/store-lists-loop.php:43
+msgid "Rated %s out of 5"
+msgstr "Beoordeeld met een %s van de 5"
+
+#: templates/store-lists-loop.php:33
+msgid "Featured"
+msgstr "Aanbevolen"
+
+#: templates/store.php:52
+msgid "No products were found of this vendor!"
+msgstr "Geen producten gevonden van deze verkoper!"
+
+#: templates/withdraw/header.php:11 includes/Admin/AdminBar.php:54
+#: includes/Admin/Menu.php:32 includes/Admin/Menu.php:43
+#: includes/Admin/SetupWizard.php:157 includes/functions.php:2961
+#: includes/template-tags.php:345
+msgid "Withdraw"
+msgstr "Opname"
+
+#: templates/withdraw/request-form.php:42
+msgid "Submit Request"
+msgstr "Verstuur Verzoek"
+
+#: templates/emails/vendor-new-order.php:111
+#: templates/withdraw/request-form.php:27
+msgid "Payment Method"
+msgstr "Betaalmethode"
+
+#: templates/withdraw/request-form.php:14
+msgid "Withdraw Amount"
+msgstr "Opnamebedrag"
+
+#: templates/withdraw/pending-request-listing.php:43
+msgid "Accepted"
+msgstr "Geaccepteerd"
+
+#: templates/withdraw/cancelled-request-listing.php:17
+#: assets/js/vue-admin.js:3696
+msgid "Note"
+msgstr "Notitie"
+
+#: templates/withdraw/approved-request-listing.php:15
+#: templates/withdraw/cancelled-request-listing.php:15
+#: templates/withdraw/pending-request-listing.php:15
+#: assets/js/vue-admin.js:3690
+msgid "Method"
+msgstr "Methode"
+
+#: templates/withdraw/approved-request-listing.php:14
+#: templates/withdraw/cancelled-request-listing.php:14
+#: templates/withdraw/pending-request-listing.php:14
+#: assets/js/vue-admin.js:3684
+msgid "Amount"
+msgstr "Hoeveelheid"
+
+#: templates/withdraw/status-listing.php:18
+msgid "Cancelled Requests"
+msgstr "Geannuleerde verzoeken"
+
+#: templates/withdraw/status-listing.php:15
+msgid "Approved Requests"
+msgstr "Goedgekeurde verzoeken"
+
+#: templates/withdraw/status-listing.php:12
+msgid "Withdraw Request"
+msgstr "Opnameverzoek"
+
+#: templates/dashboard/edit-account.php:94
+msgid "Save changes"
+msgstr "Sla wijzigingen op"
+
+#: templates/dashboard/edit-account.php:83
+msgid "Confirm New Password"
+msgstr "Nieuw wachtwoord bevestigen"
+
+#: templates/dashboard/edit-account.php:78
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "Nieuw wachtwoord (leeg laten om niets te veranderen)"
+
+#: templates/dashboard/edit-account.php:73
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "Huidige wachtwoord (leeg laten om niets te veranderen)"
+
+#: templates/dashboard/edit-account.php:70
+msgid "Password Change"
+msgstr "Wachtwoord aanpassen"
+
+#: templates/dashboard/edit-account.php:59
+msgid "Last name"
+msgstr "Achternaam"
+
+#: templates/dashboard/edit-account.php:54
+msgid "First name"
+msgstr "Voornaam"
+
+#: templates/dashboard/edit-account.php:47
+msgid "Edit Account Details"
+msgstr "Accountgegevens aanpassen"
+
+#: templates/dashboard/orders-widget.php:51
+msgid "On hold"
+msgstr "In de wacht"
+
+#: templates/dashboard/orders-widget.php:46 includes/Order/functions.php:510
+#: includes/Dashboard/Templates/Dashboard.php:121
+msgid "Refunded"
+msgstr "Terugbetaald"
+
+#: templates/dashboard/orders-widget.php:41 includes/Order/functions.php:515
+#: includes/Dashboard/Templates/Dashboard.php:116
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+#: templates/dashboard/orders-widget.php:31
+#: includes/Dashboard/Templates/Dashboard.php:106 assets/js/vue-admin.js:3740
+#: assets/js/vue-admin.js:3764
+msgid "Pending"
+msgstr "In behandeling"
+
+#: templates/dashboard/orders-widget.php:26 includes/Admin/SetupWizard.php:502
+#: includes/Order/functions.php:490
+#: includes/Dashboard/Templates/Dashboard.php:101
+msgid "Completed"
+msgstr "Afgerond"
+
+#: templates/dashboard/orders-widget.php:15 includes/template-tags.php:337
+#: includes/REST/AdminReportController.php:146 assets/js/vue-admin.js:5881
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: templates/dashboard/products-widget.php:41
+#: templates/withdraw/pending-request-listing.php:41 includes/functions.php:764
+msgid "Pending Review"
+msgstr "Wachtend op goedkeuring"
+
+#: templates/dashboard/products-widget.php:36
+msgid "Offline"
+msgstr "Offline"
+
+#: templates/dashboard/products-widget.php:31
+msgid "Live"
+msgstr "Live"
+
+#: templates/dashboard/products-widget.php:19
+msgid "+ Add new product"
+msgstr "+ Voeg nieuw product toe"
+
+#: templates/dashboard/products-widget.php:16 includes/functions.php:1206
+#: includes/template-tags.php:330 assets/js/vue-admin.js:5878
+msgid "Products"
+msgstr "Producten"
+
+#: templates/dashboard/sales-chart-widget.php:15
+msgid "Sales this Month"
+msgstr "Verkopen deze maand"
+
+#: templates/dashboard/big-counter-widget.php:25
+msgid "Pageview"
+msgstr "Pageviews"
+
+#: templates/dashboard/big-counter-widget.php:17 includes/reports.php:366
+msgid "Sales"
+msgstr "Verkopen"
+
+#: templates/orders/date-export.php:50
+msgid "Export Filtered"
+msgstr "Exporteer gefilterde resultaten"
+
+#: templates/orders/date-export.php:49
+msgid "Export All"
+msgstr "Exporteer alles"
+
+#: templates/orders/order-download-permission-html.php:40
+msgid "Never"
+msgstr "Nooit"
+
+#: templates/orders/order-download-permission-html.php:39
+msgid "Access Expires"
+msgstr "Toegang verloopt"
+
+#: templates/orders/order-download-permission-html.php:36
+msgid "Unlimited"
+msgstr "Geen limiet"
+
+#: templates/orders/order-download-permission-html.php:33
+msgid "Downloads Remaining"
+msgstr "Resterende downloads"
+
+#: templates/orders/order-download-permission-html.php:30
+msgid "%s time"
+msgid_plural "%s times"
+msgstr[0] "%s tijd"
+msgstr[1] "%s tijden"
+
+#: templates/orders/order-download-permission-html.php:28
+msgid "Downloaded"
+msgstr "Gedownload"
+
+#: templates/orders/order-download-permission-html.php:17
+msgid "Revoke Access"
+msgstr "Verwijder toegang"
+
+#: templates/orders/order-download-permission-html.php:7
+msgid "File %d: %s"
+msgstr "Bestand %d: %s"
+
+#: templates/orders/details.php:352
+msgid "Add Tracking Details"
+msgstr "Voeg trackingdetails toe"
+
+#: templates/orders/details.php:342
+msgid "Date Shipped"
+msgstr "Datum verzonden"
+
+#: templates/orders/details.php:332
+msgid "Shipping Provider Name / URL"
+msgstr "Naam / URL leveringsdienst"
+
+#: templates/orders/details.php:328 templates/orders/details.php:337
+msgid "Tracking Number"
+msgstr "Trackingnummer"
+
+#: templates/orders/details.php:321 assets/js/vue-admin.js:7409
+#: assets/js/vue-admin.js:7433 assets/js/vue-admin.js:7478
+msgid "Add Note"
+msgstr "Voeg notitie toe"
+
+#: templates/orders/details.php:313
+msgid "Private note"
+msgstr "Privé notitie"
+
+#: templates/orders/details.php:312
+msgid "Customer note"
+msgstr "Klantnotitie"
+
+#: templates/orders/details.php:304
+msgid "Add note"
+msgstr "Voeg notitie toe"
+
+#: templates/orders/details.php:295
+msgid "There are no notes for this order yet."
+msgstr "Er zijn nog geen notities voor deze bestelling."
+
+#: templates/orders/details.php:288 includes/Ajax.php:402
+msgid "Delete note"
+msgstr "Verwijder notitie"
+
+#: templates/orders/details.php:286
+msgid "added %s ago"
+msgstr "%s geleden toegevoegd"
+
+#: templates/orders/details.php:262
+msgid "Order Notes"
+msgstr "Notities bestellingen"
+
+#: templates/orders/details.php:251
+msgid "Customer Note:"
+msgstr "Klantnotitie:"
+
+#: templates/orders/details.php:237
+msgid "Customer IP:"
+msgstr "Klant IP:"
+
+#: templates/orders/details.php:233
+msgid "Phone:"
+msgstr "Telefoon:"
+
+#: templates/orders/details.php:229
+msgid "Email:"
+msgstr "Email:"
+
+#: templates/orders/details.php:216
+msgid "Customer:"
+msgstr "Klant:"
+
+#: templates/orders/details.php:205
+msgid "Order Date:"
+msgstr "Datum bestelling:"
+
+#: languages/dokan-lite.php:132 templates/orders/details.php:197
+#: assets/js/dokan-upgrade.js:167
+msgid "Update"
+msgstr "Update"
+
+#: templates/orders/details.php:179
+msgid "&nbsp; Edit"
+msgstr "&nbsp; Aanpassen"
+
+#: templates/orders/details.php:175
+msgid "Order Status:"
+msgstr "Status bestelling:"
+
+#: templates/orders/details.php:171
+msgid "General Details"
+msgstr "Algemene details"
+
+#: templates/orders/details.php:156
+msgid "Downloadable Product Permission"
+msgstr "Downloadable Product Permissie"
+
+#: templates/orders/details.php:139 templates/global/header-menu.php:51
+msgid "Shipping Address"
+msgstr "Verzendadres"
+
+#: templates/orders/details.php:124 templates/global/header-menu.php:50
+msgid "Billing Address"
+msgstr "Factuuradres"
+
+#: templates/orders/details.php:97
+msgid "Coupons"
+msgstr "Coupons"
+
+#: templates/orders/details.php:38
+msgid "Totals"
+msgstr "Totalen"
+
+#: templates/orders/details.php:36
+msgid "Qty"
+msgstr "Hoeveelheid"
+
+#: templates/orders/details.php:32
+msgid "Item"
+msgstr "Artikel"
+
+#: templates/orders/details.php:21 includes/Order/functions.php:762
+msgid "Order Items"
+msgstr "Bestelling Items"
+
+#: templates/orders/details.php:7
+msgid "This is not yours, I swear!"
+msgstr "Deze is niet van jou!"
+
+#: templates/emails/vendor-new-order.php:120
+#: templates/orders/order-fee-html.php:17
+#: templates/dashboard/products-widget.php:26
+#: templates/dashboard/orders-widget.php:21 templates/my-orders.php:30
+#: templates/sub-orders.php:28 includes/REST/AdminReportController.php:138
+msgid "Total"
+msgstr "Totaal"
+
+#: templates/orders/order-fee-html.php:10
+msgid "Fee Name"
+msgstr "Fee naam"
+
+#: templates/orders/downloadable.php:67
+msgid "Grant Access"
+msgstr "Geef toegang"
+
+#: templates/orders/downloadable.php:38
+msgid "Choose a downloadable product&hellip;"
+msgstr "Kies een downloadbaar product&hellip;"
+
+#: templates/orders/orders-status-filter.php:14
+msgid "&larr; Orders"
+msgstr "&larr; Bestellingen"
+
+#: templates/orders/listing.php:221
+msgid "No orders found"
+msgstr "Geen bestellingen gevonden"
+
+#: templates/orders/listing.php:157 templates/my-orders.php:88
+#: templates/sub-orders.php:59 includes/Product/functions.php:443
+msgid "View"
+msgstr "Bekijk"
+
+#: templates/orders/listing.php:147
+msgid "Complete"
+msgstr "Volledig"
+
+#: templates/orders/listing.php:138 templates/dashboard/orders-widget.php:36
+#: includes/Admin/SetupWizard.php:508 includes/Order/functions.php:505
+#: includes/Dashboard/Templates/Dashboard.php:111
+msgid "Processing"
+msgstr "Verwerken"
+
+#: templates/orders/listing.php:102
+msgid "Guest"
+msgstr "Gast"
+
+#: templates/orders/listing.php:72 templates/orders/listing.php:74
+msgid "Order %s"
+msgstr "Bestelling %s"
+
+#: templates/orders/listing.php:54 templates/orders/listing.php:83
+msgid "Customer"
+msgstr "Klant"
+
+#: templates/orders/listing.php:52 templates/orders/listing.php:77
+#: includes/Order/functions.php:766
+msgid "Order Total"
+msgstr "Totaal bestelling"
+
+#: templates/orders/listing.php:51 templates/orders/listing.php:70
+#: templates/orders/details.php:21
+#: templates/dashboard/big-counter-widget.php:29 templates/my-orders.php:27
+#: templates/sub-orders.php:25 includes/functions.php:2958
+msgid "Order"
+msgstr "Bestelling"
+
+#: templates/orders/listing.php:11
+#: includes/Dashboard/Templates/Products.php:201
+msgid "Bulk Actions"
+msgstr "Bulk acties"
+
+#: templates/orders/order-tax-html.php:20
+msgid "Shipping Tax:"
+msgstr "Verzendbelasting:"
+
+#: templates/orders/order-tax-html.php:16
+msgid "Sales Tax:"
+msgstr "Verkoopbelasting:"
+
+#: templates/orders/order-tax-html.php:8
+msgid "N/A"
+msgstr "N.V.T."
+
+#: templates/orders/order-tax-html.php:6
+msgid "Tax Rate:"
+msgstr "Belastingspercentage:"
+
+#: templates/store-toc.php:30
+msgid "Terms And Conditions"
+msgstr "Algemene voorwaarden"
+
+#: templates/store-sidebar.php:27 includes/Widgets/StoreContactForm.php:40
+#: includes/Widgets/StoreContactForm.php:114
+msgid "Contact Vendor"
+msgstr "Neem contact op met verkoper"
+
+#: templates/store-sidebar.php:19 includes/Widgets/StoreLocation.php:40
+#: includes/Widgets/StoreLocation.php:98
+msgid "Store Location"
+msgstr "Winkellocatie"
+
+#: templates/account/vendor-registration.php:67
+#: templates/global/seller-registration-form.php:49
+msgid "I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; Conditions</a>."
+msgstr "Ik bevestig dat ik de <a target=\"_blank\" href=\"%s\">Algemene voorwaarden</a> heb gelezen en hiermee akkoord ga."
+
+#: templates/account/vendor-registration.php:52
+#: templates/global/seller-registration-form.php:31
+msgid "Shop URL"
+msgstr "Shop URL"
+
+#: templates/account/vendor-registration.php:47
+#: templates/global/seller-registration-form.php:26
+msgid "Shop Name"
+msgstr "Shopnaam"
+
+#: templates/account/vendor-registration.php:27
+#: templates/dashboard/edit-account.php:65 includes/wc-functions.php:868
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: templates/products/download-virtual.php:9
+msgid "Virtual products are intangible and aren't shipped."
+msgstr "Virtuele producten zijn niet tastbaar en worden niet verzonden."
+
+#: templates/products/download-virtual.php:4
+msgid "Downloadable products give access to a file upon purchase."
+msgstr "Downloadbare producten geven toegang tot een bestand bij aankoop."
+
+#: templates/products/others.php:49
+msgid "Enable product reviews"
+msgstr "Activeer productbeoordelingen"
+
+#: templates/products/others.php:44
+msgid "Customer will get this info in their order email"
+msgstr "Klanten krijg dit te zien in hun bestellingsemail."
+
+#: templates/products/others.php:43
+msgid "Purchase Note"
+msgstr "Aankoopnotitie"
+
+#: templates/products/others.php:32
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: templates/products/others.php:17 includes/functions.php:763
+msgid "Draft"
+msgstr "Kladversie"
+
+#: templates/products/others.php:16 includes/functions.php:762
+msgid "Online"
+msgstr "Online"
+
+#: templates/products/others.php:13
+msgid "Product Status"
+msgstr "Productstatus"
+
+#: templates/products/others.php:4
+msgid "Set your extra product options"
+msgstr "Stel de extra productopties in"
+
+#: templates/products/others.php:3
+msgid "Other Options"
+msgstr "Andere opties"
+
+#: templates/products/new-product-single.php:433
+#: templates/products/new-product-single.php:434
+msgid "Save Product"
+msgstr "Product opslaan"
+
+#: templates/products/new-product-single.php:412
+msgid "Short Description"
+msgstr "Korte beschrijving"
+
+#: templates/products/new-product-single.php:313
+msgid "Tags"
+msgstr "Labels"
+
+#: templates/products/new-product-single.php:282
+msgid "Please choose a category!"
+msgstr "Kies een categorie!"
+
+#: templates/products/new-product-single.php:254
+#: templates/products/new-product-single.php:287
+msgid "Category"
+msgstr "Categorie"
+
+#: templates/products/new-product-single.php:209
+#: templates/products/new-product-single.php:222
+msgid "0.00"
+msgstr "0.00"
+
+#: templates/products/new-product-single.php:200
+msgid " You Earn : "
+msgstr "Je verdient :"
+
+#: templates/products/new-product-single.php:179
+msgid "Choose Variable if your product has multiple attributes - like sizes, colors, quality etc"
+msgstr "Kies Variabel wanneer het product meerdere eigenschappen heeft, zoals maten, kleuren, kwaliteit etc"
+
+#: templates/products/new-product-single.php:179
+msgid "Product Type"
+msgstr "Producttype"
+
+#: templates/products/new-product-single.php:167
+msgid "Please enter product title!"
+msgstr "Voer een producttitel in!"
+
+#: templates/products/new-product-single.php:164
+msgid "Title"
+msgstr "Titel"
+
+#: templates/products/new-product-single.php:141
+msgid "View Product &rarr;"
+msgstr "Bekijk product &rarr;"
+
+#: templates/products/new-product-single.php:138
+msgid "The product has been saved successfully."
+msgstr "Het product is succesvol opgeslagen."
+
+#: templates/products/new-product-single.php:119
+#: includes/Product/functions.php:313
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: templates/products/new-product-single.php:114
+msgid "View Product"
+msgstr "Toon product"
+
+#: templates/products/new-product-single.php:107
+msgid "Edit Product"
+msgstr "Product bewerken"
+
+#: templates/products/new-product-single.php:35
+msgid "Access Denied"
+msgstr "Toegang geweigerd"
+
+#: templates/products/new-product-single.php:11
+msgid "Access Denied, No product found"
+msgstr "Toegang geweigerd, geen product gevonden"
+
+#: templates/products/tmpl-add-product-popup.php:175
+msgid "Create & add new"
+msgstr "Nieuw aanmaken & toevoegen"
+
+#: templates/products/tmpl-add-product-popup.php:174
+msgid "Create product"
+msgstr "Maak product aan"
+
+#: templates/products/tmpl-add-product-popup.php:167
+msgid "Enter some short description about this product..."
+msgstr "Voeg een korte beschrijving van dit product toe..."
+
+#: templates/products/tmpl-add-product-popup.php:23
+#: templates/products/new-product-single.php:360
+msgid "Upload a product cover image"
+msgstr "Upload een productafbeelding"
+
+#: templates/products/downloadable.php:61
+msgid "Number of days"
+msgstr "Aantal dagen"
+
+#: templates/products/downloadable.php:60
+msgid "Download Expiry"
+msgstr "Download verstrijken"
+
+#: templates/products/downloadable.php:56
+msgid "e.g. 4"
+msgstr "b.v. 4"
+
+#: templates/products/downloadable.php:55
+msgid "Download Limit"
+msgstr "Downloadlimiet"
+
+#: templates/products/downloadable.php:37 templates/orders/listing.php:57
+#: templates/orders/listing.php:128
+msgid "Action"
+msgstr "Actie"
+
+#: templates/products/downloadable.php:36
+msgid "This is the URL or absolute path to the file which customers will get access to."
+msgstr "Dit is de URL of het relatieve pad waar jouw klanten toegang tot krijgen."
+
+#: templates/products/downloadable.php:36
+msgid "File URL"
+msgstr "Bestand URL"
+
+#: templates/products/downloadable.php:35
+msgid "This is the name of the download shown to the customer."
+msgstr "Dit is de naam die getoond wordt aan de klant."
+
+#: templates/products/downloadable.php:29
+msgid "Add File"
+msgstr "Voeg bestand toe"
+
+#: templates/products/downloadable.php:4
+msgid "Configure your downloadable product settings"
+msgstr "Stel de downloadbare productinstellingen in"
+
+#: templates/products/downloadable.php:3
+msgid "Downloadable Options"
+msgstr "Downloadbare opties"
+
+#: templates/products/products-listing.php:195
+msgid "Next &raquo;"
+msgstr "Volgende &raquo;"
+
+#: templates/products/products-listing.php:194
+msgid "&laquo; Previous"
+msgstr "&laquo; Vorige"
+
+#: templates/products/products-listing.php:171
+msgid "No product found"
+msgstr "Geen product gevonden"
+
+#: templates/products/products-listing.php:78 templates/orders/listing.php:41
+#: templates/store-lists-filter.php:82
+msgid "Apply"
+msgstr "Voer door"
+
+#: templates/products/products-listing.php:46
+msgid "Add new product"
+msgstr "Voeg nieuw product toe"
+
+#: templates/products/new-product.php:290
+msgid "Create Product"
+msgstr "Maak product aan"
+
+#: templates/products/new-product.php:289
+msgid "Create & Add New"
+msgstr "Maak nieuw product aan en voeg toe"
+
+#: templates/products/new-product.php:279
+msgid "Add your product description"
+msgstr "Voeg productomschrijving toe"
+
+#: templates/products/new-product.php:279
+#: templates/products/new-product-single.php:417
+msgid "Description"
+msgstr "Omschrijving"
+
+#: templates/products/new-product.php:270
+#: templates/products/tmpl-add-product-popup.php:160
+#: templates/products/new-product-single.php:333
+msgid "Select product tags"
+msgstr "Selecteer productlabels"
+
+#: templates/products/new-product.php:243
+#: templates/products/tmpl-add-product-popup.php:137
+#: templates/products/new-product-single.php:307
+msgid "Select product category"
+msgstr "Selecteer productcategorie"
+
+#: templates/products/new-product.php:195
+msgid "Short description of the product..."
+msgstr "Korte beschrijving van het product..."
+
+#: templates/products/new-product.php:187
+#: templates/products/tmpl-add-product-popup.php:88
+#: templates/products/new-product-single.php:243
+msgid "To"
+msgstr "Aan"
+
+#: templates/products/new-product.php:180
+#: templates/products/tmpl-add-product-popup.php:81
+#: templates/products/new-product-single.php:236
+msgid "From"
+msgstr "Van"
+
+#: templates/products/new-product.php:166
+#: templates/products/tmpl-add-product-popup.php:67
+#: templates/products/new-product-single.php:216
+msgid "Schedule"
+msgstr "Plan"
+
+#: templates/products/new-product.php:165
+#: templates/products/tmpl-add-product-popup.php:66
+#: templates/products/new-product-single.php:215
+msgid "Discounted Price"
+msgstr "Aanbiedingsprijs"
+
+#: templates/products/new-product.php:150
+#: templates/products/tmpl-add-product-popup.php:51
+#: templates/products/new-product-single.php:165
+msgid "Product name.."
+msgstr "Productnaam.."
+
+#: templates/products/new-product.php:138
+#: templates/products/tmpl-add-product-popup.php:38
+#: templates/products/new-product-single.php:398
+msgid "Add gallery image"
+msgstr "Voeg afbeelding toe"
+
+#: templates/products/new-product.php:131
+#: templates/products/new-product-single.php:392
+msgid "Delete image"
+msgstr "Verwijder afbeelding"
+
+#: templates/products/new-product.php:102
+msgid "Upload Product Image"
+msgstr "Upload productafbeelding"
+
+#: templates/products/new-product.php:71
+msgid "You have successfully created <a href=\"%s\"><strong>%s</strong></a> product"
+msgstr "Je hebt succesvol <a href=\"%s\"><strong>%s</strong></a> product aangemaakt"
+
+#: templates/products/new-product.php:70
+#: templates/products/new-product-single.php:138 assets/js/vue-admin.js:6011
+msgid "Success!"
+msgstr "Succes!"
+
+#: templates/products/new-product.php:61
+#: templates/products/new-product-single.php:130
+#: templates/global/seller-warning.php:11
+msgid "Error!"
+msgstr "Fout!"
+
+#: templates/products/new-product.php:49
+#: templates/products/tmpl-add-product-popup.php:8
+msgid "Add New Product"
+msgstr "Voeg nieuw product toe"
+
+#: templates/products/listing-filter.php:61
+msgid "Search Products"
+msgstr "Zoek producten"
+
+#: templates/products/listing-filter.php:56 includes/Product/functions.php:312
+msgid "Search"
+msgstr "Zoek"
+
+#: templates/products/listing-filter.php:48 templates/orders/date-export.php:39
+#: templates/store-lists-filter.php:40
+msgid "Filter"
+msgstr "Filter"
+
+#: templates/products/listing-filter.php:26
+#: templates/products/new-product.php:204
+#: templates/products/tmpl-add-product-popup.php:102
+#: templates/products/new-product-single.php:266
+msgid "- Select a category -"
+msgstr "- Selecteer een categorie -"
+
+#: templates/products/inventory.php:65
+msgid "Allow only one quantity of this product to be bought in a single order"
+msgstr "Sta toe maximaal 1 eenheid van dit product te verkopen in een enkele order"
+
+#: templates/products/inventory.php:54
+msgid "Allow but notify customer"
+msgstr "Sta toe maar informeer klant"
+
+#: templates/products/inventory.php:53
+msgid "Do not allow"
+msgstr "Sta niet toe"
+
+#: templates/products/inventory.php:50
+msgid "Allow Backorders"
+msgstr "Sta nabestellingen toe"
+
+#: templates/products/inventory.php:39 templates/products/inventory.php:45
+msgid "1"
+msgstr "1"
+
+#: templates/products/inventory.php:32
+msgid "Enable product stock management"
+msgstr "Activeer voorraadbeheer product"
+
+#: templates/products/inventory.php:23
+msgid "Out of Stock"
+msgstr "Niet op voorraad"
+
+#: templates/products/inventory.php:22
+msgid "In Stock"
+msgstr "Op voorraad"
+
+#: templates/products/inventory.php:19
+msgid "Stock Status"
+msgstr "Status voorraad"
+
+#: templates/products/inventory.php:14
+msgid "(Stock Keeping Unit)"
+msgstr "(Voorraadeenheid)"
+
+#: templates/products/inventory.php:4
+msgid "Manage inventory for this product."
+msgstr "Beheer voorraad voor dit product"
+
+#: templates/products/inventory.php:3 includes/Product/functions.php:180
+msgid "Inventory"
+msgstr "Voorraad"
+
+#: templates/products/listing-status-filter.php:13
+#: includes/template-tags.php:198
+msgid "All (%d)"
+msgstr "Alle (%d)"
+
+#: templates/products/products-listing-row.php:156
+msgid "Last Modified"
+msgstr "Laatst gewijzigd"
+
+#: templates/products/products-listing-row.php:153 includes/functions.php:765
+msgid "Scheduled"
+msgstr "Gepland"
+
+#: templates/products/products-listing-row.php:151
+msgid "Missed schedule"
+msgstr "Gemiste planning"
+
+#: templates/products/products-listing-row.php:148
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: templates/products/products-listing-row.php:139
+msgid "Y/m/d"
+msgstr "d/m/Y"
+
+#: templates/products/products-listing-row.php:137
+#: templates/orders/listing.php:118
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: templates/products/products-listing-row.php:130
+msgid "Y/m/d g:i:s A"
+msgstr "d/m/Y g:i:s A"
+
+#: templates/products/products-listing-row.php:127
+#: templates/orders/listing.php:111
+msgid "Unpublished"
+msgstr "Niet gepubliceerd"
+
+#: templates/products/products-listing-row.php:124
+#: templates/products/products-listing.php:99 templates/orders/listing.php:55
+#: templates/orders/listing.php:108
+#: templates/withdraw/approved-request-listing.php:16
+#: templates/withdraw/cancelled-request-listing.php:16
+#: templates/withdraw/pending-request-listing.php:16 templates/my-orders.php:28
+#: templates/sub-orders.php:26 assets/js/vue-admin.js:3699
+msgid "Date"
+msgstr "Datum"
+
+#: templates/products/products-listing-row.php:121
+#: templates/products/products-listing.php:98
+msgid "Views"
+msgstr "Pageviews"
+
+#: templates/products/products-listing-row.php:114
+msgid "Variable"
+msgstr "Variabel"
+
+#: templates/products/products-listing-row.php:110
+msgid "Simple"
+msgstr "Simpel"
+
+#: templates/products/products-listing-row.php:108
+#: templates/products/download-virtual.php:4
+msgid "Downloadable"
+msgstr "Downloadbaar"
+
+#: templates/products/products-listing-row.php:106
+#: templates/products/download-virtual.php:9
+msgid "Virtual"
+msgstr "Virtueel"
+
+#: templates/products/products-listing-row.php:102
+msgid "External/Affiliate"
+msgstr "Extern / Filiaal"
+
+#: templates/products/products-listing-row.php:100
+msgid "Grouped"
+msgstr "Gegroepeerd"
+
+#: templates/products/products-listing-row.php:97
+#: templates/products/products-listing.php:97
+msgid "Type"
+msgstr "Type"
+
+#: templates/products/products-listing-row.php:86
+#: templates/products/products-listing.php:96
+#: templates/dashboard/big-counter-widget.php:21
+msgid "Earning"
+msgstr "Verdiensten"
+
+#: templates/emails/vendor-new-order.php:49
+#: templates/products/products-listing-row.php:77
+#: templates/products/new-product.php:156
+#: templates/products/products-listing.php:95
+#: templates/products/tmpl-add-product-popup.php:57
+#: templates/products/new-product-single.php:195
+msgid "Price"
+msgstr "Prijs"
+
+#: templates/products/products-listing-row.php:68
+#: templates/products/products-listing.php:94
+#: includes/Product/functions.php:182
+msgid "Stock"
+msgstr "Voorraad"
+
+#: templates/products/products-listing-row.php:59
+#: templates/products/inventory.php:14
+#: templates/products/products-listing.php:93
+msgid "SKU"
+msgstr "SKU"
+
+#: templates/products/products-listing-row.php:53
+#: templates/products/products-listing.php:89 templates/orders/listing.php:53
+#: templates/orders/listing.php:80
+#: templates/withdraw/pending-request-listing.php:18 templates/my-orders.php:29
+#: templates/sub-orders.php:27 includes/Product/functions.php:166
+#: assets/js/vue-admin.js:3687 assets/js/vue-admin.js:5869
+msgid "Status"
+msgstr "Status"
+
+#: templates/products/products-listing-row.php:40
+#: templates/products/products-listing.php:88
+#: templates/products/downloadable.php:35
+msgid "Name"
+msgstr "Naam"
+
+#: templates/products/products-listing-row.php:33
+#: templates/products/products-listing.php:87
+msgid "Image"
+msgstr "Afbeelding"
+
+#: templates/emails/plain/withdraw-new.php:25
+msgid "Profile : "
+msgstr "Profiel : "
+
+#: templates/emails/plain/withdraw-new.php:22
+msgid "Payment Method : "
+msgstr "Betalingsmethode :"
+
+#: templates/emails/plain/product-published.php:22
+msgid "Update : "
+msgstr "Update : "
+
+#: templates/emails/plain/product-published.php:21
+msgid "View product : "
+msgstr "Bekijk product :"
+
+#: templates/emails/plain/product-published.php:19
+msgid "Your product "
+msgstr "Je product"
+
+#: templates/emails/withdraw-new.php:40
+msgid "Payment Method: "
+msgstr "Betaalmethode:"
+
+#: templates/emails/withdraw-new.php:18
+#: templates/emails/plain/withdraw-new.php:17
+msgid "Hi,"
+msgstr "Hallo,"
+
+#: templates/emails/new-product-pending.php:45
+#: templates/emails/new-product.php:45
+msgid "Category :"
+msgstr "Categorie:"
+
+#: templates/emails/new-product-pending.php:32
+#: templates/emails/new-product.php:32
+msgid "Price :"
+msgstr "Prijs:"
+
+#: templates/emails/new-product-pending.php:18
+#: templates/emails/new-product.php:18
+msgid "Hello,"
+msgstr "Hallo,"
+
+#: templates/emails/new-seller-registered.php:36
+msgid "Vendor Store :"
+msgstr "Winkel van verkoper:"
+
+#: templates/emails/new-seller-registered.php:24
+#: templates/emails/plain/new-seller-registered.php:21
+msgid "Vendor Details:"
+msgstr "Details van verkoper:"
+
+#: templates/emails/new-seller-registered.php:18
+#: templates/emails/plain/new-seller-registered.php:18
+#: templates/emails/plain/new-product-pending.php:18
+#: templates/emails/plain/new-product.php:18
+msgid "Hello there,"
+msgstr "Hallo,"
+
+#: templates/settings/header.php:13 templates/store-lists-loop.php:78
+#: includes/template-tags.php:490
+msgid "Visit Store"
+msgstr "Ga naar winkel"
+
+#: templates/settings/address-form.php:118
+msgid "State "
+msgstr "Staat"
+
+#: templates/settings/address-form.php:91
+msgid "Country "
+msgstr "Land"
+
+#: templates/settings/address-form.php:78
+msgid "Postcode / Zip"
+msgstr "Postcode"
+
+#: templates/settings/address-form.php:70
+msgid "Post/ZIP Code"
+msgstr "Postcode"
+
+#: templates/settings/address-form.php:65
+msgid "Town / City"
+msgstr "Plaats"
+
+#: templates/settings/address-form.php:49
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr "Appartement, kamer, eenheid etc. (optioneel)"
+
+#: templates/settings/address-form.php:36
+msgid "Street address"
+msgstr "Adres"
+
+#: templates/settings/address-form.php:28
+msgid "Street "
+msgstr "Straat"
+
+#: templates/settings/store-form.php:301 templates/settings/payment.php:45
+msgid "Update Settings"
+msgstr "Update instellingen"
+
+#: templates/settings/store-form.php:209
+msgid "TOC Details"
+msgstr "TOC details"
+
+#: templates/settings/store-form.php:203
+msgid "Show terms and conditions in store page"
+msgstr "Laat de algemene voorwaarden op de winkelpagina zien"
+
+#: templates/settings/store-form.php:199 includes/functions.php:1210
+msgid "Terms and Conditions"
+msgstr "Algemene voorwaarden"
+
+#: templates/maps/google-maps-with-search.php:6
+#: templates/maps/mapbox-with-search.php:6
+msgid "Find Address"
+msgstr "Zoek adres"
+
+#: templates/maps/google-maps-with-search.php:5
+msgid "Type an address to find"
+msgstr "Voer een adres in om te zoeken"
+
+#: templates/settings/store-form.php:180
+msgid "Map"
+msgstr "Kaart"
+
+#: templates/settings/store-form.php:172
+msgid "Enable tab on product single page view"
+msgstr "Activeer tabs op de product enkele pagina view"
+
+#: templates/settings/store-form.php:167
+msgid "More products"
+msgstr "Meer producten"
+
+#: templates/settings/store-form.php:160 includes/Vendor/SetupWizard.php:234
+msgid "Show email address in store"
+msgstr "Toon e-mailadres in shop"
+
+#: templates/settings/store-form.php:150
+msgid "+123456.."
+msgstr "+123456.."
+
+#: templates/settings/store-form.php:148
+msgid "Phone No"
+msgstr "Telefoonnummer"
+
+#: templates/settings/store-form.php:125 includes/Vendor/SetupWizard.php:185
+msgid "Store Product Per Page"
+msgstr "Winkel producten per pagina"
+
+#: templates/settings/store-form.php:118
+msgid "store name"
+msgstr "winkelnaam"
+
+#: templates/settings/store-form.php:109
+msgid "Upload Photo"
+msgstr "Upload foto"
+
+#: templates/settings/store-form.php:99
+msgid "Profile Picture"
+msgstr "Profielfoto"
+
+#: templates/settings/store-form.php:86
+msgid "Upload a banner for your store. Banner size is (%sx%s) pixels."
+msgstr "Upload een banner voor jouw winkel. Bannergrootte is (%sx%s) pixels."
+
+#: templates/settings/store-form.php:73 includes/Admin/UserProfile.php:118
+msgid "Upload banner"
+msgstr "Upload banner"
+
+#: languages/dokan-lite.php:125 assets/js/vue-admin.js:7146
+msgid "Withdraw Requests"
+msgstr "Opnameverzoeken"
+
+#: languages/dokan-lite.php:120 includes/Admin/Menu.php:47
+#: assets/js/vue-admin.js:10367
+msgid "Vendors"
+msgstr "Verkopers"
+
+#: languages/dokan-lite.php:119 includes/functions.php:2342
+#: includes/Privacy.php:200 assets/js/vue-bootstrap.js:6315
+msgid "Instagram"
+msgstr "Instagram"
+
+#: languages/dokan-lite.php:116 includes/functions.php:2338
+#: includes/Privacy.php:199 assets/js/vue-bootstrap.js:6210
+msgid "Youtube"
+msgstr "Youtube"
+
+#: languages/dokan-lite.php:115 includes/functions.php:2326
+#: includes/Privacy.php:196 assets/js/vue-bootstrap.js:6175
+msgid "Twitter"
+msgstr "Twitter"
+
+#: languages/dokan-lite.php:114 includes/functions.php:2322
+#: includes/Privacy.php:195 assets/js/vue-bootstrap.js:6144
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: languages/dokan-lite.php:113 includes/functions.php:2346
+#: includes/Privacy.php:201 assets/js/vue-bootstrap.js:6113
+msgid "Flickr"
+msgstr "Flickr"
+
+#: languages/dokan-lite.php:111 includes/functions.php:2318
+#: includes/Privacy.php:194 assets/js/vue-bootstrap.js:6082
+msgid "Facebook"
+msgstr "Facebook"
+
+#: languages/dokan-lite.php:99 includes/Withdraw/functions.php:203
+#: includes/Privacy.php:278 assets/js/vue-bootstrap.js:2966
+#: assets/js/vue-admin.js:2971
+msgid "IBAN"
+msgstr "IBAN"
+
+#: languages/dokan-lite.php:91
+#: templates/admin-setup-wizard/step-store-wc-fields.php:58
+#: templates/admin-setup-wizard/step-store-wc-fields.php:59
+#: includes/Privacy.php:221 includes/Vendor/SetupWizard.php:221
+#: assets/js/vue-bootstrap.js:2614 assets/js/vue-bootstrap.js:2631
+#: assets/js/vue-admin.js:2619 assets/js/vue-admin.js:2636
+msgid "State"
+msgstr "Provincie"
+
+#: languages/dokan-lite.php:89
+#: templates/admin-setup-wizard/step-store-wc-fields.php:24
+#: includes/Admin/UserProfile.php:88 includes/Privacy.php:220
+#: includes/Vendor/SetupWizard.php:213 assets/js/vue-bootstrap.js:2584
+#: assets/js/vue-admin.js:2589
+msgid "Country"
+msgstr "Land"
+
+#: languages/dokan-lite.php:87 templates/settings/address-form.php:57
+#: templates/admin-setup-wizard/step-store-wc-fields.php:51
+#: includes/Privacy.php:218 includes/Vendor/SetupWizard.php:203
+#: assets/js/vue-bootstrap.js:2522 assets/js/vue-bootstrap.js:2537
+#: assets/js/vue-admin.js:2527 assets/js/vue-admin.js:2542
+msgid "City"
+msgstr "Stad / Woonplaats"
+
+#: languages/dokan-lite.php:86 templates/settings/address-form.php:41
+#: includes/Vendor/SetupWizard.php:197 assets/js/vue-bootstrap.js:2487
+#: assets/js/vue-bootstrap.js:2502 assets/js/vue-admin.js:2492
+#: assets/js/vue-admin.js:2507
+msgid "Street 2"
+msgstr "Straat 2"
+
+#: languages/dokan-lite.php:83 includes/Admin/UserProfile.php:39
+#: includes/Assets.php:399 assets/js/vue-bootstrap.js:533
+#: assets/js/vue-bootstrap.js:569 assets/js/vue-admin.js:533
+#: assets/js/vue-admin.js:569
+msgid "Not Available"
+msgstr "Niet beschikbaar"
+
+#: languages/dokan-lite.php:82 includes/Admin/UserProfile.php:38
+#: includes/Ajax.php:139 includes/Assets.php:398 assets/js/vue-bootstrap.js:523
+#: assets/js/vue-bootstrap.js:559 assets/js/vue-bootstrap.js:595
+#: assets/js/vue-admin.js:523 assets/js/vue-admin.js:559
+#: assets/js/vue-admin.js:595
+msgid "Available"
+msgstr "Beschikbaar"
+
+#: languages/dokan-lite.php:76 templates/account/vendor-registration.php:21
+#: templates/login-form/login-form.php:8 assets/js/vue-bootstrap.js:2231
+#: assets/js/vue-bootstrap.js:2253 assets/js/vue-admin.js:2236
+#: assets/js/vue-admin.js:2258
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: languages/dokan-lite.php:73 templates/settings/store-form.php:155
+#: includes/Vendor/SetupWizard.php:230 assets/js/vue-bootstrap.js:2176
+#: assets/js/vue-admin.js:2181
+msgid "Email"
+msgstr "E-mail"
+
+#: languages/dokan-lite.php:71 templates/account/vendor-registration.php:33
+#: templates/global/seller-registration-form.php:38
+#: includes/Admin/UserProfile.php:211 assets/js/vue-bootstrap.js:2145
+#: assets/js/vue-admin.js:2150
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+#: languages/dokan-lite.php:67 templates/settings/store-form.php:115
+#: includes/Privacy.php:173 assets/js/vue-bootstrap.js:2047
+#: assets/js/vue-bootstrap.js:2071 assets/js/vue-admin.js:2052
+#: assets/js/vue-admin.js:2076
+msgid "Store Name"
+msgstr "Winkelnaam"
+
+#: languages/dokan-lite.php:66 templates/account/vendor-registration.php:14
+#: templates/global/seller-registration-form.php:20
+#: includes/wc-functions.php:867 assets/js/vue-bootstrap.js:2016
+#: assets/js/vue-bootstrap.js:2031 assets/js/vue-admin.js:2021
+#: assets/js/vue-admin.js:2036
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: languages/dokan-lite.php:65 templates/account/vendor-registration.php:9
+#: templates/global/seller-registration-form.php:15
+#: includes/wc-functions.php:866 assets/js/vue-bootstrap.js:1985
+#: assets/js/vue-bootstrap.js:2000 assets/js/vue-admin.js:1990
+#: assets/js/vue-admin.js:2005
+msgid "First Name"
+msgstr "Voornaam"
+
+#: languages/dokan-lite.php:59 dokan.php:438 includes/Admin/AdminBar.php:68
+#: includes/Admin/Menu.php:59 includes/template-tags.php:354
+#: includes/Dashboard/Templates/Settings.php:58
+#: includes/Dashboard/Templates/Settings.php:62 assets/js/vue-admin.js:9887
+msgid "Settings"
+msgstr "Instellingen"
+
+#: languages/dokan-lite.php:43 includes/functions.php:2956
+#: assets/js/vue-admin.js:7045
+msgid "Overview"
+msgstr "Overzicht"
+
+#: languages/dokan-lite.php:38 assets/js/vue-admin.js:6894
+msgid "Dokan News Updates"
+msgstr "Dokan nieuwsupdates"
+
+#: languages/dokan-lite.php:29 assets/js/vue-admin.js:6617
+msgid "At a Glance"
+msgstr "Een overzicht"
+
+#: languages/dokan-lite.php:28 includes/Install/Installer.php:157
+#: includes/Admin/AdminBar.php:47 includes/Admin/Menu.php:42
+#: includes/Admin/Settings.php:411 includes/template-tags.php:323
+#: assets/js/vue-admin.js:6606
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: languages/dokan-lite.php:13 templates/settings/address-form.php:23
+#: templates/maps/mapbox-with-search.php:5
+#: templates/admin-setup-wizard/step-store-wc-fields.php:33
+#: includes/Privacy.php:176 assets/js/vue-bootstrap.js:2442
+#: assets/js/vue-bootstrap.js:5979 assets/js/vue-admin.js:2447
+#: assets/js/vue-admin.js:6150
+msgid "Address"
+msgstr "Adres"
+
+#: languages/dokan-lite.php:8 assets/js/vue-admin.js:5113
+#: assets/js/vue-admin.js:9775
+msgid "Select"
+msgstr "Selecteer"
+
+#: languages/dokan-lite.php:7 assets/js/vue-admin.js:9749
+msgid "Active"
+msgstr "Actief"
+
+#: languages/dokan-lite.php:5 templates/settings/store-form.php:256
+#: templates/orders/details.php:353 includes/Product/functions.php:272
+#: assets/js/dokan-upgrade.js:234 assets/js/vue-bootstrap.js:1649
+#: assets/js/vue-admin.js:1654
+msgid "Close"
+msgstr "Sluit"
+
+#: templates/products/new-product.php:167
+#: templates/products/tmpl-add-product-popup.php:68
+#: templates/products/new-product-single.php:217
+#: templates/orders/details.php:199
+#: templates/withdraw/pending-request-listing.php:17
+#: templates/withdraw/pending-request-listing.php:35
+#: templates/store-lists-filter.php:81 templates/my-orders.php:83
+#: includes/Product/functions.php:262 assets/js/vue-admin.js:3732
+#: assets/js/vue-admin.js:3753
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: templates/products/inventory.php:55
+msgid "Allow"
+msgstr "Sta toe"
+
+#. Author URI of the plugin
+msgid "https://wedevs.com/"
+msgstr "https://wedevs.com/"
+
+#. Author of the plugin
+msgid "weDevs"
+msgstr "weDevs"
+
+#. Description of the plugin
+msgid "An e-commerce marketplace plugin for WordPress. Powered by WooCommerce and weDevs."
+msgstr "Een e-commerce marktplaats plugin voor WordPress, powered by WooCommerce en weDevs."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/dokan-lite/"
+msgstr "https://wordpress.org/plugins/dokan-lite/"
+
+#. Plugin Name of the plugin
+#: includes/Admin/AdminBar.php:38 includes/Admin/Menu.php:39
+#: includes/Privacy.php:30
+msgid "Dokan"
+msgstr "Dokan"

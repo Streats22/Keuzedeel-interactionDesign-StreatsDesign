@@ -1,0 +1,5907 @@
+# Translation of Plugins - Dokan &#8211; Best WooCommerce Multivendor Marketplace Solution &#8211; Build Your Own Amazon, eBay, Etsy - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Dokan &#8211; Best WooCommerce Multivendor Marketplace Solution &#8211; Build Your Own Amazon, eBay, Etsy - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-23 06:54:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Dokan &#8211; Best WooCommerce Multivendor Marketplace Solution &#8211; Build Your Own Amazon, eBay, Etsy - Stable (latest release)\n"
+
+#: templates/emails/vendor-new-order.php:48
+msgid "Quantity"
+msgstr "Количество"
+
+#: includes/Admin/SetupWizardNoWC.php:20
+msgid "Welcome to Dokan"
+msgstr "Добро пожаловать"
+
+#: assets/js/vue-admin.js:8062
+msgid "I Want To Buy Now"
+msgstr "Хочу купить сейчас"
+
+#: assets/js/vue-admin.js:8051
+msgid "With all the advance features you get it’s hard to resist buying Dokan Pro."
+msgstr "Учитывая все дополнительные возможности, которые вы получите, сложно противостоять покупке Dokan Pro."
+
+#: assets/js/vue-admin.js:8046
+msgid "Convinced?"
+msgstr "Убедили?"
+
+#: assets/js/vue-admin.js:7457
+msgid "Mark as Pending"
+msgstr "Отметить как Ожидающий"
+
+#: assets/js/vue-admin.js:7389
+msgid "Approve Request"
+msgstr "Подтвердить Запрос"
+
+#: includes/Admin/Hooks.php:153 assets/js/vue-admin.js:7323
+#: assets/js/vue-admin.js:10520 assets/js/vue-admin.js:10530
+msgid "(no name)"
+msgstr "(без имени)"
+
+#: assets/js/vue-admin.js:4388
+msgid "Bookable Product"
+msgstr "Заказываемый Товар"
+
+#: includes/Admin/SetupWizard.php:349 includes/Admin/Settings.php:459
+#: assets/js/vue-admin.js:4376
+msgid "Google Maps"
+msgstr "Карты Google"
+
+#: assets/js/vue-admin.js:4370
+msgid "Setup Wizard"
+msgstr "Мастер установки"
+
+#: assets/js/vue-admin.js:4364
+msgid "Frontend Shipping Tracking"
+msgstr "Отслеживание доставки в кабинете клиента"
+
+#: assets/js/vue-admin.js:4358
+msgid "Multiple Commission Types"
+msgstr "Типы нескольких комиссий"
+
+#: assets/js/vue-admin.js:4352
+msgid "Featured Seller"
+msgstr "Рекомендуемый продавец"
+
+#: assets/js/vue-admin.js:4346
+msgid "Seller Verification"
+msgstr "Проверка продавца"
+
+#: assets/js/vue-admin.js:4340
+msgid "Single Product Multiple Seller"
+msgstr "Несколько Продавцов одного Товара"
+
+#: assets/js/vue-admin.js:4334
+msgid "Store Contact Form"
+msgstr "Контактная форма магазина"
+
+#: assets/js/vue-admin.js:4328
+msgid "Back Ordering System"
+msgstr "Система обратного заказа"
+
+#: assets/js/vue-admin.js:4322
+msgid "Store SEO"
+msgstr "SEO магазина"
+
+#: assets/js/vue-admin.js:4316
+msgid "Customized Product Categories"
+msgstr "Индивидуальные категории продуктов"
+
+#: assets/js/vue-admin.js:4310
+msgid "Making Announcements"
+msgstr "Создание объявлений"
+
+#: assets/js/vue-admin.js:4304
+msgid "Seller Statement Reports"
+msgstr "Отчеты о продажах"
+
+#: assets/js/vue-admin.js:4298
+msgid "Frontend order management"
+msgstr "Управление заказами в личном кабинете"
+
+#: assets/js/vue-admin.js:4294
+msgid "Add Social profile to your vendor’s store and support for store SEO"
+msgstr "Добавить социальный профиль и SEO поддержку вашего магазина "
+
+#: assets/js/vue-admin.js:4291
+msgid "24/7 super fast premium customer support for you"
+msgstr "24/7 сверхбыстрая клиентская поддержка для вас"
+
+#: assets/js/vue-admin.js:4288
+msgid "Earning, Selling and Commission Reports & Statement"
+msgstr "Заработок, Продажи и Отчетность по комиссии"
+
+#: assets/js/vue-admin.js:4285
+msgid "Vendors will be able to generate coupon codes"
+msgstr "Продавцы смогут создавать коды купонов"
+
+#: assets/js/vue-admin.js:4282
+msgid "Store support based on ticket system for your customers"
+msgstr "Поддержка магазина на основе тикетов для ваших клиентов"
+
+#: assets/js/vue-admin.js:4279
+msgid "Zone wise shipping with multiple method for vendors"
+msgstr "\"Умная\" доставка в зависимости от зоны с использованием нескольких методов для Продавцов"
+
+#: assets/js/vue-admin.js:4276
+msgid "Unlimited Product Variations and group product upload"
+msgstr "Неограниченные варианты Товаров и групповых способов их загрузки "
+
+#: assets/js/vue-admin.js:4273
+msgid "Frontend dashboard for vendors with advanced controls"
+msgstr "Панель управления  для Продавцов с расширенными возможностями "
+
+#: assets/js/vue-admin.js:4270
+msgid "Premium modules to make everything easier & better"
+msgstr "Премиум-модули, чтобы все работало проще и лучше"
+
+#: assets/js/vue-admin.js:3883
+msgid ", Routing Number: %s"
+msgstr ", Код Банка: %s"
+
+#: assets/js/vue-admin.js:3879
+msgid ", Bank Name: %s"
+msgstr ", Название банка: %s"
+
+#: assets/js/vue-admin.js:3875
+msgid ", Account Number: %s"
+msgstr ", Номер счета: %s"
+
+#: assets/js/vue-admin.js:3759 assets/js/vue-admin.js:3770
+#: assets/js/vue-admin.js:3775
+msgid "Download PayPal mass payment file"
+msgstr "Скачать файл PayPal для массового платежа"
+
+#: assets/js/vue-admin.js:3750
+msgid "Approve"
+msgstr "Одобрить"
+
+#: assets/js/vue-admin.js:3693
+msgid "Details"
+msgstr "Детали"
+
+#: assets/js/vue-admin.js:3676
+msgid "Paypal Mass Payment File is Generated."
+msgstr "Paypal файл массового платежа сгенерирован."
+
+#: assets/js/vue-admin.js:3675
+msgid "No requests found."
+msgstr "Запросов не найдено."
+
+#: includes/wc-template.php:261
+msgid "Go to Vendor Dashboard"
+msgstr "Перейти к Панели Продавца"
+
+#: includes/wc-template.php:35
+msgid "Vendor Info"
+msgstr "Информация о продавце"
+
+#: includes/Widgets/StoreLocation.php:23
+msgid "Dokan: Store Location"
+msgstr "Dokan: Местоположение магазина"
+
+#: includes/Widgets/StoreLocation.php:22
+msgid "Dokan Vendor Store Location"
+msgstr "Расположение магазина"
+
+#: includes/Widgets/StoreContactForm.php:23
+msgid "Dokan: Store Contact Form"
+msgstr "Dokan: Форма обратной связи на странице магазина"
+
+#: includes/Widgets/StoreContactForm.php:22
+msgid "Dokan Vendor Contact Form"
+msgstr "Форма контакта с продавцом"
+
+#: includes/Widgets/TopratedProducts.php:57
+msgid "Top Rated Product"
+msgstr "Лучшие товары"
+
+#: includes/Widgets/TopratedProducts.php:14
+msgid "A Widget for displaying To rated products for dokan"
+msgstr "Виджет отображает Лучшие товары согласно рейтингу"
+
+#: includes/Widgets/TopratedProducts.php:13
+msgid "Dokan: Top Rated Product Widget"
+msgstr "Dokan: Лучшие товары"
+
+#: includes/Widgets/StoreCategoryMenu.php:16
+msgid "Dokan: Store Category Menu"
+msgstr "Dokan: Меню категории"
+
+#: includes/Widgets/StoreCategoryMenu.php:15
+msgid "Dokan Seller Store Menu"
+msgstr "Меню продавца"
+
+#: includes/Widgets/BestSellingProducts.php:74
+#: includes/Widgets/TopratedProducts.php:73
+msgid "Show Product Rating"
+msgstr "Отображать рейтинг товара"
+
+#: includes/Widgets/BestSellingProducts.php:69
+#: includes/Widgets/TopratedProducts.php:68
+msgid "No of Product:"
+msgstr "Номер товара:"
+
+#: includes/Widgets/BestSellingProducts.php:58
+msgid "Best Selling Product"
+msgstr "Самые популярные товары"
+
+#: includes/Widgets/StoreOpenClose.php:22
+msgid "Dokan: Store Opening Closing Time Widget"
+msgstr "Dokan: виджет времени работы магазина"
+
+#: includes/Widgets/StoreOpenClose.php:21
+msgid "Dokan Store Opening Closing Time"
+msgstr "Время открытия магазина Dokan"
+
+#: includes/Widgets/StoreContactForm.php:120
+#: includes/Widgets/BestSellingProducts.php:65
+#: includes/Widgets/ProductCategoryMenu.php:92
+#: includes/Widgets/StoreCategoryMenu.php:82
+#: includes/Widgets/StoreLocation.php:104
+#: includes/Widgets/TopratedProducts.php:64
+#: includes/Widgets/StoreOpenClose.php:111
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/Widgets/ProductCategoryMenu.php:86
+msgid "Product Category"
+msgstr "Категории товаров"
+
+#: includes/Widgets/ProductCategoryMenu.php:16
+msgid "Dokan product category menu"
+msgstr "Меню категории товара"
+
+#: includes/Admin/SetupWizard.php:744
+msgid "The following plugins will be installed and activated for you:"
+msgstr "Для Вас будут установлены и активированы следующие плагины:"
+
+#: includes/Admin/SetupWizard.php:654
+msgid "More Settings"
+msgstr "Больше настроек"
+
+#: includes/Admin/SetupWizard.php:653
+msgid "Visit Dokan Dashboard"
+msgstr "Перейдите на Панель Управления Докан"
+
+#: includes/Admin/SetupWizard.php:648
+msgid "Your Marketplace is Ready!"
+msgstr "Ваш Магазин готов!"
+
+#: includes/Admin/SetupWizard.php:556
+msgid "WooCommerce Conversion Tracking logo"
+msgstr "WooCommerce логотип Отслеживания Конверсий"
+
+#: includes/Admin/SetupWizard.php:554
+msgid "Track conversions on your WooCommerce store like a pro!"
+msgstr "Отслеживайте конверсии в своем магазине WooCommerce как профессионал!"
+
+#: includes/Admin/SetupWizard.php:553 includes/Admin/SetupWizard.php:557
+#: includes/Admin/SetupWizard.php:588
+msgid "WooCommerce Conversion Tracking"
+msgstr "WooCommerce Отслеживание Конверсий"
+
+#: includes/Admin/SetupWizard.php:543
+msgid "Enhance your store with these recommended features."
+msgstr "Улучшите свой магазин с помощью этих рекомендуемых функций."
+
+#: includes/Admin/SetupWizard.php:541
+msgid "Recommended for All Dokan Marketplaces"
+msgstr "Рекомендуется для всех маркетплейсов Dokan"
+
+#: includes/Admin/SetupWizard.php:519
+msgid "Order status for which vendor can make a withdraw request."
+msgstr "Статус заказа на который продавец может закрыть запрос."
+
+#: includes/Admin/SetupWizard.php:496
+msgid "Order Status for Withdraw"
+msgstr "Статус заказа на вывод денег"
+
+#: includes/Admin/SetupWizard.php:492
+msgid "Minimum balance required to make a withdraw request ( Leave it blank to set no limits )"
+msgstr "Минимальный баланс, необходимый для получения запроса на снятие средств (оставьте поле пустым, чтобы не устанавливать ограничения)"
+
+#: includes/Admin/SetupWizard.php:448
+msgid "Withdraw Setup"
+msgstr "Настройка снятия со счета"
+
+#: templates/admin-setup-wizard/step-selling.php:47
+msgid "Vendor can change order status"
+msgstr "Продавец может изменять статус заказа"
+
+#: templates/admin-setup-wizard/step-selling.php:35
+msgid "How much amount (%) you will get from each order"
+msgstr "Какую сумму (%) вы получите от каждого заказа"
+
+#: templates/admin-setup-wizard/step-selling.php:27
+msgid "Set your commission type"
+msgstr "Установите Тип своей комиссии"
+
+#: templates/admin-setup-wizard/step-selling.php:18
+msgid "Commission Type"
+msgstr "Тип комиссии"
+
+#: templates/admin-setup-wizard/step-selling.php:13
+msgid "Make selling status enable for new registred vendor"
+msgstr "Включить разрешение продаж для новых зарегистрированных продавцов"
+
+#: templates/admin-setup-wizard/step-selling.php:5
+msgid "New Vendor Enable Selling"
+msgstr "Разрешить продажи новым продавцам"
+
+#: templates/admin-setup-wizard/step-selling.php:1
+msgid "Selling Setup"
+msgstr "Параметры продажи"
+
+#: templates/admin-setup-wizard/step-store.php:93
+msgid "Server environment details (php, mysql, server, WordPress versions), Number of users in your site, Site language, Number of active and inactive plugins, Site name and url, Your name and email address. No sensitive data is tracked."
+msgstr "Детали данных сервера (php, mysql, server, WordPress versions), количество пользователей Вашего сайта, язык сайта, количество активных и неактивных плагинов, имя и url сайта, Ваше имя и имейл адрес. Конфиденциальные данные не отслеживаются."
+
+#: templates/admin-setup-wizard/step-store.php:90
+msgid "What we collect"
+msgstr "Какие данные мы собираем"
+
+#: templates/admin-setup-wizard/step-store.php:86
+#: templates/admin-setup-wizard/step-selling.php:10
+#: templates/admin-setup-wizard/step-selling.php:44
+msgid "Off"
+msgstr "Выключить"
+
+#: templates/admin-setup-wizard/step-store.php:85
+#: templates/admin-setup-wizard/step-selling.php:9
+#: templates/admin-setup-wizard/step-selling.php:43
+msgid "On"
+msgstr "Включено"
+
+#: templates/admin-setup-wizard/step-store.php:80
+msgid "Share Essentials"
+msgstr "Поделиться Новостями"
+
+#: templates/admin-setup-wizard/step-store.php:38
+msgid "Tax fees will go to"
+msgstr "Налоговые сборы будут отправлены"
+
+#: templates/admin-setup-wizard/step-store.php:24
+msgid "Shipping fees will go to"
+msgstr "Плата за доставку будет направлена"
+
+#: templates/admin-setup-wizard/step-store.php:10
+msgid "Define vendor store URL"
+msgstr "Задать URL магазинов продавцов"
+
+#: includes/Admin/SetupWizard.php:313
+msgid "No time right now? If you don’t want to go through the wizard, you can skip and return to the WordPress dashboard. Come back anytime if you change your mind!"
+msgstr "Нет времени сейчас? Если вы не хотите запустить помощника, вы можете пропустить это и перейти в консоль WordPress. Возвращайтесь в любое время, если вы передумаете!"
+
+#: includes/Admin/SetupWizard.php:312
+msgid "Thank you for choosing Dokan to power your online marketplace! This quick setup wizard will help you configure the basic settings. <strong>It’s completely optional and shouldn’t take longer than three minutes.</strong>"
+msgstr "Благодарим вас за выбор Докан для вашего Магазина! Мастер быстрой настройки поможет вам настроить основные параметры. <strong>Это совершенно необязательно и не должно длиться дольше, чем три минуты.</strong>"
+
+#: templates/admin-setup-wizard/step-no-wc-introduction.php:2
+#: includes/Admin/SetupWizard.php:311
+msgid "Welcome to the world of Dokan!"
+msgstr "Добро пожаловать в Dokan"
+
+#: includes/Admin/SetupWizard.php:264 includes/Admin/SetupWizardNoWC.php:96
+msgid "Return to the WordPress Dashboard"
+msgstr "Вернуться в консоль ВордПресс"
+
+#: includes/Admin/SetupWizard.php:244
+msgid "Dokan &rsaquo; Setup Wizard"
+msgstr "Докан &rsaquo; Мастер установки"
+
+#: includes/Admin/SetupWizard.php:162
+msgid "Recommended"
+msgstr "Рекомендуемый"
+
+#: includes/Admin/SetupWizard.php:85
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Идет поиск ..."
+
+#: includes/Admin/SetupWizard.php:84
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Загрузка дополнительных результатов ..."
+
+#: includes/Admin/SetupWizard.php:83
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Вы можете выбрать только %qty% позиций"
+
+#: includes/Admin/SetupWizard.php:82
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Вы можете выбрать лишь 1 позицию"
+
+#: includes/Admin/SetupWizard.php:81
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Пожалуйста, удалите %qty% символов"
+
+#: includes/Admin/SetupWizard.php:80
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Пожалуйста, удалите 1 символ"
+
+#: includes/Admin/SetupWizard.php:79
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Пожалуйста, введите %qty% или более символов"
+
+#: includes/Admin/SetupWizard.php:78
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Пожалуйста, введите 1 или более символов"
+
+#: includes/Admin/SetupWizard.php:77
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Ошибка загрузки"
+
+#: includes/Admin/SetupWizard.php:76
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "Совпадений не найдено"
+
+#: includes/Admin/SetupWizard.php:75
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr "Найдено %qty% результатов. Используйте стрелки вверх и вниз для навигации."
+
+#: includes/Admin/SetupWizard.php:74
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "Доступен один вариант, нажмите \"ввод\", чтобы выбрать его."
+
+#: includes/Admin/Settings.php:529
+msgid "Privacy Page"
+msgstr "Страница политики"
+
+#: includes/Admin/Settings.php:522
+msgid "Enable Privacy Policy"
+msgstr "Включить Политику конфиденциальности"
+
+#: includes/Admin/Settings.php:514
+msgid "Enable showing Store Sidebar From Your Theme."
+msgstr "Включить отображение Сайдбара магазина."
+
+#: includes/Admin/Settings.php:513
+msgid "Enable Store Sidebar From Theme"
+msgstr "Включить Сайдбар магазина"
+
+#: includes/Admin/Settings.php:506
+msgid "Store Opening Closing Time Widget"
+msgstr "Виджет времени работы магазина"
+
+#: includes/Admin/Settings.php:494
+msgid "Store Header Template"
+msgstr "Шаблон шапки магазина"
+
+#: includes/Admin/Settings.php:487
+msgid "Show Contact Form on Store Page"
+msgstr "Показать форму обратной связи на странице магазина"
+
+#: templates/admin-setup-wizard/step-store.php:56
+#: includes/Admin/Settings.php:470
+msgid "Google Map API Key"
+msgstr "Google Map API ключ"
+
+#: includes/Admin/Settings.php:446
+msgid "Show Map on Store Page"
+msgstr "Отображать карту на странице магазина"
+
+#: includes/Admin/Settings.php:440
+msgid "Select where you want to add Dokan pages <a target=\"_blank\" href=\"%s\"> Learn More </a>"
+msgstr "Выберите, где вы хотите добавить страницы Dokan <a target=\"_blank\" href=\"%s\"> Выучить больше </a>"
+
+#: includes/Admin/Settings.php:435
+msgid "Terms and Conditions Page"
+msgstr "Страница Условия использования"
+
+#: includes/Admin/Settings.php:403
+msgid "Minimum balance required to make a withdraw request. Leave blank to set no minimum limits."
+msgstr "Минимальный баланс, необходимый для создания запроса на снятие средств.  Оставьте поле пустым, если не хотите устанавливать минимальное ограничение."
+
+#: includes/Admin/SetupWizard.php:489 includes/Admin/Settings.php:402
+msgid "Minimum Withdraw Limit"
+msgstr "Минимальная сумма вывода"
+
+#: includes/Admin/SetupWizard.php:452 includes/Admin/Settings.php:394
+msgid "Withdraw Methods"
+msgstr "Способы вывода денег"
+
+#: templates/admin-setup-wizard/step-selling.php:39
+#: includes/Admin/Settings.php:375
+msgid "Order Status Change"
+msgstr "Возможность менять статус заказа"
+
+#: includes/Admin/Settings.php:369
+msgid "Disable add new product in popup view"
+msgstr "Отключить добавление нового товара во всплывающем окне"
+
+#: includes/Admin/Settings.php:368
+msgid "Disable Product Popup"
+msgstr "Отключить всплывающее окно Товара"
+
+#: includes/Admin/Settings.php:362
+msgid "Allow newly registered vendors to add products"
+msgstr "Разрешить новым зарегистрированным Продавцам добавлять Товары"
+
+#: includes/Admin/Settings.php:361
+msgid "New Vendor Product Upload"
+msgstr "Загрузить новый товар продавца"
+
+#: templates/admin-setup-wizard/step-store.php:28
+#: includes/Admin/Settings.php:345
+msgid "Tax Fee Recipient"
+msgstr "Плательщик налоговой пошлины"
+
+#: includes/Admin/SetupWizard.php:337 includes/Admin/Settings.php:340
+#: includes/Admin/Settings.php:348
+msgid "Admin"
+msgstr "Админ"
+
+#: templates/admin-setup-wizard/step-store.php:14
+#: includes/Admin/Settings.php:337
+msgid "Shipping Fee Recipient"
+msgstr "Плательщик стоимости доставки"
+
+#: includes/Admin/Settings.php:320
+msgid "Commission Type "
+msgstr "Тип комиссии "
+
+#: includes/Admin/Settings.php:306
+msgid "Enable Terms and Conditions for vendor stores"
+msgstr "Включить Условия Пользования  для магазинов Продавцов"
+
+#: includes/Admin/Settings.php:291
+msgid "Disable welcome wizard for newly registered vendors"
+msgstr "Отключить мастер приветствия для новых зарегистрированных продавцов"
+
+#: includes/Admin/Settings.php:290
+msgid "Disable Welcome Wizard"
+msgstr "Отключить мастер привествия"
+
+#: includes/Admin/Settings.php:286
+msgid "Recommended Logo size ( 270px X 90px ). If no logo is uploaded, site title is shown by default."
+msgstr "Рекомендуемый размер логотипа (270px X 90px). Если нет логотипа, название сайта отображается по умолчанию."
+
+#: includes/Admin/Settings.php:284
+msgid "Vendor Setup Wizard Logo"
+msgstr "Логотип мастера настройки продавца"
+
+#: templates/admin-setup-wizard/step-store.php:7
+#: includes/Admin/Settings.php:277
+msgid "Vendor Store URL"
+msgstr "База магазинов продавцов"
+
+#: includes/Admin/Settings.php:270
+msgid "Admin area access"
+msgstr "Доступ к админ-панели"
+
+#: includes/Admin/Settings.php:242 includes/Admin/Settings.php:537
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: includes/Admin/Settings.php:237
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: includes/Admin/Settings.php:232
+msgid "Page Settings"
+msgstr "Настройки страниц"
+
+#: includes/Admin/Settings.php:217
+msgid "General"
+msgstr "Общие"
+
+#: includes/Admin/Settings.php:93
+msgid "Setting has been saved successfully."
+msgstr "Настройка была успешно сохранена."
+
+#: includes/Admin/Settings.php:65
+msgid "You are not authorized to perform this action."
+msgstr "Вы не имеете прав на осуществление этого действия."
+
+#: includes/Admin/Settings.php:37
+msgid "You have no permission to get settings value"
+msgstr "У вас нет разрешения на получение значения настроек"
+
+#: includes/Admin/Pointers.php:222
+msgid "Dokan requires some pages to be configured and you can set them up here"
+msgstr "Dokan требует, чтобы некоторые страницы были настроены, и вы можете настроить их здесь"
+
+#: includes/Admin/Pointers.php:221
+msgid "Dokan Pages"
+msgstr "Dokan страницы"
+
+#: includes/Admin/Pointers.php:209
+msgid "Configure your vendor's balance withdrawal options"
+msgstr "Настройте параметры вывода баланса вашего поставщика"
+
+#: includes/Admin/Pointers.php:208 includes/Admin/Settings.php:227
+msgid "Withdraw Options"
+msgstr "Вывод стредств"
+
+#: includes/Admin/Pointers.php:192
+msgid "You can configure different selling options for your vendors"
+msgstr "Вы можете настроить различные варианты продаж для ваших Продавцов"
+
+#: includes/Admin/Pointers.php:191 includes/Admin/Settings.php:222
+msgid "Selling Options"
+msgstr "Настройки продаж"
+
+#: includes/Admin/Pointers.php:175
+msgid "Configure all general settings for your marketplace from this tab."
+msgstr "На этой вкладке настройте все общие настройки для вашей торговой площадки."
+
+#: includes/Admin/Pointers.php:174
+msgid "General Settings"
+msgstr "общие настройки"
+
+#: includes/Admin/Pointers.php:139
+msgid "Get all the latest news and updates of Dokan from here."
+msgstr "Получите последние новости и обновления от Dokan."
+
+#: includes/Admin/Pointers.php:138
+msgid "News & Updates"
+msgstr "Новости и обновления"
+
+#: includes/Admin/Pointers.php:125
+msgid "Get a complete overview of your sales, orders and commissions."
+msgstr "Получите полный обзор ваших продаж, заказов и комиссий."
+
+#: includes/Admin/Pointers.php:124
+msgid "Your Sales Overview"
+msgstr "Обзор ваших продаж"
+
+#: includes/Admin/Pointers.php:108
+msgid "View the status of your marketplace including vendors and withdraw from here."
+msgstr "Здесь вы можете посмотреть статус вашей торговой площадки, включая продавцов и выводы средств."
+
+#: includes/Admin/Pointers.php:107
+msgid "Important Details At a Glance"
+msgstr "Важные детали с одного взгляда"
+
+#: includes/Admin/Promotion.php:88
+msgid "With the simplest configuration options available, only by enabling a single toggle button you will be able to do everything your competitors are doing and even more."
+msgstr "Имея простейшие параметры конфигурации, только включив одну кнопку переключения, Вы сможете делать все, что делают ваши конкуренты, и даже больше."
+
+#: includes/Admin/Promotion.php:87
+msgid "Exciting premium features to take your marketplace"
+msgstr "Восхитительные премиум возможности для вашей торговой площадки"
+
+#: includes/Admin/Promotion.php:80
+msgid "No matter what type of coupon you want to create you can do that easily using the pro version of Dokan. Set the coupon title, fix discount types, restrict email addresses and much more."
+msgstr "Независимо от того, какой тип купона Вы хотите создать, Вы можете легко это сделать, используя pro версию Dokan. Укажите название купона, определите типы скидок, ограничьте адреса электронной почты и многое другое."
+
+#: includes/Admin/Promotion.php:79
+msgid "97% of consumers look for deals when they shop"
+msgstr "97% потребителей ищут выголные сделки, когда они делают покупки"
+
+#: includes/Admin/Promotion.php:72
+msgid "Need to solve a conflict with your plugins, have a theme layout issues with Dokan or any kind of problem you might face, we are here for you"
+msgstr "Необходимо ли решить конфликт между плагинами, либо возникли проблемы  между вашей темой и Dokan. Либо любые другие сложности, - мы всегда рады помочь вам"
+
+#: includes/Admin/Promotion.php:71
+msgid "Get priority support 24/7/365"
+msgstr "Пользуйтесь приоритетной поддержкой 24/7/365"
+
+#: includes/Admin/Promotion.php:64
+msgid "With this feature, you will be able to set different type of commission for each vendor according to the products they are selling. Meaning more earning for you."
+msgstr "С помощью этой функции Вы сможете устанавливать разные типы комиссий для каждого продавца, в зависимости от товаров, которые они продают. А, значит, Вы сможете зарабатывать больше"
+
+#: includes/Admin/Promotion.php:63
+msgid "Earn more from multiple commission type"
+msgstr "Зарабатывайте больше на разных типах комиссии"
+
+#: includes/Admin/Promotion.php:56
+msgid "Allow your vendors to verify their stores using social profiles, phone, photo ID etc. using this advanced and handy module."
+msgstr "Предоставьте возможность вашим Продавцам подтверждать их магазины, используя социальные сети, телефон, фотоидентификатор и т.д., используя этот удобный и прогрессивный модуль."
+
+#: includes/Admin/Promotion.php:55
+msgid "Verify Your Sellers To Earn Customer Reliability"
+msgstr "Проверяйте ваших Продавцов чтобы получить доверие Клиентов"
+
+#: includes/Admin/Promotion.php:48
+msgid "This extension enables your customers to post a review for each store available on your site."
+msgstr "Это расширение позволяет Вашим клиентам комментировать все магазины Вашего сайта"
+
+#: includes/Admin/Promotion.php:47
+msgid "Increase conversions 270% by displaying reviews"
+msgstr "Увеличьте конверсию на 270% показывая отзывы"
+
+#: includes/Admin/Promotion.php:40
+msgid "By using this module, make it mandatory for your vendors to buy a subscription pack to sell products in your marketplace."
+msgstr "Используя этот модуль, Вы обязываете Ваших Продавцов покупать пакет подписки для получения возможности продавать их Товары на Вашей торговой площадке."
+
+#: includes/Admin/Promotion.php:39
+msgid "Create Customizable Paid Subscription Packs For Your Vendors"
+msgstr "Создайте Настраиваемые Платные Пакеты Подписки для Ваших Продавцов"
+
+#: includes/Admin/Menu.php:58
+msgid "<span style=\"color:#f18500\">Help</span>"
+msgstr "<span style=\"color:#f18500\">Помощь</span>"
+
+#: includes/Admin/AdminBar.php:61 includes/Admin/Menu.php:51
+msgid "PRO Features"
+msgstr "Особенности ПРО-версии"
+
+#: includes/Admin/Menu.php:36
+msgid "Withdraw %s"
+msgstr "Вывод средств %s"
+
+#. translators: %s item name.
+#: includes/Order/Hooks.php:240
+msgid "Unable to restore stock for item %s."
+msgstr "Невозможно восстановить запас для товара %s."
+
+#: includes/Order/Hooks.php:185
+msgid "A coupon must be restricted with a vendor product."
+msgstr "Купон должен быть ограничен Товаром Продавца."
+
+#: includes/Order/Hooks.php:143
+msgid "Mark parent order completed when all child orders are completed."
+msgstr "Отметить родительский заказ как завершенный, если все дочерние заказы будут выполнены."
+
+#: includes/Privacy.php:366
+msgid "Vendor %s data is removed."
+msgstr "Данные поставщика %s удалены."
+
+#: includes/Privacy.php:295
+msgid "Skrill Email"
+msgstr "Электронная почта Skrill"
+
+#: includes/Privacy.php:279
+msgid "Swift Code"
+msgstr "КОД SWIFT"
+
+#: includes/Privacy.php:271
+msgid "Bank Details"
+msgstr "Банковские реквизиты"
+
+#: includes/Privacy.php:219
+msgid "Postal Code"
+msgstr "Почтовый индекс"
+
+#: includes/Privacy.php:179
+msgid "Gravatar Url"
+msgstr "Url граватара"
+
+#: includes/Privacy.php:178
+msgid "Banner Url"
+msgstr "URL баннера"
+
+#: includes/Privacy.php:177
+msgid "GEO Locations"
+msgstr "GEO Географическое положение "
+
+#: includes/Privacy.php:175 assets/js/vue-admin.js:5862
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/Privacy.php:174
+msgid "Social"
+msgstr "Социальные сети"
+
+#: includes/Privacy.php:92
+msgid "Dokan has premium modules that perform specific and special purpose tasks. Each of the modules collect additional information. Also third party extensions and integrations collect data that is applicable to the each of their individual privacy policy."
+msgstr "У Dokan есть премиальные модули, которые выполняют конкретные и специальные задачи. Каждый из модулей собирает дополнительную информацию. Также сторонние расширения и интеграции собирают данные, которые применимы к каждой из их правил политики конфиденциальности."
+
+#: includes/Privacy.php:91
+msgid "Modules"
+msgstr "Модули"
+
+#: includes/Privacy.php:90
+msgid "Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Privacy Policy</a> for more details."
+msgstr "Дополнительную информацию смотрите в <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\"> Политике конфиденциальности PayPal </a>."
+
+#: includes/Privacy.php:89
+msgid "We accept payments through PayPal. When processing payments, some of your data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information."
+msgstr "Мы принимаем платежи через PayPal. При обработке платежей, некоторые Ваши данные будут переданы  PayPal, включая информацию, необходимую для обработки или поддержки оплаты, такие как сумма покупки и информация о счете."
+
+#: includes/Privacy.php:88
+msgid "In this subsection you should list which third party payment processors you’re using to take payments on your store since these may handle customer data. We’ve included PayPal as an example, but you should remove this if you’re not using PayPal."
+msgstr "В этом подразделе Вы должны указать, какие сторонние платежные шлюзы Вы используете для платежей в магазине, поскольку они могут обрабатывать данные клиента. Мы включили PayPal в качестве примера, но Вы должны удалить это, если вы не используете PayPal."
+
+#: includes/Privacy.php:87
+msgid "Payments"
+msgstr "Платежи"
+
+#: includes/Privacy.php:86
+msgid "We share information with third parties who help us provide our orders and store services to you; for example --"
+msgstr "Мы делимся информацией с третьими лицами, которые помогают нам при обработке ваших заказов и предоставлении услуг магазина ; например-"
+
+#: includes/Privacy.php:85
+msgid "In this section you should list who you’re sharing data with, and for what purpose. This could include, but may not be limited to, analytics, marketing, payment gateways, shipping providers, and third party embeds."
+msgstr "В этом разделе вы должны указать, с кем Вы обмениваетесь данными и с какой целью. Это может включать (но не ограничивается ими) аналитику, маркетинг, платежные шлюзы, поставщиков доставки или третьих лиц."
+
+#: includes/Privacy.php:84
+msgid "What we share with others"
+msgstr "Чем мы делимся с другими"
+
+#: includes/Privacy.php:83
+msgid "Our team members have access to this information to help fulfill orders, process refunds and support you."
+msgstr "Наши члены команды имеют доступ к этой информации, чтобы помочь оформлять заказы, обрабатывать возмещение и поддерживать Вас."
+
+#: includes/Privacy.php:81
+msgid "Customer information like your name, email address, and billing and shipping information."
+msgstr "Информация о клиенте, такая как ваше имя, адрес электронной почты, а также информация о выставлении счетов и отправке."
+
+#: includes/Privacy.php:80
+msgid "Order information like what was purchased, when it was purchased and where it should be sent, and"
+msgstr "Информация о заказе, - что было куплено, когда куплено и куда нужно отправить заказ, и"
+
+#: includes/Privacy.php:78
+msgid "Members of our team have access to the information you provide us. For example, both Administrators and Shop Managers can access:"
+msgstr "Члены нашей команды имеют доступ к информации, которую Вы предоставляете нам. Например это могут быть администраторы или менеджеры магазина:"
+
+#: includes/Privacy.php:77
+msgid "Who on our team has access"
+msgstr "Кто в нашей команде имеет доступ"
+
+#: includes/Privacy.php:76
+msgid "We will also store comments or reviews, if you choose to leave them."
+msgstr "Мы также будем хранить комментарии или обзоры, если вы решите оставить их."
+
+#: includes/Privacy.php:75
+msgid "We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store order information for XXX years for tax and accounting purposes. This includes your name, email address and billing and shipping addresses."
+msgstr "Как правило, мы храним информацию о Вас до тех пор, пока есть потребность в данной информации в соответствии с целями, для которых мы ее собираем, хоть по закону мы не обязаны хранить ее. Например, мы будем хранить информацию о заказе в течение XXX лет для целей налогообложения и учета. Сюда входят  ваше имя, электронная почта и адреса оплаты (доставки)."
+
+#: includes/Privacy.php:74
+msgid "If you create an account, we will store your name, address, email and phone number, which will be used to populate the checkout for future orders."
+msgstr "Если Вы создадите учетную запись, мы сохраним ваше имя, адрес, электронную почту и номер телефона, которые будут использоваться для оформления будущих заказов."
+
+#: includes/Privacy.php:72
+msgid "Send you marketing messages, if you choose to receive them"
+msgstr "Отправляйте Ваши маркетинговые сообщения, если хотите получать их "
+
+#: includes/Privacy.php:71
+msgid "Improve our store offerings"
+msgstr "Совершенствовать наши предложения"
+
+#: includes/Privacy.php:70
+msgid "Comply with any legal obligations we have, such as calculating taxes"
+msgstr "Соблюдайте любые наши юридические обязательства, например, расчет налогов"
+
+#: includes/Privacy.php:69
+msgid "Set up your account for our store"
+msgstr "Создайте Вашу учётную запись в нашем магазине"
+
+#: includes/Privacy.php:68
+msgid "Process payments and prevent fraud"
+msgstr "Обработка платежей и предотвращение мошенничества"
+
+#: includes/Privacy.php:67
+msgid "Respond to your requests, including refunds and complaints"
+msgstr "Отвечайте на поступающие Вам запросы, включая возмещение и жалобы"
+
+#: includes/Privacy.php:66
+msgid "Send you information about your account and order"
+msgstr "Отправьте информацию о вашей учетной записи и заказе"
+
+#: includes/Privacy.php:64
+msgid "When you purchase from us, we’ll ask you to provide information including your name, billing address, shipping address, email address, phone number, credit card/payment details and optional account information like username and password. We’ll use this information for purposes, such as, to:"
+msgstr "Когда вы покупаете у нас, мы попросим вас предоставить информацию, включая ваше имя, платежный адрес, адрес доставки, адрес электронной почты, номер телефона, данные кредитной карты / детали оплаты и иногда дополнительную информацию об учетной записи, такую как имя пользователя и пароль. Мы будем использовать эту информацию для таких целей, как:"
+
+#: includes/Privacy.php:63
+msgid "Note: you may want to further detail your cookie policy, and link to that section from here."
+msgstr "Примечание: по желанию здесь Вы можете более подробно описать свою политику в отношении файлов cookie и разместить ссылку на раздел с ее описанием."
+
+#: includes/Privacy.php:62
+msgid "We’ll also use cookies to keep track of cart contents while you’re browsing our site."
+msgstr "Мы также будем использовать файлы-куки для отслеживания содержимого корзины во время посещения сайта."
+
+#: includes/Privacy.php:60
+msgid "Shipping address: we’ll ask you to enter this so we can, for instance, estimate shipping before you place an order, and send you the order!"
+msgstr "Адрес доставки: мы попросим Вас указать его, чтобы была возможность, например, оценить доставку, прежде чем разместить и отправить заказ!"
+
+#: includes/Privacy.php:59
+msgid "Location, IP address and browser type: we’ll use this for purposes like estimating taxes and shipping"
+msgstr "Расположение, ip-адрес и тип браузера: мы будем использовать это для целей, таких как оценка налогов и регион доставки"
+
+#: includes/Privacy.php:58
+msgid "Products you’ve viewed: we’ll use this to, for example, show you products you’ve recently viewed"
+msgstr "Товары, которые вы просмотрели: мы будем использовать это, например, для показа Товаров, которые Вы недавно просматривали"
+
+#: includes/Privacy.php:57
+msgid "Stores you’ve viewed: we’ll use this to, for example, show you vendor stores you’ve recently viewed"
+msgstr "Магазины, которые Вы просмотрели: мы будем использовать это, например, чтобы показать Вам магазины Продавцов, которые Вы недавно просматривали"
+
+#: includes/Privacy.php:55
+msgid "While you visit our site, we’ll track:"
+msgstr "Во время посещения нашего сайта, мы будем отслеживать:"
+
+#: includes/Privacy.php:54
+msgid "What we collect and store"
+msgstr "Что мы собираем и храним"
+
+#: includes/Privacy.php:53
+msgid "We collect information about you during the checkout process on our store."
+msgstr "Мы собираем информацию о Вас во время оформления заказа в нашем магазине."
+
+#: includes/Privacy.php:51
+msgid "This sample privacy policy includes the basics around what personal data your multivendor store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Этот пример политики конфиденциальности включает в себя базовые данные относительно того, какие личные данные могут собирать, хранить и которыми могут делиться маркетплейсы. А также кто может иметь доступ к этим данным. В зависимости от того, какие настройки включены, а также от того, какие дополнительные плагины используются, будет отличаться конкретная информация, которой делится ваш магазин. Мы рекомендуем проконсультироваться с юристом при принятии решения о том, какая информация должна быть включена в вашу политику конфиденциальности."
+
+#: includes/Privacy.php:33 includes/Privacy.php:36 includes/Privacy.php:144
+msgid "Vendor Data"
+msgstr "Данные Продавца"
+
+#: includes/wc-functions.php:1061
+msgid "No product has been found!"
+msgstr "Товар не найден!"
+
+#: includes/wc-functions.php:1010
+msgid "More Products"
+msgstr "Другие товары"
+
+#: includes/wc-functions.php:922
+msgid "Account details changed successfully."
+msgstr "Профиль успешно изменён."
+
+#: includes/wc-functions.php:901
+msgid "New passwords do not match."
+msgstr "Новые пароли не совпадают "
+
+#: includes/wc-functions.php:898
+msgid "Please re-enter your password."
+msgstr "Пожалуйста, подтвердите пароль."
+
+#: includes/wc-functions.php:895
+msgid "Please enter your current password."
+msgstr "Пожалуйста укажите ваш текущий пароль."
+
+#: includes/wc-functions.php:892
+msgid "Please fill out all password fields."
+msgstr "Пожалуйста заполните все поля паролей."
+
+#: includes/wc-functions.php:887
+msgid "Your current password is incorrect."
+msgstr "Ваш текущий пароль неверен."
+
+#: includes/wc-functions.php:881
+msgid "This email address is already registered."
+msgstr "Этот адрес e-mail уже зарегистрирован."
+
+#: includes/wc-functions.php:879
+msgid "Please provide a valid email address."
+msgstr "Пожалуйста, укажите действующий адрес электронной почты."
+
+#: includes/wc-functions.php:873
+msgid "is a required field."
+msgstr "обязательное поле."
+
+#: includes/wc-functions.php:765
+msgid "Your {site_title} order from {order_date} is complete"
+msgstr "Ваш заказ на сайте {site_title} на дату {order_date} выполнен"
+
+#: includes/wc-functions.php:764
+msgid "Your {site_title} order receipt from {order_date}"
+msgstr "Ваш заказ на сайте {site_title} по дате на {order_date} был получен"
+
+#: includes/wc-functions.php:103
+msgid "Product SKU must be unique"
+msgstr "Артикул товара должен быть уникальным"
+
+#: includes/Vendor/Manager.php:262
+msgid "Email is not valid"
+msgstr "Email некорректен"
+
+#: includes/Admin/functions.php:238 includes/Admin/functions.php:512
+msgid "Commision: "
+msgstr "Комиссия: "
+
+#: includes/Admin/functions.php:228 includes/Admin/functions.php:502
+msgid "sales"
+msgstr "продажи"
+
+#: includes/Admin/functions.php:218 includes/Admin/functions.php:492
+msgid "Total: "
+msgstr "Всего: "
+
+#: includes/Admin/Hooks.php:338
+msgid "Toggle Sub-orders"
+msgstr "Переключение подзаказов"
+
+#: includes/Admin/Hooks.php:143
+msgid "Hide Sub-Orders"
+msgstr "Скрыть подзаказы"
+
+#: includes/Admin/Hooks.php:143
+msgid "Show Sub-Orders"
+msgstr "Отображать подзаказы"
+
+#: includes/Admin/Hooks.php:133
+msgid "&nbsp;Sub Order of"
+msgstr "&nbsp;Субпорядок "
+
+#: includes/Admin/Hooks.php:80 includes/Admin/Hooks.php:85
+msgid "Sub Order"
+msgstr "Подзаказ"
+
+#: includes/Admin/Hooks.php:79 assets/js/vue-admin.js:3702
+msgid "Actions"
+msgstr "Действие"
+
+#: includes/template-tags.php:492
+msgid "Log out"
+msgstr "Выйти"
+
+#: includes/template-tags.php:362
+msgid "Back to Dashboard"
+msgstr "Назад в консоль"
+
+#: includes/template-tags.php:282
+msgid "Refunded (%d)"
+msgstr "Возвращено (%d)"
+
+#: includes/template-tags.php:268
+msgid "Cancelled (%d)"
+msgstr "Отменено (%d)"
+
+#: includes/template-tags.php:254
+msgid "Pending (%d)"
+msgstr "В ожидании (%d)"
+
+#: includes/template-tags.php:240
+msgid "On-hold (%d)"
+msgstr "Зарезервировано (%d)"
+
+#: includes/template-tags.php:226
+msgid "Processing (%d)"
+msgstr "В обработке (%d)"
+
+#: includes/template-tags.php:212
+msgid "Completed (%d)"
+msgstr "Завершено (%d)"
+
+#: includes/template-tags.php:136
+msgid "Product succesfully deleted"
+msgstr "Товар успешно удален"
+
+#: includes/template-tags.php:48
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: includes/template-tags.php:45
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: includes/Order/functions.php:792
+msgid "Customer Note"
+msgstr "Имя покупателя"
+
+#: includes/Order/functions.php:791
+msgid "Customer IP"
+msgstr "IP покупателя"
+
+#: includes/Order/functions.php:790
+msgid "Shipping Country"
+msgstr "Страна доставки"
+
+#: includes/Order/functions.php:789
+msgid "Shipping Postcode"
+msgstr "Почтовый индекс доставки"
+
+#: includes/Order/functions.php:788
+msgid "Shipping State"
+msgstr "Область"
+
+#: includes/Order/functions.php:787
+msgid "Shipping City"
+msgstr "Город доставки"
+
+#: includes/Order/functions.php:786
+msgid "Shipping Address 2"
+msgstr "Адрес доставки 2"
+
+#: includes/Order/functions.php:785
+msgid "Shipping Address 1"
+msgstr "Адрес доставки 1"
+
+#: includes/Order/functions.php:784
+msgid "Shipping Full Name"
+msgstr "Полное имя получателя"
+
+#: includes/Order/functions.php:783
+msgid "Shipping Last Name"
+msgstr "Фамилия получателя"
+
+#: includes/Order/functions.php:782
+msgid "Shipping First Name"
+msgstr "Имя получателя"
+
+#: includes/Order/functions.php:781
+msgid "Shipping Company"
+msgstr "Транспортная компания"
+
+#: includes/Order/functions.php:780
+msgid "Billing Country"
+msgstr "Страна для получения счета"
+
+#: includes/Order/functions.php:779
+msgid "Billing Postcode"
+msgstr "Выставление счетов на Почтовый Индекс"
+
+#: includes/Order/functions.php:778
+msgid "Billing State"
+msgstr "Область/штат для выставления счета"
+
+#: includes/Order/functions.php:777
+msgid "Billing City"
+msgstr "Город для выставления счета"
+
+#: includes/Order/functions.php:776
+msgid "Billing Address 2"
+msgstr "Платёжный адрес 2"
+
+#: includes/Order/functions.php:775
+msgid "Billing Address 1"
+msgstr "Адрес оплаты 1"
+
+#: includes/Order/functions.php:774
+msgid "Billing Phone"
+msgstr "Контактный телефон для выставления счета"
+
+#: includes/Order/functions.php:773
+msgid "Billing Email"
+msgstr "Платёжный Email"
+
+#: includes/Order/functions.php:772
+msgid "Billing Full Name"
+msgstr "Имя получателя счета"
+
+#: includes/Order/functions.php:771
+msgid "Billing Last Name"
+msgstr "Имя "
+
+#: includes/Order/functions.php:770
+msgid "Billing First Name"
+msgstr "Фамилия"
+
+#: includes/Order/functions.php:769
+msgid "Billing Company"
+msgstr " Компания - получатель счетов"
+
+#: includes/Order/functions.php:768
+msgid "Order Date"
+msgstr "Дата заказа"
+
+#: includes/Order/functions.php:765
+msgid "Payment method"
+msgstr "Способ оплаты"
+
+#: includes/Order/functions.php:764
+msgid "Shipping Cost"
+msgstr "Стоимость доставки"
+
+#: includes/Order/functions.php:763
+msgid "Shipping method"
+msgstr "Способ доставки"
+
+#: includes/Order/functions.php:761
+msgid "Order No"
+msgstr "№ заказа"
+
+#: includes/Order/functions.php:520
+msgid "Failed"
+msgstr "Неудача"
+
+#: includes/Admin/SetupWizard.php:514 includes/Order/functions.php:500
+msgid "On-hold"
+msgstr "Зарезервирован"
+
+#: includes/Order/functions.php:495
+msgid "Pending Payment"
+msgstr "В ожидании оплаты"
+
+#: includes/Vendor/Vendor.php:710
+msgid "Rated %s out of %d"
+msgstr "Оценка %s из %d"
+
+#: includes/Vendor/Vendor.php:709
+msgid "%s rating from %d review"
+msgid_plural "%s rating from %d reviews"
+msgstr[0] "%s рейтинг от %d отзова"
+msgstr[1] "%s рейтинг от %d отзывов"
+msgstr[2] "%s рейтинг от %d отзывов"
+
+#: includes/Vendor/Vendor.php:707
+msgid "No ratings found yet!"
+msgstr "Рейтинг отсутствует!"
+
+#: includes/Core.php:143
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: includes/Admin/Settings.php:540 includes/functions.php:3498
+msgid "Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [dokan_privacy_policy]"
+msgstr "Ваши личные данные будут использоваться для обеспечения вашего удобства на данном веб-сайте, управления параметрами доступа к вашей учетной записи и для других целей, описанных на странице [dokan_privacy_policy]"
+
+#: includes/functions.php:3478
+msgid "privacy policy"
+msgstr "политика конфиденциальности"
+
+#: includes/functions.php:3160
+msgid "Off Day"
+msgstr "Выходной"
+
+#: includes/functions.php:3157
+msgid "Friday"
+msgstr "Пятница"
+
+#: includes/functions.php:3154
+msgid "Thursday"
+msgstr "Четверг"
+
+#: includes/functions.php:3151
+msgid "Wednesday"
+msgstr "Среда"
+
+#: includes/functions.php:3148
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: includes/functions.php:3145
+msgid "Monday"
+msgstr "Понедельник"
+
+#: includes/functions.php:3142
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: includes/functions.php:3139
+msgid "Saturday"
+msgstr "Суббота"
+
+#: includes/functions.php:2938
+msgid "View seo settings menu"
+msgstr "Просмотреть меню настроек seo"
+
+#: includes/functions.php:2937
+msgid "View social settings menu"
+msgstr "Просмотреть меню социальных настроек"
+
+#: includes/functions.php:2936
+msgid "View shipping settings menu"
+msgstr "Просмотреть меню настроек доставки"
+
+#: includes/functions.php:2935
+msgid "View payment settings menu"
+msgstr "Просмотреть меню настроек оплаты"
+
+#: includes/functions.php:2934
+msgid "View store settings menu"
+msgstr "Просмотреть меню настроек магазина"
+
+#: includes/functions.php:2933
+msgid "View withdraw menu"
+msgstr "Просмотр меню вывода"
+
+#: includes/functions.php:2932
+msgid "Vuew review menu"
+msgstr "Просмотреть меню просмотра"
+
+#: includes/functions.php:2931
+msgid "View report menu"
+msgstr "Просмотр меню отчета"
+
+#: includes/functions.php:2930
+msgid "View coupon menu"
+msgstr "Просмотреть меню купона"
+
+#: includes/functions.php:2929
+msgid "View order menu"
+msgstr "Просмотреть меню заказа"
+
+#: includes/functions.php:2928
+msgid "View product menu"
+msgstr "Просмотр меню Товара"
+
+#: includes/functions.php:2927
+msgid "View overview menu"
+msgstr "Просмотреть обзорное меню"
+
+#: includes/functions.php:2924
+msgid "Export product"
+msgstr "Экспорт Товара"
+
+#: includes/functions.php:2923
+msgid "Import product"
+msgstr "Импорт Товара"
+
+#: includes/functions.php:2922
+msgid "Duplicate product"
+msgstr "Дублировать товар"
+
+#: includes/functions.php:2921
+msgid "View product"
+msgstr "Просмотреть товар"
+
+#: includes/functions.php:2920
+msgid "Delete product"
+msgstr "Удалить Товар"
+
+#: includes/functions.php:2919
+msgid "Edit product"
+msgstr "Изменить Товар"
+
+#: includes/functions.php:2918
+msgid "Add product"
+msgstr "Добавить Товар"
+
+#: includes/functions.php:2915
+msgid "Manage withdraw"
+msgstr "Управление выводом денег"
+
+#: includes/functions.php:2911 assets/js/vue-admin.js:4382
+msgid "Manage reviews"
+msgstr "Управление отзывами"
+
+#: includes/functions.php:2910
+msgid "View reviews"
+msgstr "Смотреть отзывы"
+
+#: includes/functions.php:2907
+msgid "Delete coupon"
+msgstr "Удалить купон"
+
+#: includes/functions.php:2906
+msgid "Edit coupon"
+msgstr "Изменить купон"
+
+#: includes/functions.php:2905
+msgid "Add coupon"
+msgstr "Добавить купон/промокод"
+
+#: includes/functions.php:2901
+msgid "Manage refund"
+msgstr "Управление возвратами"
+
+#: includes/functions.php:2900
+msgid "Manage order note"
+msgstr "Управление примечанием к заказу"
+
+#: includes/functions.php:2899
+msgid "Manage order"
+msgstr "Управление заказом"
+
+#: includes/functions.php:2898
+msgid "View order"
+msgstr "Посмотреть заказ"
+
+#: includes/functions.php:2895
+msgid "View statement report"
+msgstr "Просмотреть отчет"
+
+#: includes/functions.php:2894
+msgid "View top earning report"
+msgstr "Просмотр отчет о лучшей выручке"
+
+#: includes/functions.php:2893
+msgid "View top selling report"
+msgstr "Просмотреть отчет о лучших продажах"
+
+#: includes/functions.php:2892
+msgid "View daily sales report"
+msgstr "Просмотреть ежедневный отчета о продажах"
+
+#: includes/functions.php:2891
+msgid "View overview report"
+msgstr "Просмотреть обзорный отчет"
+
+#: includes/functions.php:2888
+msgid "View product status report"
+msgstr "Просмотреть отчет о статусе Товара"
+
+#: includes/functions.php:2887
+msgid "View review report"
+msgstr "Посмотреть обзорный отчет"
+
+#: includes/functions.php:2886
+msgid "View order report"
+msgstr "Просмотреть отчет по заказу"
+
+#: includes/functions.php:2885
+msgid "View announcement"
+msgstr "Просмотреть сообщение "
+
+#: includes/functions.php:2884
+msgid "View sales report chart"
+msgstr "Посмотреть таблицу отчетов о продажах"
+
+#: includes/functions.php:2883
+msgid "View sales overview"
+msgstr "Просмотреть обзор продаж"
+
+#: includes/functions.php:2612
+msgid "Dokan Store Sidebar"
+msgstr "Боковая панель Магазина Dokan "
+
+#: includes/functions.php:2334
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#. translators: 1: month name, 2: 4-digit year
+#: includes/functions.php:2242
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: includes/functions.php:2227
+msgid "All dates"
+msgstr "Все даты"
+
+#: includes/functions.php:2124
+msgid "6-8 weeks"
+msgstr "6-8 недель"
+
+#: includes/functions.php:2123
+msgid "4-6 weeks"
+msgstr "4-6 недель"
+
+#: includes/functions.php:2122
+msgid "3-4 weeks"
+msgstr "3-4 недели"
+
+#: includes/functions.php:2121
+msgid "2-3 weeks"
+msgstr "2-3 недели"
+
+#: includes/functions.php:2120
+msgid "1-2 weeks"
+msgstr "1-2 недели"
+
+#: includes/functions.php:2116
+msgid "1 business day"
+msgstr "1 рабочий день"
+
+#: includes/functions.php:2115
+msgid "Ready to ship in..."
+msgstr "Готовые к отправке в..."
+
+#: includes/functions.php:2093
+msgid "- Select a State -"
+msgstr "- Выберите область -"
+
+#: includes/functions.php:2074 includes/functions.php:2097
+msgid "Everywhere Else"
+msgstr "Где-либо еще"
+
+#: includes/functions.php:2070
+msgid "- Select a location -"
+msgstr "- Выберите местоположение -"
+
+#: includes/functions.php:1629
+msgid "Date is not valid"
+msgstr "Значение недействительно"
+
+#: includes/functions.php:1271
+msgid "SWIFT: %s"
+msgstr "SWIFT: %s"
+
+#: includes/functions.php:1267
+msgid "IBAN: %s"
+msgstr "IBAN: %s"
+
+#: includes/functions.php:1263
+msgid "Routing Number: %s"
+msgstr "Номер маршрута: %s"
+
+#: includes/functions.php:1259
+msgid "Address: %s"
+msgstr "Адрес: %s"
+
+#: includes/functions.php:1255
+msgid "Bank Name: %s"
+msgstr "Название банка: %s"
+
+#: includes/functions.php:1251
+msgid "Account Number: %s"
+msgstr "Расчетный счет: %s"
+
+#: includes/functions.php:1247 assets/js/vue-admin.js:3871
+msgid "Account Name: %s"
+msgstr "Имя получателя: %s"
+
+#: includes/functions.php:1024
+msgid "Author"
+msgstr "Автор"
+
+#: includes/functions.php:811
+msgid "Scheduled Product"
+msgstr "Запланированный товар"
+
+#: includes/functions.php:810
+msgid "Grouped Product"
+msgstr "Группировка товаров"
+
+#: includes/functions.php:809
+msgid "Variable Product"
+msgstr "Вариативный товар"
+
+#: includes/functions.php:808
+msgid "Simple Product"
+msgstr "Простой товар"
+
+#: includes/reports.php:349
+msgid "Sales total"
+msgstr "Общее число продаж"
+
+#: includes/Assets.php:665
+msgid "Searching&hellip;"
+msgstr "Поиск &hellip;"
+
+#: includes/Assets.php:664
+msgid "Loading more results&hellip;"
+msgstr "Загрузка большего количества результатов&hellip;"
+
+#: includes/Assets.php:663
+msgid "You can only select %qty% items"
+msgstr "Вы можете выбрать только %qty% пункты"
+
+#: includes/Assets.php:662
+msgid "You can only select 1 item"
+msgstr "Вы можете выбрать только 1 пункт"
+
+#: includes/Assets.php:661
+msgid "Please delete %qty% characters"
+msgstr "Пожалуйста, удалите %qty% символы"
+
+#: includes/Assets.php:660
+msgid "Please delete 1 character"
+msgstr "Пожалуйста, удалите 1 символ"
+
+#: includes/Assets.php:659
+msgid "Please enter %qty% or more characters"
+msgstr "Пожалуйста, введите %qty% или более символов"
+
+#: includes/Assets.php:658
+msgid "Please enter 1 or more characters"
+msgstr "Пожалуйста, введите 1 или несколько символов"
+
+#: includes/Assets.php:657
+msgid "Loading failed"
+msgstr "Ошибка загрузки"
+
+#: includes/Assets.php:656
+msgid "No matches found"
+msgstr "Совпадений не найдено"
+
+#: includes/Assets.php:655
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr "%qty% результаты достпуны, используйте стрелки вверх и вниз для навигации."
+
+#: includes/Assets.php:654
+msgid "One result is available, press enter to select it."
+msgstr "Доступен один вариант, нажмите enter, чтобы выбрать его."
+
+#: includes/Assets.php:651
+msgid "Product category is required"
+msgstr "Необходимо название категории Товара"
+
+#: includes/Assets.php:650
+msgid "Product title is required"
+msgstr "Необходимо название товара "
+
+#: includes/Assets.php:649
+msgid "Choose Image"
+msgstr "Выберите изображение"
+
+#: includes/Assets.php:648
+msgid "Select and Crop"
+msgstr "Выбрать и обрезать"
+
+#: includes/Assets.php:644
+msgid "No Result Found"
+msgstr "Результатов не найдено"
+
+#: includes/Assets.php:643
+msgid "%qty% variations"
+msgstr "% qty% вариации"
+
+#: includes/Assets.php:642
+msgid "%qty% variation"
+msgstr "%qty% вариация"
+
+#: includes/Assets.php:641
+msgid "Save changes before changing page?"
+msgstr "Сохранить изменения перед сменой страницы?"
+
+#: includes/Assets.php:640
+msgid "Sale end date (YYYY-MM-DD format or leave blank)"
+msgstr "Дата конца продажи (ГГГГ-мм-ДД или оставьте пустым)"
+
+#: includes/Assets.php:639
+msgid "Sale start date (YYYY-MM-DD format or leave blank)"
+msgstr "Дата начала продажи (ГГГГ-мм-ДД или оставьте пустым)"
+
+#: includes/Assets.php:638
+msgid "Are you sure you want to remove this variation?"
+msgstr "Вы уверены, что хотите удалить вариацию?"
+
+#: includes/Assets.php:637
+msgid "No variations added"
+msgstr "Вариации не добавлены"
+
+#: includes/Assets.php:636
+msgid "variations added"
+msgstr "вариации добавлены"
+
+#: includes/Assets.php:635
+msgid "variation added"
+msgstr "вариация добавлена"
+
+#: includes/Assets.php:634
+msgid "Set variation image"
+msgstr "Установить вариативное изображение"
+
+#: includes/Assets.php:633
+msgid "Choose an image"
+msgstr "Выберите изображение"
+
+#: includes/Assets.php:632
+msgid "Last warning, are you sure?"
+msgstr "последнее предупреждение, вы уверены?"
+
+#: includes/Assets.php:631
+msgid "Are you sure you want to delete all variations? This cannot be undone."
+msgstr "Вы уверены, что хотите удалить все вариации? Эту операцию невозможно отменить."
+
+#: includes/Assets.php:630
+msgid "Enter a value (fixed or %)"
+msgstr "Введите значение (фиксированное или %)"
+
+#: includes/Assets.php:629
+msgid "Variation menu order (determines position in the list of variations)"
+msgstr "Порядок меню изменения (определяет позицию в списке вариантов)"
+
+#: includes/Assets.php:628
+msgid "Enter a value"
+msgstr "Введите значение"
+
+#: includes/Assets.php:627
+msgid "Are you sure you want to link all variations? This will create a new variation for each and every possible combination of variation attributes (max %d per run)."
+msgstr "Вы уверены, что хотите связать все варианты? Это создаст новую вариацию для каждой возможной комбинации атрибутов вариации (макс.%d за ход)."
+
+#: includes/Assets.php:619
+msgid "Remove this attribute?"
+msgstr "Удалить этот атрибут?"
+
+#: includes/Assets.php:618
+msgid "Enter a name for the new attribute term:"
+msgstr "Введите имя для нового атрибута:"
+
+#: includes/Assets.php:617
+msgid "Warning! This product will not have any variations if this option is not checked."
+msgstr "Предупреждение! Этот товар не имеет вариаций, чтобы их выбрать."
+
+#: includes/Assets.php:616
+msgid "Sorry, this attribute option already exists, Try a different one."
+msgstr "К сожалению, эта вариация уже существует, попробуйте другую."
+
+#: includes/Assets.php:615
+msgid "Add to gallery"
+msgstr "Добавить в галерею"
+
+#: includes/Assets.php:613
+msgid "Set featured image"
+msgstr "Настроить изображение записи"
+
+#: includes/Assets.php:612
+msgid "Add Images to Product Gallery"
+msgstr "Добавить изображения в галерею товаров"
+
+#: includes/Assets.php:611
+msgid "Choose a file"
+msgstr "Выберите файл"
+
+#: includes/Assets.php:610
+msgid "Upload featured image"
+msgstr "Загрузить изображение записи"
+
+#: includes/Assets.php:492
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Пожалуйста, введите значение больше или равно {0}."
+
+#: includes/Assets.php:491
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Пожалуйста, введите значение меньше или равно {0}."
+
+#: includes/Assets.php:490
+msgid "Please enter a value between {0} and {1}."
+msgstr "Пожалуйста, введите значение между {0} и {1}."
+
+#: includes/Assets.php:489
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Пожалуйста, введите значение между {0} и {1} символов."
+
+#: includes/Assets.php:488
+msgid "Please enter at least {0} characters."
+msgstr "Пожалуйста, введите по крайней мере, {0} символов."
+
+#: includes/Assets.php:487
+msgid "Please enter no more than {0} characters."
+msgstr "Пожалуйста введите не более {0} символов."
+
+#: includes/Assets.php:486
+msgid "Please enter the same value again."
+msgstr "Пожалуйста, введите то же значение снова."
+
+#: includes/Assets.php:485
+msgid "Please enter a valid credit card number."
+msgstr "Пожалуйста введите действующий номер кредитной карты."
+
+#: includes/Assets.php:484
+msgid "Please enter only digits."
+msgstr "Укажите только цифры."
+
+#: includes/Assets.php:483
+msgid "Please enter a valid number."
+msgstr "Пожалуйста, введите действительный номер."
+
+#: includes/Assets.php:482
+msgid "Please enter a valid date (ISO)."
+msgstr "Пожалуйста, введите правильную дату (ISO)."
+
+#: includes/Assets.php:481
+msgid "Please enter a valid date."
+msgstr "Пожалуйста, введите правильную дату."
+
+#: includes/Assets.php:480
+msgid "Please enter a valid URL."
+msgstr "Пожалуйста, введите корректный URL."
+
+#: includes/Assets.php:479
+msgid "Please enter a valid email address."
+msgstr "Пожалуйста, введите правильный адрес электронной почты."
+
+#: includes/Assets.php:478
+msgid "Please fix this field."
+msgstr "Пожалуйста, исправьте это поле."
+
+#: includes/Assets.php:477
+msgid "This field is required"
+msgstr "Обязательное поле"
+
+#: includes/Assets.php:402
+msgid "Something went wrong. Please try again."
+msgstr "Что-то пошло не так. Пожалуйста, попробуйте еще раз."
+
+#: includes/Assets.php:401 assets/js/vue-admin.js:3853
+msgid "Are you sure?"
+msgstr "Вы уверенны?"
+
+#: includes/wc-legacy-functions.php:61
+msgctxt "Order date parsed by strftime"
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y @ %I:%M %p"
+
+#: includes/wc-legacy-functions.php:61
+msgid "Order &ndash; %s"
+msgstr "Заказ &ndash; %s"
+
+#: includes/Shortcodes/Dashboard.php:25
+msgid "Please install <a href=\"%s\"><strong>WooCommerce</strong></a> plugin first"
+msgstr "Пожалуйста, установите сначала плагин <a href=\"%s\"><strong>WooCommerce</strong></a>"
+
+#: includes/REST/ProductController.php:2264
+msgid "Menu order, used to custom sort products."
+msgstr "В каком порядке сортировать товары"
+
+#: includes/REST/ProductController.php:2256
+msgid "List of grouped products ID."
+msgstr "Список идентификаторов сгруппированных товаров"
+
+#: includes/REST/ProductController.php:2247
+msgid "List of variations IDs."
+msgstr "Список вариантов идентификаторов"
+
+#: includes/REST/ProductController.php:2239
+msgid "Selected attribute term name."
+msgstr "Название выбранного значения "
+
+#: includes/REST/ProductController.php:2222
+msgid "Defaults variation attributes."
+msgstr "По умолчанию варианты атрибутов."
+
+#: includes/REST/ProductController.php:2211
+msgid "List of available term names of the attribute."
+msgstr "Список доступных названий свойств"
+
+#: includes/REST/ProductController.php:2205
+msgid "Define if the attribute can be used as variation."
+msgstr "Определите, если свойство может использоваться как вариант"
+
+#: includes/REST/ProductController.php:2199
+msgid "Define if the attribute is visible on the \"Additional information\" tab in the product's page."
+msgstr "Определить, если свойство не отображается на вкладке \"Дополнительная информация\" на странице товара."
+
+#: includes/REST/ProductController.php:2194
+msgid "Attribute position."
+msgstr "Расположение атрибута."
+
+#: includes/REST/ProductController.php:2189
+#: includes/REST/ProductController.php:2234
+msgid "Attribute name."
+msgstr "Название атрибута."
+
+#: includes/REST/ProductController.php:2184
+#: includes/REST/ProductController.php:2229
+msgid "Attribute ID."
+msgstr "ID атрибута."
+
+#: includes/REST/ProductController.php:2177
+msgid "List of attributes."
+msgstr "Список атрибутов."
+
+#: includes/REST/ProductController.php:2169
+msgid "Image position. 0 means that the image is featured."
+msgstr "Положение изображения. 0 означает, что изображение отображается."
+
+#: includes/REST/ProductController.php:2164
+msgid "Image alternative text."
+msgstr "Альтернативный текст для изображения."
+
+#: includes/REST/ProductController.php:2159
+msgid "Image name."
+msgstr "Название изображения."
+
+#: includes/REST/ProductController.php:2153
+msgid "Image URL."
+msgstr "URL изображения."
+
+#: includes/REST/ProductController.php:2147
+msgid "The date the image was last modified, as GMT."
+msgstr "Дата последнего изменения изображения, по Гринвичу."
+
+#: includes/REST/ProductController.php:2141
+msgid "The date the image was last modified, in the site's timezone."
+msgstr "Дата последнего изменения промокода в часовом поясе сайта."
+
+#: includes/REST/ProductController.php:2135
+msgid "The date the image was created, as GMT."
+msgstr "Дата образ был создан, как GMT."
+
+#: includes/REST/ProductController.php:2129
+msgid "The date the image was created, in the site's timezone."
+msgstr "Дата создания изображения с учетом часового пояса сайта."
+
+#: includes/REST/ProductController.php:2124
+msgid "Image ID."
+msgstr "ID Изображения."
+
+#: includes/REST/ProductController.php:2117
+msgid "List of images."
+msgstr "Список изображений."
+
+#: includes/REST/ProductController.php:2108
+msgid "Tag slug."
+msgstr "Короткая ссылка тега."
+
+#: includes/REST/ProductController.php:2102
+msgid "Tag name."
+msgstr "Имя тега."
+
+#: includes/REST/ProductController.php:2097
+msgid "Tag ID."
+msgstr "Идентификатор тега."
+
+#: includes/REST/ProductController.php:2090
+msgid "List of tags."
+msgstr "Список тегов"
+
+#: includes/REST/ProductController.php:2081
+msgid "Category slug."
+msgstr "Категория записей."
+
+#: includes/REST/ProductController.php:2075
+msgid "Category name."
+msgstr "Название категории."
+
+#: includes/REST/ProductController.php:2070
+msgid "Category ID."
+msgstr "Идентификатор категории."
+
+#: includes/REST/ProductController.php:2063
+msgid "List of categories."
+msgstr "Список категорий."
+
+#: includes/REST/ProductController.php:2058
+msgid "Optional note to send the customer after purchase."
+msgstr "Дополнительное примечание для отправки клиенту после покупки."
+
+#: includes/REST/ProductController.php:2053
+msgid "Product parent ID."
+msgstr "\"Родительский\" ID товара."
+
+#: includes/REST/ProductController.php:2045
+msgid "List of cross-sell products IDs."
+msgstr "Список IDs перекликающихся товаров."
+
+#: includes/REST/ProductController.php:2037
+msgid "List of up-sell products IDs."
+msgstr "Список IDs более дорогих (up-sell) товаров."
+
+#: includes/REST/ProductController.php:2028
+msgid "List of related products IDs."
+msgstr "Список IDs похожих продуктов."
+
+#: includes/REST/ProductController.php:2022
+msgid "Amount of reviews that the product have."
+msgstr "Количество отзывов о магазине."
+
+#: includes/REST/ProductController.php:2016
+msgid "Reviews average rating."
+msgstr "Средняя оценка."
+
+#: includes/REST/ProductController.php:2010
+msgid "Allow reviews."
+msgstr "Разрешить отзывы."
+
+#: includes/REST/ProductController.php:2004
+msgid "Shipping class ID."
+msgstr "ID класса доставки."
+
+#: includes/REST/ProductController.php:1999
+msgid "Shipping class slug."
+msgstr "Идентификатор класса доставки."
+
+#: includes/REST/ProductController.php:1993
+msgid "Shows whether or not the product shipping is taxable."
+msgstr "Показывает, облагается ли товар налогом или нет."
+
+#: includes/REST/ProductController.php:1987
+msgid "Shows if the product need to be shipped."
+msgstr "Показывает, если товар должен быть отправлен."
+
+#. translators: %s: dimension unit
+#: includes/REST/ProductController.php:1980
+msgid "Product height (%s)."
+msgstr "Высота товара (%s)."
+
+#. translators: %s: dimension unit
+#: includes/REST/ProductController.php:1974
+msgid "Product width (%s)."
+msgstr "Ширина товара (%s)."
+
+#. translators: %s: dimension unit
+#: includes/REST/ProductController.php:1968
+msgid "Product length (%s)."
+msgstr "Длина товара (%s)."
+
+#: includes/REST/ProductController.php:1962
+msgid "Product dimensions."
+msgstr "Размеры товара."
+
+#. translators: %s: weight unit
+#: includes/REST/ProductController.php:1957
+msgid "Product weight (%s)."
+msgstr "Вес товара (%s)."
+
+#: includes/REST/ProductController.php:1950
+msgid "Allow one item to be bought in a single order."
+msgstr "Разрешить единичную покупку товара в одном заказе."
+
+#: includes/REST/ProductController.php:1944
+msgid "Shows if the product is on backordered."
+msgstr "Показывает, находится ли продукт на свободном уровне."
+
+#: includes/REST/ProductController.php:1938
+msgid "Shows if backorders are allowed."
+msgstr "Показывает, разрешены ли отложенные заказы."
+
+#: includes/REST/ProductController.php:1931
+msgid "If managing stock, this controls if backorders are allowed."
+msgstr "Если вы управляете запасом, здесь вы указываете, допустимы ли отложенные заказы."
+
+#: includes/REST/ProductController.php:1925
+msgid "Controls whether or not the product is listed as \"in stock\" or \"out of stock\" on the frontend."
+msgstr "Контролирует, будет ли товар отмечен как \"В наличии\" или \"Нет в наличии\" во внешнем интерфейсе."
+
+#: includes/REST/ProductController.php:1920
+msgid "Stock quantity."
+msgstr "Количество в наличии."
+
+#: includes/REST/ProductController.php:1914
+msgid "Stock management at product level."
+msgstr "Включить управление запасами на уровне товаров."
+
+#: includes/REST/ProductController.php:1909
+msgid "Tax class."
+msgstr "Вид налога."
+
+#: includes/REST/ProductController.php:1902
+msgid "Tax status."
+msgstr "Налоги."
+
+#: includes/REST/ProductController.php:1897
+msgid "Product external button text. Only for external products."
+msgstr "Внешняя кнопка текст продукта. Только для внешних продуктов."
+
+#: includes/REST/ProductController.php:1891
+msgid "Product external URL. Only for external products."
+msgstr "Внешний URL продукта. Только для внешних продуктов."
+
+#: includes/REST/ProductController.php:1885
+msgid "Number of days until access to downloadable files expires."
+msgstr "Количество дней до истечения срока действия доступа к загружаемым файлам."
+
+#: includes/REST/ProductController.php:1879
+msgid "Number of times downloadable files can be downloaded after purchase."
+msgstr "Сколько раз могут быть загружены файлы после покупки."
+
+#: includes/REST/ProductController.php:1871
+msgid "File URL."
+msgstr "URL файла:"
+
+#: includes/REST/ProductController.php:1866
+msgid "File name."
+msgstr "Имя файла:"
+
+#: includes/REST/ProductController.php:1860
+msgid "File MD5 hash."
+msgstr "Файл MD5 хэш."
+
+#: includes/REST/ProductController.php:1853
+msgid "List of downloadable files."
+msgstr "Список загружаемых файлов."
+
+#: includes/REST/ProductController.php:1847
+msgid "If the product is downloadable."
+msgstr "Если товар является скачиваемым."
+
+#: includes/REST/ProductController.php:1841
+msgid "If the product is virtual."
+msgstr "Если товар является виртуальным."
+
+#: includes/REST/ProductController.php:1835
+msgid "Amount of sales."
+msgstr "Объем продаж."
+
+#: includes/REST/ProductController.php:1829
+msgid "Shows if the product can be bought."
+msgstr "Показывает, может ли продукт быть куплен."
+
+#: includes/REST/ProductController.php:1823
+msgid "Shows if the product is on sale."
+msgstr "Показывает, если продукт со скидкой."
+
+#: includes/REST/ProductController.php:1817
+msgid "Price formatted in HTML."
+msgstr "Цена в формате HTML."
+
+#: includes/REST/ProductController.php:1812
+msgid "End date of sale price, as GMT."
+msgstr "Дата окончания акции (в GMT)."
+
+#: includes/REST/ProductController.php:1807
+msgid "End date of sale price, in the site's timezone."
+msgstr "Дата окончания цены со скидкой, в соответствии с часовым поясом на сайте."
+
+#: includes/REST/ProductController.php:1802
+msgid "Start date of sale price, as GMT."
+msgstr "Дата начала распродажи, GMT."
+
+#: includes/REST/ProductController.php:1797
+msgid "Start date of sale price, in the site's timezone."
+msgstr "Дата начала продажи, в часовом поясе сайта."
+
+#: includes/REST/ProductController.php:1792
+msgid "Product sale price."
+msgstr "Цена продукта со скидкой"
+
+#: includes/REST/ProductController.php:1787
+msgid "Product regular price."
+msgstr "Обычная цена продукта"
+
+#: includes/REST/ProductController.php:1781
+msgid "Current product price."
+msgstr "Текущая цена продукта"
+
+#: includes/REST/ProductController.php:1776
+msgid "Unique identifier."
+msgstr "Уникальный идентификационный код."
+
+#: includes/REST/ProductController.php:1771
+msgid "Product short description."
+msgstr "Короткое описание товара."
+
+#: includes/REST/ProductController.php:1766
+msgid "Product description."
+msgstr "Описание товара."
+
+#: includes/REST/ProductController.php:1759
+msgid "Catalog visibility."
+msgstr "Видимость в каталоге."
+
+#: includes/REST/ProductController.php:1753
+msgid "Featured product."
+msgstr "Рекомендуемое предложение."
+
+#: includes/REST/ProductController.php:1746
+msgid "Product status (post status)."
+msgstr "Статус товара (опубликованный статус)."
+
+#: includes/REST/ProductController.php:1739
+msgid "Product type."
+msgstr "Тип товара."
+
+#: includes/REST/ProductController.php:1733
+msgid "The date the product was last modified, as GMT."
+msgstr "Дата последнего изменения продукта, GMT."
+
+#: includes/REST/ProductController.php:1727
+msgid "The date the product was last modified, in the site's timezone."
+msgstr "Дата последнего изменения продукта в соответствии с часовым поясом сайта."
+
+#: includes/REST/ProductController.php:1721
+msgid "The date the product was created, as GMT."
+msgstr "Дата создания продукта, как GMT."
+
+#: includes/REST/ProductController.php:1715
+msgid "The date the product was created, in the site's timezone."
+msgstr "Дата создания промокода в часовом поясе сайта."
+
+#: includes/REST/ProductController.php:1708
+msgid "Product URL."
+msgstr "URL-адрес продукта."
+
+#: includes/REST/ProductController.php:1703
+msgid "Product slug."
+msgstr "Заголовок  Продукта."
+
+#. translators: %s: attachment id
+#: includes/REST/ProductController.php:1484
+msgid "#%s is an invalid image ID."
+msgstr "#%s неверный ID изображения."
+
+#: includes/REST/ProductController.php:1271
+#: includes/REST/ProductController.php:1272
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: includes/REST/ProductController.php:271
+msgid "You can not select more than category"
+msgstr "Вы не можете выбрать более одной рубрики"
+
+#: includes/REST/ProductController.php:266
+msgid "Category must be required"
+msgstr "Категория должна быть обязательно выбрана"
+
+#: includes/REST/ProductController.php:260
+msgid "Product title must be required"
+msgstr "Название Товара должно быть выбрано обязательно"
+
+#: includes/REST/ProductController.php:150
+#: includes/REST/ProductController.php:173
+#: includes/REST/ProductController.php:196
+#: includes/REST/ProductController.php:219
+msgid "Top rated product for specific vendor"
+msgstr "Топовый продукт от конкретного продавца"
+
+#: includes/REST/ProductController.php:145
+#: includes/REST/ProductController.php:168
+#: includes/REST/ProductController.php:191
+#: includes/REST/ProductController.php:214
+msgid "Number of page number"
+msgstr "Номер страницы"
+
+#: includes/REST/ProductController.php:126
+#: includes/REST/ProductController.php:140
+#: includes/REST/ProductController.php:163
+#: includes/REST/ProductController.php:186
+#: includes/REST/ProductController.php:209
+msgid "Number of product you want to get top rated product"
+msgstr "Номер продукта, который Вы хотите сделать топовым продуктом"
+
+#: includes/REST/ProductController.php:104
+msgid "Whether to bypass trash and force deletion."
+msgstr "Оставить ли мусор в корзине, либо принудительно очистить ее."
+
+#: includes/REST/AdminDashboardController.php:109
+msgid "Untitled"
+msgstr "Без названия"
+
+#: includes/REST/AdminDashboardController.php:94
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Произошла ошибка, которая, вероятно, означает, что фид не работает. Повторите попытку позже."
+
+#: includes/REST/AdminDashboardController.php:58
+msgid "Flag for showing date"
+msgstr "Поставьте галочку чтобы показать дату"
+
+#: includes/REST/AdminDashboardController.php:52
+msgid "Flag for showing author"
+msgstr "Поставьте галочку чтобы показать автора"
+
+#: includes/REST/AdminDashboardController.php:46
+msgid "Flag for showing summary"
+msgstr "Поставьте галочку чтобы показать сводку"
+
+#: includes/REST/AdminDashboardController.php:40
+msgid "Number of feed item"
+msgstr "Количество элементов фида"
+
+#: includes/Admin/functions.php:231 includes/Admin/functions.php:505
+#: includes/REST/AdminReportController.php:149
+msgid "Commision"
+msgstr "Комиссия"
+
+#: includes/Admin/functions.php:221 includes/Admin/functions.php:495
+#: includes/reports.php:359 includes/REST/AdminReportController.php:142
+msgid "Number of orders"
+msgstr "Количество заказов"
+
+#: includes/Admin/functions.php:211 includes/Admin/functions.php:485
+#: includes/REST/AdminReportController.php:134
+msgid "Total Sales"
+msgstr "Всего продаж"
+
+#: includes/REST/WithdrawController.php:703
+msgid "User IP"
+msgstr "IP пользователя"
+
+#: includes/REST/WithdrawController.php:697
+msgid "Withdraw Notes"
+msgstr "Примечание для вывода средств"
+
+#: includes/REST/WithdrawController.php:690
+msgid "Withdraw Method"
+msgstr "Способ вывода средств"
+
+#: includes/REST/WithdrawController.php:675
+msgid "The date the withdraw request has beed created in the site's timezone."
+msgstr "Дата создания запроса на вывод средств, созданная в часовом поясе сайта."
+
+#: includes/REST/WithdrawController.php:670
+msgid "The amount of discount. Should always be numeric, even if setting a percentage."
+msgstr "Размер скидки. Всегда должен быть числовым, даже если скидка установлена в процентах."
+
+#: includes/REST/WithdrawController.php:657
+msgid "Requested User"
+msgstr "Запрос пользователя"
+
+#: includes/REST/WithdrawController.php:238
+#: includes/REST/WithdrawController.php:302
+msgid "No vendor found"
+msgstr "Продавец не найден"
+
+#: includes/REST/WithdrawController.php:682
+msgid "Withdraw status"
+msgstr "Статус вывода средств"
+
+#: includes/REST/OrderController.php:1656
+msgid "Define if the order is paid. It will set the status to processing and reduce stock items."
+msgstr "Определите если заказ оплачен. Он будет установить состояние обработки и снижения запасов предметов."
+
+#: includes/REST/OrderController.php:1647
+msgid "Refund total."
+msgstr "Сумма возврата."
+
+#: includes/REST/OrderController.php:1641
+msgid "Refund reason."
+msgstr "Причина возврата."
+
+#: includes/REST/OrderController.php:1635
+msgid "Refund ID."
+msgstr "ID возврата."
+
+#: includes/REST/OrderController.php:1627
+msgid "List of refunds."
+msgstr "Список возвратов."
+
+#: includes/REST/OrderController.php:1592
+msgid "Discount total tax."
+msgstr "Скидка на весь налог."
+
+#: includes/REST/OrderController.php:1587
+msgid "Discount total."
+msgstr "Общая сумма скидок."
+
+#: includes/REST/OrderController.php:1582
+msgid "Coupon code."
+msgstr "Код промокода."
+
+#: includes/REST/OrderController.php:1569
+msgid "Coupons line data."
+msgstr "Данные промокодов."
+
+#: includes/REST/OrderController.php:1494
+msgid "Tax status of fee."
+msgstr "Налоговый статус комиссии."
+
+#: includes/REST/OrderController.php:1489
+msgid "Tax class of fee."
+msgstr "Вид налогового сбора."
+
+#: includes/REST/OrderController.php:1484
+msgid "Fee name."
+msgstr "Название комиссии."
+
+#: includes/REST/OrderController.php:1471
+msgid "Fee lines data."
+msgstr "Данные о комиссии."
+
+#: includes/REST/OrderController.php:1403
+msgid "Shipping method ID."
+msgstr "ID способа доставки."
+
+#: includes/REST/OrderController.php:1398
+msgid "Shipping method name."
+msgstr "Название метода доставки."
+
+#: includes/REST/OrderController.php:1385
+msgid "Shipping lines data."
+msgstr "Данные доставки."
+
+#: includes/REST/OrderController.php:1350
+msgid "Shipping tax total."
+msgstr "Сумма налогово на доставку."
+
+#: includes/REST/OrderController.php:1344
+msgid "Tax total (not including shipping taxes)."
+msgstr "Сумма налога (не включая налоги на доставку)."
+
+#: includes/REST/OrderController.php:1338
+msgid "Show if is a compound tax rate."
+msgstr "Показать это в случае объединенной налоговой ставки."
+
+#: includes/REST/OrderController.php:1332
+msgid "Tax rate label."
+msgstr "Налоговая ставка."
+
+#: includes/REST/OrderController.php:1320
+msgid "Tax rate code."
+msgstr "Код налоговой ставки."
+
+#: includes/REST/OrderController.php:1306
+msgid "Tax lines data."
+msgstr "Данные налогов."
+
+#: includes/REST/OrderController.php:1297
+msgid "Product price."
+msgstr "Цена продукта"
+
+#: includes/REST/OrderController.php:1291
+msgid "Product SKU."
+msgstr "Показывать АРТИКУЛ продукта."
+
+#: includes/REST/OrderController.php:1257
+#: includes/REST/OrderController.php:1531
+msgid "Tax subtotal."
+msgstr "Сумма налогов."
+
+#: includes/REST/OrderController.php:1252
+#: includes/REST/OrderController.php:1433
+#: includes/REST/OrderController.php:1525
+msgid "Tax total."
+msgstr "Включая Налоги."
+
+#: includes/REST/OrderController.php:1247
+#: includes/REST/OrderController.php:1326
+#: includes/REST/OrderController.php:1427
+#: includes/REST/OrderController.php:1519
+msgid "Tax rate ID."
+msgstr "ID налоговой ставки."
+
+#: includes/REST/OrderController.php:1239
+#: includes/REST/OrderController.php:1419
+#: includes/REST/OrderController.php:1511
+msgid "Line taxes."
+msgstr "Линия налогов."
+
+#: includes/REST/OrderController.php:1233
+#: includes/REST/OrderController.php:1413
+#: includes/REST/OrderController.php:1505
+msgid "Line total tax (after discounts)."
+msgstr "Итого налогов (после применения скидок)."
+
+#: includes/REST/OrderController.php:1228
+#: includes/REST/OrderController.php:1408
+#: includes/REST/OrderController.php:1500
+msgid "Line total (after discounts)."
+msgstr "Итого сумма (после применения скидок)."
+
+#: includes/REST/OrderController.php:1222
+msgid "Line subtotal tax (before discounts)."
+msgstr "Строка суммы налогов (до применения скидок)."
+
+#: includes/REST/OrderController.php:1217
+msgid "Line subtotal (before discounts)."
+msgstr "Строка суммы (до применения скидок)."
+
+#: includes/REST/OrderController.php:1212
+msgid "Tax class of product."
+msgstr "Налоговый класс продукта."
+
+#: includes/REST/OrderController.php:1207
+msgid "Quantity ordered."
+msgstr "Заказанное количество "
+
+#: includes/REST/OrderController.php:1202
+msgid "Variation ID, if applicable."
+msgstr " Вариант ID, если он применим."
+
+#: includes/REST/OrderController.php:1197
+msgid "Product ID."
+msgstr "Идентификатор (ID) товара."
+
+#: includes/REST/ProductController.php:1698
+#: includes/REST/OrderController.php:1192
+msgid "Product name."
+msgstr "Наименование товара"
+
+#: includes/REST/OrderController.php:1186
+#: includes/REST/OrderController.php:1314
+#: includes/REST/OrderController.php:1392
+#: includes/REST/OrderController.php:1478
+#: includes/REST/OrderController.php:1576
+msgid "Item ID."
+msgstr "ID элемента."
+
+#: includes/REST/OrderController.php:1179
+msgid "Line items data."
+msgstr "Данные позиций."
+
+#: includes/REST/ProductController.php:2287
+#: includes/REST/OrderController.php:1171
+#: includes/REST/OrderController.php:1283
+#: includes/REST/OrderController.php:1374
+#: includes/REST/OrderController.php:1460
+#: includes/REST/OrderController.php:1558
+#: includes/REST/OrderController.php:1616
+msgid "Meta value."
+msgstr "Мета-значение."
+
+#: includes/REST/ProductController.php:2282
+#: includes/REST/OrderController.php:1166
+#: includes/REST/OrderController.php:1278
+#: includes/REST/OrderController.php:1369
+#: includes/REST/OrderController.php:1455
+#: includes/REST/OrderController.php:1553
+#: includes/REST/OrderController.php:1611
+msgid "Meta key."
+msgstr "Мета ключ."
+
+#: includes/REST/ProductController.php:2276
+#: includes/REST/OrderController.php:1160
+#: includes/REST/OrderController.php:1272
+#: includes/REST/OrderController.php:1363
+#: includes/REST/OrderController.php:1449
+#: includes/REST/OrderController.php:1547
+#: includes/REST/OrderController.php:1605
+msgid "Meta ID."
+msgstr "ID метаданные."
+
+#: includes/REST/ProductController.php:2269
+#: includes/REST/OrderController.php:1153
+#: includes/REST/OrderController.php:1265
+#: includes/REST/OrderController.php:1356
+#: includes/REST/OrderController.php:1442
+#: includes/REST/OrderController.php:1540
+#: includes/REST/OrderController.php:1598
+msgid "Meta data."
+msgstr "Метаданные."
+
+#: includes/REST/OrderController.php:1147
+msgid "MD5 hash of cart items to ensure orders are not modified."
+msgstr "MD5-хэш объектов в корзине для гарантии того, что заказы не были изменены."
+
+#: includes/REST/OrderController.php:1141
+msgid "The date the order was completed, as GMT."
+msgstr "Дата оформления заказа, по Гринвичу."
+
+#: includes/REST/OrderController.php:1135
+msgid "The date the order was completed, in the site's timezone."
+msgstr "Дата оформления заказа, в соответствии с часовым поясом сайта."
+
+#: includes/REST/OrderController.php:1129
+msgid "The date the order was paid, as GMT."
+msgstr "Дата, когда заказ был оплачен, как GMT."
+
+#: includes/REST/OrderController.php:1123
+msgid "The date the order was paid, in the site's timezone."
+msgstr "Дата, когда заказ был оплачен, в соответствии с часовым поясом сайта."
+
+#: includes/REST/OrderController.php:1118
+msgid "Unique transaction ID."
+msgstr "Уникальный идентификатор транзакции."
+
+#: includes/REST/OrderController.php:1113
+msgid "Payment method title."
+msgstr "Название метода оплаты."
+
+#: includes/REST/OrderController.php:1108
+msgid "Payment method ID."
+msgstr "ID способа оплаты."
+
+#: includes/REST/OrderController.php:1056
+msgid "Shipping address."
+msgstr "Адрес доставки."
+
+#: includes/REST/OrderController.php:1049
+msgid "Phone number."
+msgstr "Номер телефона."
+
+#: includes/REST/OrderController.php:1043
+msgid "Email address."
+msgstr "E-mail"
+
+#: includes/REST/OrderController.php:1038
+#: includes/REST/OrderController.php:1101
+msgid "Country code in ISO 3166-1 alpha-2 format."
+msgstr "Код страны в формате ISO 3166-1 alpha-2."
+
+#: includes/REST/OrderController.php:1033
+#: includes/REST/OrderController.php:1096
+msgid "Postal code."
+msgstr "Почтовий индекс."
+
+#: includes/REST/OrderController.php:1028
+#: includes/REST/OrderController.php:1091
+msgid "ISO code or name of the state, province or district."
+msgstr "ISO-код или название штата, провинции или района."
+
+#: includes/REST/OrderController.php:1023
+#: includes/REST/OrderController.php:1086
+msgid "City name."
+msgstr "Название города."
+
+#: templates/admin-setup-wizard/step-store-wc-fields.php:44
+#: includes/REST/OrderController.php:1018
+#: includes/REST/OrderController.php:1081
+msgid "Address line 2"
+msgstr "Адрес 2"
+
+#: templates/admin-setup-wizard/step-store-wc-fields.php:37
+#: includes/REST/OrderController.php:1013
+#: includes/REST/OrderController.php:1076
+msgid "Address line 1"
+msgstr "Адрес"
+
+#: includes/REST/OrderController.php:1008
+#: includes/REST/OrderController.php:1071
+msgid "Company name."
+msgstr "Название компании."
+
+#: includes/REST/OrderController.php:1003
+#: includes/REST/OrderController.php:1066
+msgid "Last name."
+msgstr "Фамилия."
+
+#: includes/REST/OrderController.php:998 includes/REST/OrderController.php:1061
+msgid "First name."
+msgstr "Имя."
+
+#: includes/REST/OrderController.php:993
+msgid "Billing address."
+msgstr "Адрес выставления счета."
+
+#: includes/REST/OrderController.php:988
+msgid "Note left by customer during checkout."
+msgstr "Примечание клиента во время оформления заказа."
+
+#: includes/REST/OrderController.php:982
+msgid "User agent of the customer."
+msgstr "Пользовательский агент клиента."
+
+#: includes/REST/OrderController.php:976
+msgid "Customer's IP address."
+msgstr "IP-адреc пользователя."
+
+#: includes/REST/OrderController.php:970
+msgid "User ID who owns the order. 0 for guests."
+msgstr "ID идентификатор пользователя, отправляющего заказ. 0 для гостей."
+
+#: includes/REST/OrderController.php:964
+msgid "True the prices included tax during checkout."
+msgstr "Узнайте точную цену с учетом налога при оформлении заказа."
+
+#: includes/REST/OrderController.php:958
+msgid "Sum of all taxes."
+msgstr "Сумма всех налогов."
+
+#: includes/REST/OrderController.php:952
+msgid "Grand total."
+msgstr "Общий итог."
+
+#: includes/REST/OrderController.php:946
+msgid "Sum of line item taxes only."
+msgstr "Сумма налогов товаров."
+
+#: includes/REST/OrderController.php:940
+msgid "Total shipping tax amount for the order."
+msgstr "Общая сумма налога на доставку для заказа."
+
+#: includes/REST/OrderController.php:934
+msgid "Total shipping amount for the order."
+msgstr "Общая количество доставки для заказа."
+
+#: includes/REST/OrderController.php:928
+msgid "Total discount tax amount for the order."
+msgstr "Общая сумма налога со скидкой для заказа."
+
+#: includes/REST/OrderController.php:922
+msgid "Total discount amount for the order."
+msgstr "Общая сумма скидок для заказа."
+
+#: includes/REST/OrderController.php:916
+msgid "The date the order was last modified, as GMT."
+msgstr "Дата последнего изменения заказа, по Гринвичу."
+
+#: includes/REST/OrderController.php:910
+msgid "The date the order was last modified, in the site's timezone."
+msgstr "Дата последнего изменения заказа, в соответствии с временной зоной сайта."
+
+#: includes/REST/OrderController.php:904
+msgid "The date the order was created, as GMT."
+msgstr "Дата создания заказа, по Гринвичу."
+
+#: includes/REST/OrderController.php:897
+msgid "The date the order was created, in the site's timezone."
+msgstr "Дата создания заказа в часовом поясе сайта."
+
+#: includes/REST/OrderController.php:890
+msgid "Currency the order was created with, in ISO format."
+msgstr "Валюта заказа, в формате ISO."
+
+#: includes/REST/OrderController.php:883
+msgid "Order status."
+msgstr "Статус заказа."
+
+#: includes/REST/OrderController.php:877
+msgid "Version of WooCommerce which last updated the order."
+msgstr "Версия WooCommerce во время последнего обновления заказа."
+
+#: includes/REST/OrderController.php:871
+msgid "Shows where the order was created."
+msgstr "Показывает, где был создан заказ."
+
+#: includes/REST/OrderController.php:865
+msgid "Order key."
+msgstr "Ключ заказа."
+
+#: includes/REST/OrderController.php:859
+msgid "Order number."
+msgstr "Номер заказа."
+
+#: includes/REST/OrderController.php:854
+msgid "Orders belongs to specific seller"
+msgstr "Заказы, относящиеся к конкретному продавцу"
+
+#: includes/REST/OrderController.php:849
+msgid "Parent order ID."
+msgstr "ID родительского заказа."
+
+#: includes/REST/ProductController.php:1692
+#: includes/REST/OrderController.php:843
+msgid "Unique identifier for the resource."
+msgstr "Уникальный идентификатор ресурса."
+
+#: includes/REST/OrderController.php:623 includes/REST/OrderController.php:654
+msgid "Invalid resource ID."
+msgstr "Недопустимый идентификатор ID ресурса."
+
+#: includes/REST/OrderController.php:582
+msgid "Cannot create order note, please try again."
+msgstr "Невозможно создать примечание к заказу, повторите попытку."
+
+#: includes/REST/OrderController.php:571
+msgid "You have no permission to create this notes"
+msgstr "У вас нет разрешения на создание этих заметок."
+
+#: includes/REST/ProductController.php:256
+#: includes/REST/OrderController.php:564
+msgid "Cannot create existing %s."
+msgstr "Невозможно создать существующий %s."
+
+#: includes/REST/OrderController.php:512 includes/REST/OrderController.php:575
+#: includes/REST/OrderController.php:617 includes/REST/OrderController.php:648
+msgid "Invalid order ID."
+msgstr "Неправильный ID заказа."
+
+#: includes/REST/OrderController.php:508 includes/REST/OrderController.php:613
+#: includes/REST/OrderController.php:644
+msgid "You have no permission to view this notes"
+msgstr "У вас нет разрешения просматривать эти примечания"
+
+#: includes/REST/OrderController.php:351
+msgid "Invalid order"
+msgstr "Неверный заказ"
+
+#: includes/REST/OrderController.php:343
+msgid "Order status not valid"
+msgstr "Статус заказа недействителен"
+
+#: includes/REST/OrderController.php:337
+msgid "Order status must me required"
+msgstr "Требуется указать статус заказа "
+
+#: includes/REST/OrderController.php:331
+msgid "Invalid order ID"
+msgstr "Неправильный ID заказа"
+
+#: includes/REST/ProductController.php:301
+#: includes/REST/ProductController.php:326
+#: includes/REST/OrderController.php:206
+msgid "Sorry, you have no permission to do this. Since it's not your product."
+msgstr "К сожалению, Вы не можете сделать это. Так как это не ваш Товар."
+
+#: includes/REST/ProductController.php:252
+#: includes/REST/ProductController.php:289
+#: includes/REST/OrderController.php:194
+msgid "No seller found"
+msgstr "Продавец не найден"
+
+#: includes/REST/OrderController.php:142
+msgid "Unique identifier for the note object."
+msgstr "Уникальный идентификатор заметок."
+
+#: includes/REST/OrderController.php:128
+msgid "Order note content."
+msgstr "Содержание примечание к заказу."
+
+#: includes/Order/functions.php:767 includes/REST/OrderController.php:99
+msgid "Order Status"
+msgstr "Статус заказа"
+
+#: includes/REST/StoreController.php:808
+msgid "No items found for bulk updating"
+msgstr "Нет элементов для массового обновления"
+
+#: includes/REST/StoreController.php:481 includes/REST/StoreController.php:500
+msgid "No reviews found"
+msgstr "Отзывы не найдены"
+
+#: includes/REST/StoreController.php:270
+msgid "Invalid user ID for reassignment."
+msgstr "Неверный ID пользователя для переназначения."
+
+#: includes/REST/StoreController.php:265 includes/REST/StoreController.php:783
+msgid "No vendor found for updating status"
+msgstr "Для обновленного статуса Продавец не найден "
+
+#: includes/REST/StoreController.php:244 includes/REST/StoreController.php:311
+#: includes/REST/StoreController.php:464
+msgid "No store found"
+msgstr "Магазин не найден"
+
+#: includes/REST/StoreController.php:72
+msgid "Reassign the deleted user's posts and links to this user ID."
+msgstr "Перенесите удаленные записи и ссылки пользователя  на этот  ID пользователя."
+
+#: includes/REST/WithdrawController.php:63
+#: includes/REST/WithdrawController.php:651
+#: includes/REST/ProductController.php:58
+#: includes/REST/ProductController.php:80
+#: includes/REST/ProductController.php:121 includes/REST/OrderController.php:82
+#: includes/REST/OrderController.php:111 includes/REST/OrderController.php:138
+#: includes/REST/StoreController.php:57 includes/REST/StoreController.php:87
+#: includes/REST/StoreController.php:101 includes/REST/StoreController.php:122
+#: includes/REST/StoreController.php:153
+msgid "Unique identifier for the object."
+msgstr "Уникальный идентификатор объекта."
+
+#: includes/REST/ProductAttributeTermsController.php:94
+msgid "The resource cannot be deleted."
+msgstr "Нельзя удалять источник."
+
+#: includes/REST/ProductAttributeTermsController.php:86
+msgid "The term cannot found"
+msgstr "Этот термин не может быть найден"
+
+#: includes/Abstracts/DokanRESTController.php:189
+#: includes/REST/OrderController.php:663
+msgid "The %s cannot be deleted."
+msgstr "%s не могут быть удалены."
+
+#: includes/Abstracts/DokanRESTController.php:71
+#: includes/REST/ProductController.php:295
+#: includes/REST/ProductController.php:320
+#: includes/REST/OrderController.php:200
+msgid "Invalid ID."
+msgstr "Неверный ID."
+
+#: includes/Abstracts/DokanRESTController.php:69
+#: includes/REST/ProductController.php:797
+msgid "To manipulate product variations you should use the /products/&lt;product_id&gt;/variations/&lt;id&gt; endpoint."
+msgstr "Чтобы управлять вариантами Товара, вы должны использовать конечную точку /products/&lt;product_id&gt;/variations/&lt;id&gt; endpoint."
+
+#: includes/Abstracts/DokanRESTController.php:28
+#: includes/Abstracts/DokanRESTController.php:205
+#: includes/Abstracts/DokanRESTController.php:279
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr "Method '%s' не применен. Должен быть переопределен в подклассе."
+
+#: includes/REST/ProductAttributeController.php:66
+#: includes/REST/ProductAttributeController.php:80
+#: includes/REST/ProductAttributeController.php:94
+msgid "Resource does not exist."
+msgstr "Источник не существует."
+
+#: includes/Abstracts/DokanBackgroundProcesses.php:86
+msgid "Every %d Minutes"
+msgstr "Каждые %d минут"
+
+#: includes/Withdraw/functions.php:209
+msgid "Swift code"
+msgstr "Swift код"
+
+#: includes/Withdraw/functions.php:197
+msgid "Routing number"
+msgstr "Номер маршрута"
+
+#: includes/Withdraw/functions.php:191
+msgid "Address of your bank"
+msgstr "Адрес вашего банка"
+
+#: includes/Withdraw/functions.php:185
+msgid "Name of bank"
+msgstr "Название банка"
+
+#: includes/Withdraw/functions.php:179
+msgid "Your bank account number"
+msgstr "Банковский счет"
+
+#: includes/Withdraw/functions.php:173
+msgid "Your bank account name"
+msgstr "Название банковского счета"
+
+#: includes/Withdraw/functions.php:126 assets/js/vue-admin.js:5859
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/Withdraw/functions.php:16
+msgid "Bank Transfer"
+msgstr "Банковский перевод"
+
+#: includes/Withdraw/functions.php:12
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/Emails/Manager.php:514
+msgid "[%s] Your product has been approved!"
+msgstr "[%s] Ваш товар был одобрен!"
+
+#: includes/Emails/Manager.php:474
+msgid "[%s] New Product Added"
+msgstr "[%s] Новый товар добавлен"
+
+#: includes/Emails/Manager.php:421
+msgid "[%s] New Vendor Registered"
+msgstr "[%s] Зарегистрирован новый Продавец"
+
+#: includes/Emails/Manager.php:382
+msgid "[%s] Your Withdraw Request has been cancelled"
+msgstr "[%s] Ваш запрос на вывод средств отменен"
+
+#: includes/Emails/Manager.php:359
+msgid "[%s] Your Withdraw Request has been approved"
+msgstr "[%s] Запрос на вывод средств был одобрен"
+
+#: includes/Emails/Manager.php:337
+msgid "[%s] New Withdraw Request"
+msgstr "[%s] Новый запрос на вывод средств"
+
+#: includes/Emails/Manager.php:280
+msgid "[%s] New Refund Request"
+msgstr "[%s] Новый запрос на возврат средств"
+
+#: includes/Emails/Manager.php:246
+msgid "[%s] Refund Request %s"
+msgstr "[%s] Запрос на возврат %s"
+
+#: includes/Emails/Manager.php:197
+msgid "\"%s\" sent you a message from your \"%s\" store"
+msgstr "\"%s\" отправил вам сообщение из вашего магазина \"%s\""
+
+#: includes/Product/functions.php:426 assets/js/vue-admin.js:5875
+msgid "Edit"
+msgstr "Изменить"
+
+#: includes/Product/functions.php:311
+msgid "Catalog"
+msgstr "Каталог"
+
+#: includes/Product/functions.php:310
+msgid "Visible"
+msgstr "Видимый"
+
+#: includes/Product/functions.php:287
+msgid "Go to the last page"
+msgstr "Перейти к последней странице"
+
+#: includes/Product/functions.php:286
+msgid "Go to the next page"
+msgstr "Перейти к следующей странице"
+
+#: includes/Product/functions.php:284
+msgctxt "number of pages"
+msgid "of"
+msgstr "из"
+
+#: includes/Product/functions.php:279
+msgid "Current page"
+msgstr "Текущая страница"
+
+#: includes/Product/functions.php:278
+msgid "Select Page"
+msgstr "Выберите страницу"
+
+#: includes/Product/functions.php:276
+msgid "Go to the previous page"
+msgstr "Перейти к предыдущей странице"
+
+#: includes/Product/functions.php:275
+msgid "Go to the first page"
+msgstr "Перейти на первую страницу"
+
+#: includes/Product/functions.php:272
+msgid "Expand"
+msgstr "Развернуть"
+
+#: includes/Product/functions.php:267
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s объектов"
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/Product/functions.php:261
+msgid "Save Variations"
+msgstr "Сохранить изменения"
+
+#: includes/Product/functions.php:221
+msgid "No default"
+msgstr "Не по умолчанию"
+
+#: includes/Product/functions.php:203
+msgid "Default Form Values: These are the attributes that will be pre-selected on the frontend."
+msgstr "Значения по умолчанию: Это аттрибуты, которые будут выбраны по умолчанию на фронтэнде."
+
+#: includes/Product/functions.php:196
+msgid "Go"
+msgstr "Перейти"
+
+#: includes/Product/functions.php:192
+msgid "Download expiry"
+msgstr "Окончания загрузки"
+
+#: includes/Product/functions.php:191
+msgid "Download limit"
+msgstr "Ограничение загрузки"
+
+#: includes/Product/functions.php:190
+msgid "Downloadable products"
+msgstr "Загружаемые товары"
+
+#: includes/Product/functions.php:188
+msgid "Weight"
+msgstr "Вес"
+
+#: includes/Product/functions.php:187
+msgid "Height"
+msgstr "Высота"
+
+#: includes/Product/functions.php:186
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/Product/functions.php:185
+msgid "Length"
+msgstr "Длина"
+
+#: templates/emails/vendor-new-order.php:91
+#: includes/Admin/SetupWizardWCAdmin.php:84
+#: includes/Admin/SetupWizardNoWC.php:183 includes/Product/functions.php:184
+msgid "Shipping"
+msgstr "Доставка"
+
+#: includes/Product/functions.php:181
+msgid "Toggle &quot;Manage stock&quot;"
+msgstr "Переключение; Управление запасом;"
+
+#: includes/Product/functions.php:178
+msgid "Set scheduled sale dates"
+msgstr "Выбор запланированной даты продажи"
+
+#: includes/Product/functions.php:177
+msgid "Decrease sale prices (fixed amount or percentage)"
+msgstr "Снижение цены продажи ( фиксированная сумма или процент )"
+
+#: includes/Product/functions.php:176
+msgid "Increase sale prices (fixed amount or percentage)"
+msgstr "Увеличить цену продажи ( фиксированная сумма или процент )"
+
+#: includes/Product/functions.php:175
+msgid "Set sale prices"
+msgstr "Установить цену продажи"
+
+#: includes/Product/functions.php:174
+msgid "Decrease regular prices (fixed amount or percentage)"
+msgstr "Снижение регулярных цен (фиксированная сумма или процент)"
+
+#: includes/Product/functions.php:173
+msgid "Increase regular prices (fixed amount or percentage)"
+msgstr "Увеличения обычной цены (фиксированная сумма или процент)"
+
+#: includes/Product/functions.php:172
+msgid "Set regular prices"
+msgstr "Выбор обычной цены"
+
+#: includes/Product/functions.php:171
+msgid "Pricing"
+msgstr "Ценообразование"
+
+#: includes/Product/functions.php:169
+msgid "Toggle &quot;Virtual&quot;"
+msgstr "Переключение опции &quot;Виртуальный&quot;"
+
+#: includes/Product/functions.php:168
+msgid "Toggle &quot;Downloadable&quot;"
+msgstr "Переключение опции &quot;Скачиваемый&quot;"
+
+#: includes/Product/functions.php:167
+msgid "Toggle &quot;Enabled&quot;"
+msgstr "Переключение опции &quot;Включен&quot;"
+
+#: includes/Product/functions.php:165
+msgid "Delete all variations"
+msgstr "Удалить все варианты"
+
+#: includes/Product/functions.php:164
+msgid "Create variations from all attributes"
+msgstr "Создавать варианты из всех атрибутов"
+
+#: includes/Product/functions.php:163
+msgid "Add variation"
+msgstr "Добавить вариацию"
+
+#: includes/Product/functions.php:153
+msgid "Before you can add a variation you need to add some variation attributes on the <strong>Attributes</strong> section"
+msgstr "Прежде чем вы сможете добавить вариант, вам нужно добавить некоторые вариационные атрибуты на <strong>Атрибуты</strong> раздел"
+
+#: includes/Registration.php:65
+msgid "Please provide a shop name."
+msgstr "Укажите, пожалуйста, название магазина."
+
+#: includes/Registration.php:64
+msgid "Please enter your phone number."
+msgstr "Пожалуйста, введите номер телефона."
+
+#: includes/Registration.php:63
+msgid "Please enter your last name."
+msgstr "Пожалуйста, введите вашу фамилию."
+
+#: includes/Registration.php:62
+msgid "Please enter your first name."
+msgstr "Пожалуйста, введите ваше имя."
+
+#: includes/Registration.php:56
+msgid "Cheating, eh?"
+msgstr "Вы хакер?"
+
+#: includes/Registration.php:48
+msgid "Nonce verification failed"
+msgstr "Проверка не удалась"
+
+#: includes/Shortcodes/VendorRegistration.php:18
+msgid "You are already logged in"
+msgstr "Вы уже вошли в"
+
+#: includes/Emails/NewProductPending.php:58
+msgid "New pending product added by Vendor {seller_name}"
+msgstr "Продавцом {seller_name} добавлен новый, ожидающий рассмотрения, товар"
+
+#: includes/Emails/NewProductPending.php:48
+msgid "[{site_title}] A New product is pending from ({seller_name}) - {product_title}"
+msgstr "[{site_title}] Ожидается новый товар от ({seller_name}) - {product_title}"
+
+#: includes/Emails/NewProductPending.php:26
+msgid "New Pending Product emails are sent to chosen recipient(s) when a new product is created by vendors."
+msgstr "При создании нового Товара Продавцами, им отправляются Письма о новых Товарах, ожидающих одобрения"
+
+#: includes/Emails/NewProductPending.php:25
+msgid "Dokan New Pending Product"
+msgstr "Новый ожидающий Товар Dokan"
+
+#: includes/Emails/WithdrawCancelled.php:57
+msgid "Withdrawal request for {amount} is cancelled"
+msgstr "Запрос на вывод средств в количестве {amount} отменен"
+
+#: includes/Emails/WithdrawCancelled.php:47
+msgid "[{site_name}] Your withdrawal request was cancelled"
+msgstr "[{site_name}] Ваш запрос на вывод средств был отменен"
+
+#: includes/Emails/WithdrawCancelled.php:25
+msgid "These emails are sent to vendor when a vendor withdraw request is cancelled"
+msgstr "Эти письма отправляются  Продавцу при удалении его запроса на вывод средств"
+
+#: includes/Emails/WithdrawCancelled.php:24
+msgid "Dokan Withdraw cancelled"
+msgstr "Dokan вывод средств отменен"
+
+#: includes/Emails/NewProduct.php:57
+msgid "New product added by Vendor {seller_name}"
+msgstr "Новый Товар  добавленн Продавцом {seller_name}"
+
+#: includes/Emails/NewProduct.php:47
+msgid "[{site_name}] A New product is added by ({seller_name}) - {product_title}"
+msgstr "[{site_name}] Новый продукт добавлен ({seller_name}) - {product_title}"
+
+#: includes/Emails/NewProduct.php:25
+msgid "New Product emails are sent to chosen recipient(s) when a new product is created by vendors."
+msgstr "Электронные письма о  новом Товаре отправляются выбранным получателям, когда  Продавцами создается новый Товар"
+
+#: includes/Emails/NewProduct.php:24
+msgid "Dokan New Product"
+msgstr "Новый Товар Dokan"
+
+#: includes/Emails/VendorWithdrawRequest.php:57
+msgid "New Withdraw Request from - {user_name}"
+msgstr "Новый запрос на вывод средств от - {user_name}"
+
+#: includes/Emails/VendorWithdrawRequest.php:47
+msgid "[{site_name}] A New withdrawal request is made by {user_name}"
+msgstr "[{site_name}] новый запрос на вывод средств создан {user_name}"
+
+#: includes/Emails/VendorWithdrawRequest.php:25
+msgid "These emails are sent to chosen recipient(s) when a vendor send request to withdraw"
+msgstr "Эти письма отправляются выбранным получателям, когда продавец отправляет запрос на вывод средств"
+
+#: includes/Emails/VendorWithdrawRequest.php:24
+msgid "Dokan New Withdrawal Request"
+msgstr "Dokan новый запрос на вывод средств"
+
+#: includes/Emails/NewProduct.php:167
+#: includes/Emails/VendorWithdrawRequest.php:152
+#: includes/Emails/NewSeller.php:144 includes/Emails/NewProductPending.php:159
+msgid "Enter recipients (comma separated) for this email. Defaults to %s."
+msgstr "Введите получателей (разделяя их запятыми) для этого письма. По умолчанию %s."
+
+#: includes/Emails/NewProduct.php:165
+#: includes/Emails/VendorWithdrawRequest.php:150
+#: includes/Emails/NewSeller.php:142 includes/Emails/NewProductPending.php:157
+msgid "Recipient(s)"
+msgstr "Получатель(и)"
+
+#: includes/Emails/NewSeller.php:55
+msgid "New Vendor Registered - {seller_name}"
+msgstr "Зарегистрирован новый продавец - {seller_name}"
+
+#: includes/Emails/NewSeller.php:45
+msgid "[{site_name}] A New vendor has registered"
+msgstr "[{site_name}] Зарегистрирован новый Продавец"
+
+#: includes/Emails/NewSeller.php:23
+msgid "These emails are sent to chosen recipient(s) when a new vendor registers in marketplace"
+msgstr "Эти письма отправляются выбранным получателям (получателям), когда новый Продавец регистрируется на торговой площадке"
+
+#: includes/Emails/NewSeller.php:22
+msgid "Dokan New Seller Registered"
+msgstr "Dokan зарегистрирован новый продавец"
+
+#: includes/Emails/ContactSeller.php:55
+msgid "{customer_name} - Sent a message from {site_name}"
+msgstr "{customer_name} - Отправлено сообщение от {site_name}"
+
+#: includes/Emails/ContactSeller.php:45
+msgid "[{customer_name}] sent you a message from your store at - {site_name}"
+msgstr "[{customer_name}] отправил вам сообщение из вашего магазина по адресу - {site_name}"
+
+#: includes/Emails/ContactSeller.php:23
+msgid "These emails are sent to a vendor who is contacted by customer via contact form widget "
+msgstr "Эти письма отправляются продавцу, с которым клиент связался через контактную форму"
+
+#: includes/Emails/ContactSeller.php:22
+msgid "Dokan Contact Vendor"
+msgstr "Dokan Контакт Продавца"
+
+#: includes/Emails/ProductPublished.php:57
+msgid "{product_title} - is published"
+msgstr "{product_title} - опубликован"
+
+#: includes/Emails/ProductPublished.php:47
+msgid "[{site_name}] Your product - {product_title} - is now published"
+msgstr "[{site_name}] Ваш Товар - {product_title} - опубликован"
+
+#: includes/Emails/ProductPublished.php:25
+msgid "These emails are sent to vendor of the product when a pending product is published."
+msgstr "Эти письма отправляются продавцу, при публикации ожидющего публикации Товара"
+
+#: includes/Emails/ProductPublished.php:24
+msgid "Dokan Pending Product Published"
+msgstr "Опубликован ожидающий Товар Dokan "
+
+#: includes/Emails/ProductPublished.php:171 includes/Emails/NewProduct.php:193
+#: includes/Emails/VendorWithdrawRequest.php:178
+#: includes/Emails/ContactSeller.php:158 includes/Emails/NewSeller.php:170
+#: includes/Emails/VendorNewOrder.php:186
+#: includes/Emails/WithdrawCancelled.php:166
+#: includes/Emails/NewProductPending.php:185
+#: includes/Emails/WithdrawApproved.php:166
+msgid "Choose which format of email to send."
+msgstr "Выберите, какой формат письма отправить."
+
+#: includes/Emails/ProductPublished.php:169 includes/Emails/NewProduct.php:191
+#: includes/Emails/VendorWithdrawRequest.php:176
+#: includes/Emails/ContactSeller.php:156 includes/Emails/NewSeller.php:168
+#: includes/Emails/VendorNewOrder.php:184
+#: includes/Emails/WithdrawCancelled.php:164
+#: includes/Emails/NewProductPending.php:183
+#: includes/Emails/WithdrawApproved.php:164
+msgid "Email type"
+msgstr "Тип письма"
+
+#: includes/Emails/ProductPublished.php:160 includes/Emails/NewProduct.php:182
+#: includes/Emails/VendorWithdrawRequest.php:167
+#: includes/Emails/ContactSeller.php:147 includes/Emails/NewSeller.php:159
+#: includes/Emails/VendorNewOrder.php:175
+#: includes/Emails/WithdrawCancelled.php:155
+#: includes/Emails/NewProductPending.php:174
+#: includes/Emails/WithdrawApproved.php:155
+msgid "Email heading"
+msgstr "Заголовок письма"
+
+#. translators: %s: list of placeholders
+#: includes/Emails/ProductPublished.php:155
+#: includes/Emails/ProductPublished.php:164 includes/Emails/NewProduct.php:177
+#: includes/Emails/NewProduct.php:186
+#: includes/Emails/VendorWithdrawRequest.php:162
+#: includes/Emails/VendorWithdrawRequest.php:171
+#: includes/Emails/ContactSeller.php:142 includes/Emails/ContactSeller.php:151
+#: includes/Emails/NewSeller.php:154 includes/Emails/NewSeller.php:163
+#: includes/Emails/VendorNewOrder.php:170
+#: includes/Emails/VendorNewOrder.php:179
+#: includes/Emails/WithdrawCancelled.php:150
+#: includes/Emails/WithdrawCancelled.php:159
+#: includes/Emails/NewProductPending.php:169
+#: includes/Emails/NewProductPending.php:178
+#: includes/Emails/WithdrawApproved.php:150
+#: includes/Emails/WithdrawApproved.php:159
+msgid "Available placeholders: %s"
+msgstr "Доступные заполнители: %s"
+
+#: includes/Emails/ProductPublished.php:151 includes/Emails/NewProduct.php:173
+#: includes/Emails/VendorWithdrawRequest.php:158
+#: includes/Emails/ContactSeller.php:138 includes/Emails/NewSeller.php:150
+#: includes/Emails/VendorNewOrder.php:166
+#: includes/Emails/WithdrawCancelled.php:146
+#: includes/Emails/NewProductPending.php:165
+#: includes/Emails/WithdrawApproved.php:146
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/Emails/ProductPublished.php:146 includes/Emails/NewProduct.php:161
+#: includes/Emails/VendorWithdrawRequest.php:146
+#: includes/Emails/ContactSeller.php:133 includes/Emails/NewSeller.php:138
+#: includes/Emails/VendorNewOrder.php:162
+#: includes/Emails/WithdrawCancelled.php:142
+#: includes/Emails/NewProductPending.php:153
+#: includes/Emails/WithdrawApproved.php:142
+msgid "Enable this email notification"
+msgstr "Включить это уведомление по электронной почте"
+
+#: includes/Emails/ProductPublished.php:144 includes/Emails/NewProduct.php:159
+#: includes/Emails/VendorWithdrawRequest.php:144
+#: includes/Emails/ContactSeller.php:131 includes/Emails/NewSeller.php:136
+#: includes/Emails/VendorNewOrder.php:160
+#: includes/Emails/WithdrawCancelled.php:140
+#: includes/Emails/NewProductPending.php:151
+#: includes/Emails/WithdrawApproved.php:140
+msgid "Enable/Disable"
+msgstr "Включить/отключить"
+
+#: includes/Emails/WithdrawApproved.php:57
+msgid "Withdrawal request for {amount} is approved"
+msgstr "Запрос на вывод {amount} подтвержден"
+
+#: includes/Emails/WithdrawApproved.php:47
+msgid "[{site_name}] Your withdrawal request was approved"
+msgstr "[{site_name}] ваш запрос на вывод средств был одобрен"
+
+#: includes/Emails/WithdrawApproved.php:25
+msgid "These emails are sent to vendor when a vendor withdraw request is approved"
+msgstr "Эти письма отправляются продавцу при ободрении запроса на вывод средств"
+
+#: includes/Emails/WithdrawApproved.php:24
+msgid "Dokan Withdraw Approved"
+msgstr "Dokan вывод средств одобрен"
+
+#: includes/woo-views/html-product-download.php:8 includes/Assets.php:614
+msgid "Insert file URL"
+msgstr "Вставьте URL файла"
+
+#: includes/woo-views/html-product-download.php:8
+msgid "Choose file"
+msgstr "Выберите файл"
+
+#: includes/woo-views/html-product-download.php:7
+msgid "http://"
+msgstr "http://"
+
+#: includes/woo-views/html-product-download.php:3
+msgid "File Name"
+msgstr "Имя файла"
+
+#: dokan.php:439
+msgid "Documentation"
+msgstr "Документация"
+
+#: dokan.php:435
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: dokan.php:187
+msgid "The Minimum PHP Version Requirement for <b>Dokan</b> is %s. You are Running PHP %s"
+msgstr "Требования к минимальной PHP версии <b>Dokan</b> is %s. Ваша версия PHP %s"
+
+#: includes/Dashboard/Templates/Settings.php:606
+msgid "Electronic"
+msgstr "Электронника"
+
+#: includes/Dashboard/Templates/Settings.php:605
+msgid "Dress"
+msgstr "Одежда"
+
+#: includes/Dashboard/Templates/Settings.php:604
+msgid "Book"
+msgstr "Книги"
+
+#: includes/Dashboard/Templates/Settings.php:327
+msgid "Address field for %s is required"
+msgstr "Поле адрес для %s является обязательным!"
+
+#: includes/Dashboard/Templates/Settings.php:308
+#: includes/Dashboard/Templates/Settings.php:368
+#: includes/Dashboard/Templates/Settings.php:415
+#: includes/Dashboard/Templates/Settings.php:452
+msgid "Invalid email"
+msgstr "Неверный адрес электронной почты"
+
+#: includes/Dashboard/Templates/Settings.php:300
+#: includes/Dashboard/Templates/Settings.php:360
+#: includes/Dashboard/Templates/Settings.php:407
+msgid "Store type required"
+msgstr "Укажите тип магазина"
+
+#: includes/Dashboard/Templates/Settings.php:294
+#: includes/Dashboard/Templates/Settings.php:401
+msgid "Store name required"
+msgstr "Укажите название магазина"
+
+#: includes/Dashboard/Templates/Settings.php:263
+msgid "Your information has been saved successfully"
+msgstr "Успешно сохранено"
+
+#: includes/Dashboard/Templates/Settings.php:233
+#: includes/Dashboard/Templates/Settings.php:245
+msgid "Pemission denied"
+msgstr "В разрешении отказано"
+
+#: includes/Dashboard/Templates/Settings.php:221
+msgid "Pemission denied social"
+msgstr "Отказано в доступе (социальных сетей)"
+
+#: includes/Dashboard/Templates/Settings.php:81
+msgid "These are the withdraw methods available for you. Please update your payment information below to submit withdraw requests and get your store payments seamlessly."
+msgstr "Эти способы вывода средств, которые доступны для вас. Пожалуйста, обновите платежную информацию ниже, чтобы получать платежи и отправлять запросы на вывод средств."
+
+#: includes/Dashboard/Templates/Settings.php:60
+msgid "Payment Settings"
+msgstr "Настройки оплаты"
+
+#: includes/Dashboard/Templates/Dashboard.php:126
+msgid "On Hold"
+msgstr "В ожидании"
+
+#: languages/dokan-lite.php:131 assets/js/dokan-upgrade.js:150
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "Настоятельно рекомендуется создать резервную копию базы данных перед началом работы. Вы уверены, что хотите запустить программу обновления сейчас?"
+
+#: languages/dokan-lite.php:130 assets/js/dokan-upgrade.js:140
+msgid "We need to update your install to the latest version"
+msgstr "Нам нужно обновить вашу установленную версию до последней"
+
+#: languages/dokan-lite.php:129 assets/js/dokan-upgrade.js:129
+msgid "Dokan Data Update Required"
+msgstr "Требуется обновление базы данных Dokan"
+
+#: includes/Ajax.php:722
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s -%3$s)"
+
+#: includes/Ajax.php:601
+msgid "Image could not be processed. Please go back and try again."
+msgstr "Не удалось обработать изображение. Пожалуйста, вернитесь и попробуйте еще раз."
+
+#: includes/Ajax.php:514
+msgid "Error: Nonce verification failed"
+msgstr "Ошибка: Сбой проверки Nonce"
+
+#: includes/woo-views/html-product-download.php:14 includes/Ajax.php:469
+#: assets/js/vue-admin.js:3729 assets/js/vue-admin.js:3737
+#: assets/js/vue-admin.js:3756 assets/js/vue-admin.js:3767
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/Ajax.php:432
+msgid "Shipped date: "
+msgstr "Дата доставки:"
+
+#: includes/Ajax.php:432
+msgid "Shipping number: "
+msgstr "Номер доставки:"
+
+#: includes/Ajax.php:432
+msgid "Shipping provider: "
+msgstr "Доставку осуществляет:"
+
+#: includes/Ajax.php:343 includes/REST/StoreController.php:759
+msgid "Email sent successfully!"
+msgstr "Сообщение было успешно отправлено!"
+
+#: includes/Ajax.php:337 includes/template-tags.php:140
+msgid "Something went wrong!"
+msgstr "Произошла ошибка!"
+
+#: includes/Ajax.php:325 includes/Ajax.php:330
+msgid "Please provide your name."
+msgstr "Пожалуйста, укажите ваше имя."
+
+#: includes/Ajax.php:290
+msgid "You have no permission to manage this order"
+msgstr "У вас нет разрешения на управление этим заказом"
+
+#: includes/Ajax.php:268
+msgid "File %d"
+msgstr "Файл %d"
+
+#: includes/Ajax.php:170 includes/Ajax.php:205
+msgid "You do not have permission to change this order"
+msgstr "У вас нет прав для изменения этого заказа"
+
+#: includes/Ajax.php:160 includes/Ajax.php:195
+msgid "You have taken too long. Please go back and retry."
+msgstr "Прошло слишком много времени. Пожалуйста, вернитесь и попытайтесь снова."
+
+#: includes/Ajax.php:156 includes/Ajax.php:191
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Вы не имеете достаточно прав для доступа к этой странице."
+
+#: includes/Ajax.php:93
+msgid "Something wrong, please try again later"
+msgstr "Ошибка, пожалуйста, повторите попытку позже"
+
+#: includes/Vendor/SetupWizard.php:483
+msgid "Go to your Store Dashboard!"
+msgstr "Перейти к панели управления магазином"
+
+#: includes/Vendor/SetupWizard.php:478
+msgid "Your Store is Ready!"
+msgstr "Ваш магазин готов!"
+
+#: includes/Vendor/SetupWizard.php:374
+msgid "Payment Setup"
+msgstr "Настройка оплаты"
+
+#: includes/Vendor/SetupWizard.php:263
+msgid "Select an option&hellip;"
+msgstr "Выберите параметр;"
+
+#: templates/admin-setup-wizard/step-store.php:101
+#: templates/admin-setup-wizard/step-selling.php:54
+#: includes/Admin/SetupWizard.php:525 includes/Vendor/SetupWizard.php:244
+#: includes/Vendor/SetupWizard.php:397
+msgid "Skip this step"
+msgstr "Пропустить этот шаг"
+
+#: templates/admin-setup-wizard/step-store.php:100
+#: templates/admin-setup-wizard/step-selling.php:53
+#: includes/Admin/SetupWizardWCAdmin.php:232 includes/Admin/SetupWizard.php:524
+#: includes/Admin/SetupWizard.php:565 includes/Vendor/SetupWizard.php:243
+#: includes/Vendor/SetupWizard.php:396
+msgid "Continue"
+msgstr "Продолжить"
+
+#: includes/Vendor/SetupWizard.php:223
+msgid "State Name"
+msgstr "Название страны/штата"
+
+#: includes/Vendor/SetupWizard.php:208
+msgid "Post/Zip Code"
+msgstr "Почтовый индекс"
+
+#: includes/Vendor/SetupWizard.php:191
+msgid "Street"
+msgstr "Улица"
+
+#: templates/admin-setup-wizard/step-store.php:1
+#: includes/Vendor/SetupWizard.php:181
+msgid "Store Setup"
+msgstr "Настройка Магазина"
+
+#: includes/Admin/SetupWizard.php:316 includes/Vendor/SetupWizard.php:156
+msgid "Not right now"
+msgstr "Не сейчас"
+
+#: templates/admin-setup-wizard/step-no-wc-introduction.php:54
+#: includes/Admin/SetupWizard.php:315 includes/Vendor/SetupWizard.php:155
+msgid "Let's Go!"
+msgstr "Поехали!"
+
+#: includes/Vendor/SetupWizard.php:153
+msgid "No time right now? If you don’t want to go through the wizard, you can skip and return to the Store!"
+msgstr "Нет времени прямо сейчас? Если вы не хотите пройти через мастера, можно пропустить и вернуться в магазин!"
+
+#: includes/Vendor/SetupWizard.php:152
+msgid "Thank you for choosing The Marketplace to power your online store! This quick setup wizard will help you configure the basic settings. <strong>It’s completely optional and shouldn’t take longer than two minutes.</strong>"
+msgstr "Благодарим вас за выбор Marketplace для вашего Интернет-магазина! Мастер быстрой настройки поможет вам настроить основные параметры. <strong>Это совершенно необязательно и не должно занять больше двух минут.</strong>"
+
+#: includes/Vendor/SetupWizard.php:151
+msgid "Welcome to the Marketplace!"
+msgstr "Добро пожаловать в Dokan"
+
+#: includes/Vendor/SetupWizard.php:138
+msgid "Return to the Marketplace"
+msgstr "Самые популярные дизайны ювелирных изделий"
+
+#: includes/Vendor/SetupWizard.php:119
+msgid "Vendor &rsaquo; Setup Wizard"
+msgstr "Продавец &rsaquo; Мастер установки"
+
+#: includes/Admin/SetupWizard.php:167 includes/Vendor/SetupWizard.php:85
+msgid "Ready!"
+msgstr "Готово!"
+
+#: includes/Admin/SetupWizardNoWC.php:177 includes/template-tags.php:375
+#: includes/Vendor/SetupWizard.php:80
+msgid "Payment"
+msgstr "Оплата"
+
+#: includes/Admin/SetupWizard.php:147 includes/template-tags.php:368
+#: includes/Vendor/SetupWizard.php:75 assets/js/vue-admin.js:5855
+msgid "Store"
+msgstr "Магазин"
+
+#: includes/Admin/SetupWizard.php:143 includes/Vendor/SetupWizard.php:70
+msgid "Introduction"
+msgstr "Введение"
+
+#: includes/Dashboard/Templates/Orders.php:71
+msgid "You have no permission to view this order"
+msgstr "У вас нет разрешения на просмотр этого заказа."
+
+#: includes/Admin/UserProfile.php:348
+msgid "This vendor will be marked as a featured vendor."
+msgstr "Этот продавец будет отмечен как рекомендуемый."
+
+#: includes/Admin/UserProfile.php:345
+msgid "Mark as featured vendor"
+msgstr "Отметить Продавца как рекомендуемого"
+
+#: includes/Admin/UserProfile.php:340
+msgid "Featured vendor"
+msgstr "Рекомендуемый продавец"
+
+#: includes/Admin/UserProfile.php:335
+msgid "It will override the default commission admin gets from each sales"
+msgstr "Это изменит комиссию, которую по умолчанию получает администратор от каждой продажи "
+
+#: includes/Admin/UserProfile.php:331
+msgid "Admin Commission "
+msgstr "Комиссия администратора "
+
+#: includes/Admin/UserProfile.php:327
+msgid "Set the commmission type admin gets from this seller"
+msgstr "Установите тип комиссии, которую получает администратор от этого Продавца"
+
+#: includes/Admin/UserProfile.php:320
+msgid "Admin Commission Type "
+msgstr "Тип комиссии администратора "
+
+#: includes/Admin/UserProfile.php:315
+msgid "Bypass pending, publish products directly"
+msgstr "Без ожидания, товар будет размещен сразу"
+
+#: includes/Admin/UserProfile.php:312
+msgid "Publish product directly"
+msgstr "Опубликовать товар непосредственно"
+
+#: includes/Admin/UserProfile.php:307
+msgid "Publishing"
+msgstr "Размещение"
+
+#: includes/Admin/UserProfile.php:302
+msgid "Enable or disable product adding capability"
+msgstr "Включение или отключение возможности добавления товара"
+
+#: includes/Admin/UserProfile.php:299
+msgid "Enable Adding Products"
+msgstr "Разрешить добавление товаров"
+
+#: includes/Admin/UserProfile.php:294 includes/Admin/SetupWizard.php:152
+msgid "Selling"
+msgstr "Продажи"
+
+#: includes/Admin/UserProfile.php:287
+msgid "Bank Swift "
+msgstr "SWIFT код банка"
+
+#: includes/Admin/UserProfile.php:281
+msgid "Bank IBAN "
+msgstr "Банковский код IBAN"
+
+#: includes/Admin/UserProfile.php:269
+msgid "Bank Address "
+msgstr "Адрес банка"
+
+#: includes/Admin/UserProfile.php:263
+msgid "Account Number "
+msgstr "Номер счета"
+
+#: includes/Admin/UserProfile.php:257
+msgid "Account Name "
+msgstr "Название счёта"
+
+#: includes/Admin/UserProfile.php:251
+msgid "Bank name "
+msgstr "Название банка"
+
+#: includes/Admin/UserProfile.php:242
+msgid "Skrill Email "
+msgstr "Skrill Email"
+
+#: includes/Admin/UserProfile.php:234
+msgid "Paypal Email "
+msgstr "Email для PayPal"
+
+#: includes/Admin/UserProfile.php:229
+msgid "Payment Options : "
+msgstr "Способы оплаты"
+
+#: includes/Admin/UserProfile.php:170
+msgid "Zip Code"
+msgstr "Почтовый индекс"
+
+#: includes/Admin/UserProfile.php:163
+msgid "Town/City"
+msgstr "Город"
+
+#: includes/Admin/UserProfile.php:156 includes/Privacy.php:217
+msgid "Address 2"
+msgstr "Адрес 2"
+
+#: includes/Admin/UserProfile.php:149 includes/Privacy.php:216
+msgid "Address 1"
+msgstr "Адрес 1"
+
+#: includes/Admin/UserProfile.php:134
+msgid "Store name"
+msgstr "Название магазина"
+
+#: includes/Admin/UserProfile.php:122
+msgid "Upload a banner for your store. Banner size is (%1$sx%2$s) pixels."
+msgstr "Загрузите баннер для магазина. Размер должен быть (%1$sx%2$s) пикселей."
+
+#: includes/Admin/UserProfile.php:106
+msgid "Banner"
+msgstr "Баннер"
+
+#: includes/Admin/UserProfile.php:101
+msgid "Dokan Options"
+msgstr "Настройки Dokan"
+
+#: includes/Admin/UserProfile.php:96
+msgid "State/County or state code"
+msgstr "Код региона/страны"
+
+#: includes/Admin/UserProfile.php:95
+msgid "State/County"
+msgstr "Регион/Страна"
+
+#: includes/Admin/UserProfile.php:92
+msgid "Select a country&hellip;"
+msgstr "Выберите страну&hellip;"
+
+#: includes/Dashboard/Templates/Products.php:411
+msgid "No product found!"
+msgstr "Ни один товар не найден!"
+
+#: includes/Product/functions.php:42
+#: includes/Dashboard/Templates/Products.php:256
+#: includes/Dashboard/Templates/Products.php:404
+msgid "Please select AT LEAST ONE category"
+msgstr "Пожалуйста, выберите хотя бы одну категорию"
+
+#: includes/Product/functions.php:38
+#: includes/Dashboard/Templates/Products.php:251
+#: includes/Dashboard/Templates/Products.php:399
+msgid "Please select a category"
+msgstr "Выберите категорию"
+
+#: includes/Product/functions.php:33
+#: includes/Dashboard/Templates/Products.php:244
+#: includes/Dashboard/Templates/Products.php:392
+msgid "Please enter product title"
+msgstr "Пожалуйста, введите название товара"
+
+#: includes/Dashboard/Templates/Products.php:235
+msgid "Details of your product ..."
+msgstr "Подробная информация о вашем товаре ..."
+
+#: includes/Product/functions.php:434
+#: includes/Dashboard/Templates/Products.php:202
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+#: includes/Install/Installer.php:163
+msgid "Store List"
+msgstr "Заказы"
+
+#: includes/Dashboard/Templates/Withdraw.php:498
+#: includes/Dashboard/Templates/Withdraw.php:524
+msgid "Sorry, no transactions were found!"
+msgstr "Платежи отсутствуют!"
+
+#: includes/Dashboard/Templates/Withdraw.php:438
+msgid "You don't have sufficient balance for a withdraw request!"
+msgstr "У вас недостаточный баланс для подачи запроса на вывод средств!"
+
+#: includes/Dashboard/Templates/Withdraw.php:428
+msgid "Please submit your request after approval or cancellation of your previous request."
+msgstr "Пожалуйста, отправьте ваш запрос после утверждения или отмены предыдущего запроса."
+
+#: includes/Dashboard/Templates/Withdraw.php:428
+msgid "You already have pending withdraw request(s)."
+msgstr "Вы уже отправили запрос(ы) на вывод средств."
+
+#: includes/Dashboard/Templates/Withdraw.php:419
+msgid "You have already withdrawn %s. This amount will be deducted from your balance."
+msgstr "Вы уже запросили вывод денег %s. Эта сумма будет вычтена из Вашего баланса."
+
+#: includes/Dashboard/Templates/Withdraw.php:383
+msgid "Unknown error!"
+msgstr "Неизвестная ошибка!"
+
+#: includes/Dashboard/Templates/Withdraw.php:379
+msgid "Your request has been received successfully and being reviewed!"
+msgstr "Ваш запрос был успешно принят и находится на рассмотрении!"
+
+#: includes/Dashboard/Templates/Withdraw.php:375
+msgid "Your request has been cancelled successfully!"
+msgstr "Ваш запрос был успешно отменен!"
+
+#: includes/Withdraw/Manager.php:45
+msgid "Withdraw amount must be greater than %d"
+msgstr "Сумма для вывода должна быть больше, чем %d"
+
+#: includes/Withdraw/Manager.php:41
+msgid "You don't have enough balance for this request"
+msgstr "У вас недостаточный баланс для этого запроса"
+
+#: includes/Withdraw/Manager.php:37
+msgid "Withdraw amount required "
+msgstr "Необходимая сумма для вывода средств"
+
+#: includes/Ajax.php:71 includes/Ajax.php:946
+#: includes/Dashboard/Templates/Withdraw.php:110
+#: includes/Dashboard/Templates/Withdraw.php:169
+msgid "You have no permission to do this action"
+msgstr "У вас нет разрешения на выполнение этого действия"
+
+#: includes/Ajax.php:108 includes/Dashboard/Templates/Withdraw.php:106
+#: includes/Dashboard/Templates/Withdraw.php:165
+#: includes/Dashboard/Templates/Settings.php:211
+#: includes/Dashboard/Templates/Settings.php:225
+#: includes/Dashboard/Templates/Settings.php:237
+#: includes/Dashboard/Templates/Settings.php:249
+#: includes/Dashboard/Templates/Settings.php:286
+#: includes/Dashboard/Templates/Settings.php:352
+#: includes/Dashboard/Templates/Settings.php:393
+#: includes/Dashboard/Templates/Settings.php:443
+msgid "Are you cheating?"
+msgstr "Вы хакер?"
+
+#: includes/Dashboard/Templates/Withdraw.php:318
+msgid "<br>Withdraw Threshold: %d days "
+msgstr "<br> Порог снятия: %d дней "
+
+#: includes/Dashboard/Templates/Withdraw.php:314
+msgid "<br>Minimum Withdraw amount: %s "
+msgstr "<br> Минимальная сумма снятия: %s"
+
+#: includes/Dashboard/Templates/Withdraw.php:311
+msgid "Current Balance: %s "
+msgstr "Текущий баланс: %s "
+
+#: templates/widgets/store-contact-form.php:30
+msgid "Send Message"
+msgstr "Отправить"
+
+#: templates/widgets/store-contact-form.php:21
+msgid "Type your messsage..."
+msgstr "Введите ваше сообщение..."
+
+#: templates/widgets/store-contact-form.php:18
+msgid "you@example.com"
+msgstr "you@example.com"
+
+#: templates/widgets/store-contact-form.php:15
+#: includes/REST/StoreController.php:132
+msgid "Your Name"
+msgstr "Ваше имя"
+
+#: templates/widgets/widget-content-product.php:44
+msgid "No products found"
+msgstr "Товары не найдены"
+
+#: templates/widgets/store-open-close.php:19
+msgid "<span> %s %s %s </span>"
+msgstr "<span> %s %s %s</span>"
+
+#: templates/global/no-permission.php:53 includes/Shortcodes/Dashboard.php:29
+#: includes/Dashboard/Templates/Products.php:184
+#: includes/Dashboard/Templates/Settings.php:141
+#: includes/Dashboard/Templates/Settings.php:152
+msgid "You have no permission to view this page"
+msgstr "У вас нет разрешения на просмотр этой страницы"
+
+#: templates/global/seller-warning.php:12
+#: includes/Dashboard/Templates/Withdraw.php:125
+msgid "Your account is not enabled for selling, please contact the admin"
+msgstr "Для Вашего аккаунта не включены продажы, пожалуйста, свяжитесь с администратором"
+
+#: templates/global/product-tab.php:36
+msgid "Address:"
+msgstr "Адрес:"
+
+#: templates/global/product-tab.php:27
+msgid "Vendor:"
+msgstr "Продавец"
+
+#: templates/global/product-tab.php:18
+msgid "Store Name:"
+msgstr "Название магазина:"
+
+#: templates/global/product-tab.php:11
+msgid "Vendor Information"
+msgstr "Информация о продавце"
+
+#: templates/global/seller-registration-form.php:67
+msgid "I am a vendor"
+msgstr "Я продавец"
+
+#: templates/global/seller-registration-form.php:62
+msgid "I am a customer"
+msgstr "Я покупатель"
+
+#: templates/global/header-menu.php:59
+msgid "Sign Up"
+msgstr "Регистрация"
+
+#: templates/global/header-menu.php:58
+msgid "Log in"
+msgstr "Войти"
+
+#: templates/global/header-menu.php:48 includes/template-tags.php:491
+msgid "Edit Account"
+msgstr "Редактировать профиль"
+
+#: templates/global/header-menu.php:47
+msgid "My Account"
+msgstr "Мой профиль"
+
+#: templates/global/header-menu.php:46 includes/Install/Installer.php:169
+#: includes/Admin/Settings.php:419
+msgid "My Orders"
+msgstr "Мои заказы"
+
+#: templates/global/header-menu.php:32
+msgid "Visit your store"
+msgstr "Посетить магазин"
+
+#: templates/global/header-menu.php:29
+msgid "Vendor Dashboard"
+msgstr "Личный кабинет"
+
+#: templates/global/header-menu.php:13
+msgid "Cart %s"
+msgstr "Корзина %s"
+
+#: templates/store-header.php:14
+msgid "Store Closed"
+msgstr "Магазин закрыт"
+
+#: templates/store-header.php:13
+msgid "Store Open"
+msgstr "Магазин открыт"
+
+#: templates/seller-search-form.php:8
+msgid "Search seller &hellip;"
+msgstr "Поиск продавца &hellip;"
+
+#: templates/seller-search-form.php:8
+msgid "Search Vendor &hellip;"
+msgstr "Поиск поставщика;"
+
+#: templates/seller-search-form.php:2
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: templates/sub-orders.php:17
+msgid ""
+"This order has products from multiple vendors. So we divided this order into multiple vendor orders.\n"
+"    Each order will be handled by their respective vendor independently."
+msgstr "Этот заказ на товары от нескольких поставщиков. Мы разделили этот заказ на несколько заказов поставщика. Каждый заказ независимо будет обработан соответствующими поставщиком."
+
+#: templates/sub-orders.php:16
+msgid "Note:"
+msgstr "Примечание:"
+
+#: templates/sub-orders.php:12
+msgid "Sub Orders"
+msgstr "Подзаказы"
+
+#: templates/my-orders.php:106
+msgid "No orders found!"
+msgstr "Заказы отсутствуют!"
+
+#: templates/my-orders.php:77
+msgid "Pay"
+msgstr "Оплатить"
+
+#: templates/my-orders.php:65
+msgid "Multiple Vendor"
+msgstr "Гильдия торговцев"
+
+#: templates/my-orders.php:55 templates/sub-orders.php:51
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s за %s товар"
+msgstr[1] "%s за %s товара"
+msgstr[2] "%s за %s товаров"
+
+#: templates/my-orders.php:31 includes/Install/Installer.php:93
+#: includes/Admin/Hooks.php:78 includes/Admin/Hooks.php:84
+#: includes/Admin/Hooks.php:367 includes/Admin/Hooks.php:384
+#: includes/Admin/SetupWizard.php:336 includes/Admin/Settings.php:340
+#: includes/Admin/Settings.php:348 includes/wc-template.php:17
+#: includes/wc-template.php:150 includes/wc-template.php:292
+#: assets/js/vue-admin.js:3681
+msgid "Vendor"
+msgstr "Продавец"
+
+#: templates/my-orders.php:21
+msgid "Recent Orders"
+msgstr "Последние заказы"
+
+#: templates/store-lists-loop.php:129
+msgid "No vendor found!"
+msgstr "Продавец не найден!"
+
+#: templates/store-lists-loop.php:103 includes/template-tags.php:120
+msgid "Next &rarr;"
+msgstr "Следующий &rarr;"
+
+#: templates/store-lists-loop.php:102 includes/template-tags.php:105
+#: includes/template-tags.php:109
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущий"
+
+#: templates/store-lists-loop.php:43
+msgid "Rated %s out of 5"
+msgstr "Оценка %s из 5"
+
+#: templates/store-lists-loop.php:33
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: templates/store.php:52
+msgid "No products were found of this vendor!"
+msgstr "Не найдено товаров этого продавца!"
+
+#: templates/withdraw/header.php:11 includes/Admin/AdminBar.php:54
+#: includes/Admin/Menu.php:32 includes/Admin/Menu.php:43
+#: includes/Admin/SetupWizard.php:157 includes/functions.php:2961
+#: includes/template-tags.php:345
+msgid "Withdraw"
+msgstr "Вывод денег"
+
+#: templates/withdraw/request-form.php:49
+msgid "Payment Settings Setup"
+msgstr "Настройка параметров платежей"
+
+#: templates/withdraw/request-form.php:49
+msgid "No withdraw method is available. Please update your payment method to withdraw funds."
+msgstr "Метод снятия недоступен. Обновите способ оплаты, чтобы снять средства."
+
+#: templates/withdraw/request-form.php:42
+msgid "Submit Request"
+msgstr "Отправить запрос"
+
+#: templates/emails/vendor-new-order.php:111
+#: templates/withdraw/request-form.php:27
+msgid "Payment Method"
+msgstr "Способ оплаты"
+
+#: templates/withdraw/request-form.php:14
+msgid "Withdraw Amount"
+msgstr "Сумма на вывод"
+
+#: templates/withdraw/pending-request-listing.php:43
+msgid "Accepted"
+msgstr "Принято"
+
+#: templates/withdraw/cancelled-request-listing.php:17
+#: assets/js/vue-admin.js:3696
+msgid "Note"
+msgstr "Заметка"
+
+#: templates/withdraw/approved-request-listing.php:15
+#: templates/withdraw/cancelled-request-listing.php:15
+#: templates/withdraw/pending-request-listing.php:15
+#: assets/js/vue-admin.js:3690
+msgid "Method"
+msgstr "Способ"
+
+#: templates/withdraw/approved-request-listing.php:14
+#: templates/withdraw/cancelled-request-listing.php:14
+#: templates/withdraw/pending-request-listing.php:14
+#: assets/js/vue-admin.js:3684
+msgid "Amount"
+msgstr "Количество"
+
+#: templates/withdraw/status-listing.php:18
+msgid "Cancelled Requests"
+msgstr "Отмененные запросы"
+
+#: templates/withdraw/status-listing.php:15
+msgid "Approved Requests"
+msgstr "Одобренные запросы"
+
+#: templates/withdraw/status-listing.php:12
+msgid "Withdraw Request"
+msgstr "Запрос на вывод денег"
+
+#: templates/dashboard/edit-account.php:94
+msgid "Save changes"
+msgstr "Сохранить"
+
+#: templates/dashboard/edit-account.php:83
+msgid "Confirm New Password"
+msgstr "Подтвердить новый пароль"
+
+#: templates/dashboard/edit-account.php:78
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "Новый пароль (оставьте поле пустым, чтобы не менять пароль)"
+
+#: templates/dashboard/edit-account.php:73
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "Текущий пароль (оставьте поле пустым, чтобы не менять пароль)"
+
+#: templates/dashboard/edit-account.php:70
+msgid "Password Change"
+msgstr "Изменение пароля "
+
+#: templates/dashboard/edit-account.php:59
+msgid "Last name"
+msgstr "Фамилия"
+
+#: templates/dashboard/edit-account.php:54
+msgid "First name"
+msgstr "Имя"
+
+#: templates/dashboard/edit-account.php:47
+msgid "Edit Account Details"
+msgstr "Редактировать аккаунт"
+
+#: templates/dashboard/orders-widget.php:51
+msgid "On hold"
+msgstr "Зарезервировано"
+
+#: templates/dashboard/orders-widget.php:46 includes/Order/functions.php:510
+#: includes/Dashboard/Templates/Dashboard.php:121
+msgid "Refunded"
+msgstr "Возвращено"
+
+#: templates/dashboard/orders-widget.php:41 includes/Order/functions.php:515
+#: includes/Dashboard/Templates/Dashboard.php:116
+msgid "Cancelled"
+msgstr "Отменено"
+
+#: templates/dashboard/orders-widget.php:31
+#: includes/Dashboard/Templates/Dashboard.php:106 assets/js/vue-admin.js:3740
+#: assets/js/vue-admin.js:3764
+msgid "Pending"
+msgstr "Ожидание"
+
+#: templates/dashboard/orders-widget.php:26 includes/Admin/SetupWizard.php:502
+#: includes/Order/functions.php:490
+#: includes/Dashboard/Templates/Dashboard.php:101
+msgid "Completed"
+msgstr "Выполнено"
+
+#: templates/dashboard/orders-widget.php:15 includes/template-tags.php:337
+#: includes/REST/AdminReportController.php:146 assets/js/vue-admin.js:5881
+msgid "Orders"
+msgstr "Заказы"
+
+#: templates/dashboard/products-widget.php:41
+#: templates/withdraw/pending-request-listing.php:41 includes/functions.php:764
+msgid "Pending Review"
+msgstr "На утверждении"
+
+#: templates/dashboard/products-widget.php:36
+msgid "Offline"
+msgstr "Не в сети"
+
+#: templates/dashboard/products-widget.php:31
+msgid "Live"
+msgstr "В сети"
+
+#: templates/dashboard/products-widget.php:19
+msgid "+ Add new product"
+msgstr "+ Добавить новый товар"
+
+#: templates/dashboard/products-widget.php:16 includes/functions.php:1206
+#: includes/template-tags.php:330 assets/js/vue-admin.js:5878
+msgid "Products"
+msgstr "Товары"
+
+#: templates/dashboard/sales-chart-widget.php:15
+msgid "Sales this Month"
+msgstr "Продажи в этом месяце"
+
+#: templates/dashboard/big-counter-widget.php:25
+msgid "Pageview"
+msgstr "Страница"
+
+#: templates/dashboard/big-counter-widget.php:17 includes/reports.php:366
+msgid "Sales"
+msgstr "Продажи"
+
+#: templates/orders/date-export.php:50
+msgid "Export Filtered"
+msgstr "Экспорт по фильтру"
+
+#: templates/orders/date-export.php:49
+msgid "Export All"
+msgstr "Все экспортировать"
+
+#: templates/orders/date-export.php:35
+msgid "Filter by Date"
+msgstr "Фильтр по дате"
+
+#. translators: 1: user display name 2: user ID 3: user email
+#: templates/orders/date-export.php:22
+msgid "%1$s (#%2$s)"
+msgstr "%1$s (#%2$s)"
+
+#: templates/orders/order-download-permission-html.php:40
+msgid "Never"
+msgstr "Никогда"
+
+#: templates/orders/order-download-permission-html.php:39
+msgid "Access Expires"
+msgstr "Доступ истекает"
+
+#: templates/orders/order-download-permission-html.php:36
+msgid "Unlimited"
+msgstr "Неограничено"
+
+#: templates/orders/order-download-permission-html.php:33
+msgid "Downloads Remaining"
+msgstr "Осталось загрузок"
+
+#: templates/orders/order-download-permission-html.php:30
+msgid "%s time"
+msgid_plural "%s times"
+msgstr[0] "Загружен %s раз"
+msgstr[1] "Загружено %s раза"
+msgstr[2] "Загружен %s раз"
+
+#: templates/orders/order-download-permission-html.php:28
+msgid "Downloaded"
+msgstr "Загружено"
+
+#: templates/orders/order-download-permission-html.php:17
+msgid "Revoke Access"
+msgstr "Запретить доступ"
+
+#: templates/orders/order-download-permission-html.php:7
+msgid "File %d: %s"
+msgstr "Файл %d: %s"
+
+#: templates/orders/details.php:352
+msgid "Add Tracking Details"
+msgstr "Добавить параметры отслеживания"
+
+#: templates/orders/details.php:342
+msgid "Date Shipped"
+msgstr "Дата отправки"
+
+#: templates/orders/details.php:332
+msgid "Shipping Provider Name / URL"
+msgstr "Название транспортной компании / URL"
+
+#: templates/orders/details.php:328 templates/orders/details.php:337
+msgid "Tracking Number"
+msgstr "Номер отслеживания"
+
+#: templates/orders/details.php:321 assets/js/vue-admin.js:7409
+#: assets/js/vue-admin.js:7433 assets/js/vue-admin.js:7478
+msgid "Add Note"
+msgstr "Добавить заметку"
+
+#: templates/orders/details.php:313
+msgid "Private note"
+msgstr "Личная заметка"
+
+#: templates/orders/details.php:312
+msgid "Customer note"
+msgstr "Заметка покупателя"
+
+#: templates/orders/details.php:304
+msgid "Add note"
+msgstr "Добавьте заметку"
+
+#: templates/orders/details.php:295
+msgid "There are no notes for this order yet."
+msgstr "Еще нет никаких заметок для этого заказа."
+
+#: templates/orders/details.php:288 includes/Ajax.php:402
+msgid "Delete note"
+msgstr "Удалить заметку"
+
+#: templates/orders/details.php:286
+msgid "added %s ago"
+msgstr "добавлено %s назад"
+
+#: templates/orders/details.php:262
+msgid "Order Notes"
+msgstr "Заметки к заказу"
+
+#: templates/orders/details.php:251
+msgid "Customer Note:"
+msgstr "Заметка покупателя:"
+
+#: templates/orders/details.php:237
+msgid "Customer IP:"
+msgstr "IP покупателя:"
+
+#: templates/orders/details.php:233
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: templates/orders/details.php:229
+msgid "Email:"
+msgstr "Email:"
+
+#: templates/orders/details.php:216
+msgid "Customer:"
+msgstr "Покупатель:"
+
+#: templates/orders/details.php:205
+msgid "Order Date:"
+msgstr "Дата заказа:"
+
+#: languages/dokan-lite.php:132 templates/orders/details.php:197
+#: assets/js/dokan-upgrade.js:167
+msgid "Update"
+msgstr "Обновить"
+
+#: templates/orders/details.php:179
+msgid "&nbsp; Edit"
+msgstr "&nbsp; Редактировать"
+
+#: templates/orders/details.php:175
+msgid "Order Status:"
+msgstr "Статус заказа:"
+
+#: templates/orders/details.php:171
+msgid "General Details"
+msgstr "Общая информация"
+
+#: templates/orders/details.php:156
+msgid "Downloadable Product Permission"
+msgstr "Разрешение для скачивания продукта"
+
+#: templates/orders/details.php:139 templates/global/header-menu.php:51
+msgid "Shipping Address"
+msgstr "Адрес доставки"
+
+#: templates/orders/details.php:124 templates/global/header-menu.php:50
+msgid "Billing Address"
+msgstr "Платежный адрес"
+
+#: templates/orders/details.php:97
+msgid "Coupons"
+msgstr "Купоны"
+
+#: templates/orders/details.php:38
+msgid "Totals"
+msgstr "Итого"
+
+#: templates/orders/details.php:36
+msgid "Qty"
+msgstr "Кол-во"
+
+#: templates/orders/details.php:32
+msgid "Item"
+msgstr "товар"
+
+#: templates/orders/details.php:21 includes/Order/functions.php:762
+msgid "Order Items"
+msgstr "Сортировка"
+
+#: templates/orders/details.php:7
+msgid "This is not yours, I swear!"
+msgstr "Это не ваш."
+
+#: templates/emails/vendor-new-order.php:120
+#: templates/orders/order-fee-html.php:17
+#: templates/dashboard/products-widget.php:26
+#: templates/dashboard/orders-widget.php:21 templates/my-orders.php:30
+#: templates/sub-orders.php:28 includes/REST/AdminReportController.php:138
+msgid "Total"
+msgstr "Всего"
+
+#: templates/orders/order-fee-html.php:10
+msgid "Fee Name"
+msgstr "Название оплаты"
+
+#: templates/orders/downloadable.php:67
+msgid "Grant Access"
+msgstr "Предоставление доступа"
+
+#: templates/orders/downloadable.php:38
+msgid "Choose a downloadable product&hellip;"
+msgstr "Выберите загружаемый товар&hellip;"
+
+#: templates/orders/orders-status-filter.php:14
+msgid "&larr; Orders"
+msgstr "&larr; Заказы"
+
+#: templates/orders/listing.php:221
+msgid "No orders found"
+msgstr "Заказы не найдены"
+
+#: templates/orders/listing.php:157 templates/my-orders.php:88
+#: templates/sub-orders.php:59 includes/Product/functions.php:443
+msgid "View"
+msgstr "Просмотр"
+
+#: templates/orders/listing.php:147
+msgid "Complete"
+msgstr "Готово"
+
+#: templates/orders/listing.php:138 templates/dashboard/orders-widget.php:36
+#: includes/Admin/SetupWizard.php:508 includes/Order/functions.php:505
+#: includes/Dashboard/Templates/Dashboard.php:111
+msgid "Processing"
+msgstr "В процесе"
+
+#: templates/orders/listing.php:102
+msgid "Guest"
+msgstr "Гость"
+
+#: templates/orders/listing.php:72 templates/orders/listing.php:74
+msgid "Order %s"
+msgstr "Заказ %s"
+
+#: templates/orders/listing.php:54 templates/orders/listing.php:83
+msgid "Customer"
+msgstr "Покупатель"
+
+#: templates/orders/listing.php:52 templates/orders/listing.php:77
+#: includes/Order/functions.php:766
+msgid "Order Total"
+msgstr "Всего"
+
+#: templates/orders/listing.php:51 templates/orders/listing.php:70
+#: templates/orders/details.php:21
+#: templates/dashboard/big-counter-widget.php:29 templates/my-orders.php:27
+#: templates/sub-orders.php:25 includes/functions.php:2958
+msgid "Order"
+msgstr "Заказ"
+
+#: templates/orders/listing.php:14
+msgid "Change status to completed"
+msgstr "Изменить статус на завершенный"
+
+#: templates/orders/listing.php:13
+msgid "Change status to processing"
+msgstr "Изменить статус на \"оформлен\""
+
+#: templates/orders/listing.php:12
+msgid "Change status to on-hold"
+msgstr "Изменить статус на  \"на удержании\""
+
+#: templates/orders/listing.php:11
+#: includes/Dashboard/Templates/Products.php:201
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#: templates/orders/order-tax-html.php:20
+msgid "Shipping Tax:"
+msgstr "Налог на доставку:"
+
+#: templates/orders/order-tax-html.php:16
+msgid "Sales Tax:"
+msgstr "Налог с продаж:"
+
+#: templates/orders/order-tax-html.php:8
+msgid "N/A"
+msgstr "Недоступно"
+
+#: templates/orders/order-tax-html.php:6
+msgid "Tax Rate:"
+msgstr "Налоговая ставка:"
+
+#: templates/store-toc.php:30
+msgid "Terms And Conditions"
+msgstr "Условия использования"
+
+#: templates/store-sidebar.php:27 includes/Widgets/StoreContactForm.php:40
+#: includes/Widgets/StoreContactForm.php:114
+msgid "Contact Vendor"
+msgstr "Связаться с продавцом"
+
+#: templates/store-sidebar.php:23 includes/Widgets/StoreOpenClose.php:38
+#: includes/Widgets/StoreOpenClose.php:105
+msgid "Store Time"
+msgstr "Время магазина"
+
+#: templates/store-sidebar.php:19 includes/Widgets/StoreLocation.php:40
+#: includes/Widgets/StoreLocation.php:98
+msgid "Store Location"
+msgstr "Местоположение магазина"
+
+#: templates/account/vendor-registration.php:77
+msgid "Register"
+msgstr "Регистрация"
+
+#: templates/account/vendor-registration.php:67
+#: templates/global/seller-registration-form.php:49
+msgid "I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; Conditions</a>."
+msgstr "Я прочитал и согласен с <a target=\"_blank\" href=\"%s\">Правилами &amp; Условиями</a>."
+
+#: templates/account/vendor-registration.php:52
+#: templates/global/seller-registration-form.php:31
+msgid "Shop URL"
+msgstr "URL магазина"
+
+#: templates/account/vendor-registration.php:47
+#: templates/global/seller-registration-form.php:26
+msgid "Shop Name"
+msgstr "Название магазина"
+
+#: templates/account/vendor-registration.php:44
+msgid "Anti-spam"
+msgstr "Анти-спам"
+
+#: templates/account/vendor-registration.php:39
+#: templates/login-form/login-form.php:13
+msgid "Password"
+msgstr "Пароль"
+
+#: templates/account/vendor-registration.php:27
+#: templates/dashboard/edit-account.php:65 includes/wc-functions.php:868
+msgid "Email address"
+msgstr "Адрес электронной почты"
+
+#: templates/products/download-virtual.php:9
+msgid "Virtual products are intangible and aren't shipped."
+msgstr "Виртуальные товары нематериальны и не требуют доставки."
+
+#: templates/products/download-virtual.php:4
+msgid "Downloadable products give access to a file upon purchase."
+msgstr "При покупке загружаемых товаров, предоставляется доступ на скачивание файла."
+
+#: templates/products/others.php:49
+msgid "Enable product reviews"
+msgstr "Включить отзывы о товаре"
+
+#: templates/products/others.php:44
+msgid "Customer will get this info in their order email"
+msgstr "Покупатель получит эту информацию в письме с заказом"
+
+#: templates/products/others.php:43
+msgid "Purchase Note"
+msgstr "Заметка о покупке"
+
+#: templates/products/others.php:32
+msgid "Visibility"
+msgstr "Видимость"
+
+#: templates/products/others.php:17 includes/functions.php:763
+msgid "Draft"
+msgstr "Черновик"
+
+#: templates/products/others.php:16 includes/functions.php:762
+msgid "Online"
+msgstr "Опубликовано"
+
+#: templates/products/others.php:13
+msgid "Product Status"
+msgstr "Статус товара"
+
+#: templates/products/others.php:4
+msgid "Set your extra product options"
+msgstr "Установить дополнительные параметры товара"
+
+#: templates/products/others.php:3
+msgid "Other Options"
+msgstr "Другие параметры"
+
+#: templates/products/new-product-single.php:433
+#: templates/products/new-product-single.php:434
+msgid "Save Product"
+msgstr "Сохранить товар"
+
+#: templates/products/new-product-single.php:412
+msgid "Short Description"
+msgstr "Краткое описание"
+
+#: templates/products/new-product-single.php:313
+msgid "Tags"
+msgstr "Теги"
+
+#: templates/products/new-product-single.php:282
+msgid "Please choose a category!"
+msgstr "Пожалуйста, выберите категорию!"
+
+#: templates/products/new-product-single.php:254
+#: templates/products/new-product-single.php:287
+msgid "Category"
+msgstr "Категория"
+
+#: templates/products/new-product-single.php:229
+msgid "Product price can't be less than the vendor fee!"
+msgstr "Цена товара не может быть меньше, чем коммисия продавца!"
+
+#: templates/products/new-product-single.php:209
+#: templates/products/new-product-single.php:222
+msgid "0.00"
+msgstr "0.00"
+
+#: templates/products/new-product-single.php:200
+msgid " You Earn : "
+msgstr " Вы зарабатываете : "
+
+#: templates/products/new-product-single.php:179
+msgid "Choose Variable if your product has multiple attributes - like sizes, colors, quality etc"
+msgstr "Выберите «Переменная», если ваш продукт имеет несколько атрибутов - например, размеры, цвета, качество и т. Д."
+
+#: templates/products/new-product-single.php:179
+msgid "Product Type"
+msgstr "Тип товара"
+
+#: templates/products/new-product-single.php:167
+msgid "Please enter product title!"
+msgstr "Введите название товара"
+
+#: templates/products/new-product-single.php:164
+msgid "Title"
+msgstr "Заголовок"
+
+#: templates/products/new-product-single.php:141
+msgid "View Product &rarr;"
+msgstr "Просмотр товара &rarr;"
+
+#: templates/products/new-product-single.php:138
+msgid "The product has been saved successfully."
+msgstr "Товар был успешно сохранен."
+
+#: templates/products/new-product-single.php:119
+#: includes/Product/functions.php:313
+msgid "Hidden"
+msgstr "Скрытый"
+
+#: templates/products/new-product-single.php:114
+msgid "View Product"
+msgstr "Просмотр товара"
+
+#: templates/products/new-product-single.php:107
+msgid "Edit Product"
+msgstr "Редактировать товар"
+
+#: templates/products/new-product-single.php:35
+msgid "Access Denied"
+msgstr "Отказано в доступе"
+
+#: templates/products/new-product-single.php:11
+msgid "Access Denied, No product found"
+msgstr "Доступ запрещен, товар не найден"
+
+#: templates/products/tmpl-add-product-popup.php:175
+msgid "Create & add new"
+msgstr "Создать новый "
+
+#: templates/products/tmpl-add-product-popup.php:174
+msgid "Create product"
+msgstr "Добавить товар"
+
+#: templates/products/tmpl-add-product-popup.php:167
+msgid "Enter some short description about this product..."
+msgstr "Введите краткое описание этого товара..."
+
+#: templates/products/tmpl-add-product-popup.php:23
+#: templates/products/new-product-single.php:360
+msgid "Upload a product cover image"
+msgstr "Загрузить обложку товара"
+
+#: templates/products/downloadable.php:61
+msgid "Number of days"
+msgstr "Количество дней"
+
+#: templates/products/downloadable.php:60
+msgid "Download Expiry"
+msgstr "Срок действия загрузки"
+
+#: templates/products/downloadable.php:56
+msgid "e.g. 4"
+msgstr "напр. 4"
+
+#: templates/products/downloadable.php:55
+msgid "Download Limit"
+msgstr "Ограничить скачивание"
+
+#: templates/products/downloadable.php:37 templates/orders/listing.php:57
+#: templates/orders/listing.php:128
+msgid "Action"
+msgstr "Действие"
+
+#: templates/products/downloadable.php:36
+msgid "This is the URL or absolute path to the file which customers will get access to."
+msgstr "Это URL или абсолютный путь к файлу, который клиенты получат как доступ к файлу."
+
+#: templates/products/downloadable.php:36
+msgid "File URL"
+msgstr "URL файла"
+
+#: templates/products/downloadable.php:35
+msgid "This is the name of the download shown to the customer."
+msgstr "Это название скачивания, которое увидит покупатель."
+
+#: templates/products/downloadable.php:29
+msgid "Add File"
+msgstr "Добавить файл"
+
+#: templates/products/downloadable.php:4
+msgid "Configure your downloadable product settings"
+msgstr "Настройка параметров загружаемого товара"
+
+#: templates/products/downloadable.php:3
+msgid "Downloadable Options"
+msgstr "Загружаемые свойства  "
+
+#: templates/products/products-listing.php:195
+msgid "Next &raquo;"
+msgstr "Следующий &raquo;"
+
+#: templates/products/products-listing.php:194
+msgid "&laquo; Previous"
+msgstr "&laquo; Предыдущий"
+
+#: templates/products/products-listing.php:171
+msgid "No product found"
+msgstr "Товар не найден"
+
+#: templates/products/products-listing.php:78 templates/orders/listing.php:41
+#: templates/store-lists-filter.php:82
+msgid "Apply"
+msgstr "Применить"
+
+#: templates/products/products-listing.php:67 templates/orders/listing.php:30
+msgid "Select bulk action"
+msgstr "Выберите массовое действие"
+
+#: templates/products/products-listing.php:46
+msgid "Add new product"
+msgstr "Добавить новый товар"
+
+#: templates/products/new-product.php:290
+msgid "Create Product"
+msgstr "Создать товар"
+
+#: templates/products/new-product.php:289
+msgid "Create & Add New"
+msgstr "Создать и добавить новый"
+
+#: templates/products/new-product.php:279
+msgid "Add your product description"
+msgstr "Добавьте описание товара"
+
+#: templates/products/new-product.php:279
+#: templates/products/new-product-single.php:417
+msgid "Description"
+msgstr "Описание"
+
+#: templates/products/new-product.php:270
+#: templates/products/tmpl-add-product-popup.php:160
+#: templates/products/new-product-single.php:333
+msgid "Select product tags"
+msgstr "Выберите теги товара"
+
+#: templates/products/new-product.php:243
+#: templates/products/tmpl-add-product-popup.php:137
+#: templates/products/new-product-single.php:307
+msgid "Select product category"
+msgstr "Выберите категорию товара"
+
+#: templates/products/new-product.php:195
+msgid "Short description of the product..."
+msgstr "Краткое описание товара..."
+
+#: templates/products/new-product.php:187
+#: templates/products/tmpl-add-product-popup.php:88
+#: templates/products/new-product-single.php:243
+msgid "To"
+msgstr "До"
+
+#: templates/products/new-product.php:181
+#: templates/products/new-product.php:188
+#: templates/products/tmpl-add-product-popup.php:82
+#: templates/products/tmpl-add-product-popup.php:89
+#: templates/products/new-product-single.php:237
+#: templates/products/new-product-single.php:244
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+#: templates/products/new-product.php:180
+#: templates/products/tmpl-add-product-popup.php:81
+#: templates/products/new-product-single.php:236
+msgid "From"
+msgstr "От"
+
+#: templates/products/new-product.php:166
+#: templates/products/tmpl-add-product-popup.php:67
+#: templates/products/new-product-single.php:216
+msgid "Schedule"
+msgstr "Расписание"
+
+#: templates/products/new-product.php:165
+#: templates/products/tmpl-add-product-popup.php:66
+#: templates/products/new-product-single.php:215
+msgid "Discounted Price"
+msgstr "Цена со скидкой"
+
+#: templates/products/new-product.php:150
+#: templates/products/tmpl-add-product-popup.php:51
+#: templates/products/new-product-single.php:165
+msgid "Product name.."
+msgstr "Наименование товара.."
+
+#: templates/products/new-product.php:138
+#: templates/products/tmpl-add-product-popup.php:38
+#: templates/products/new-product-single.php:398
+msgid "Add gallery image"
+msgstr "Добавить галерею"
+
+#: templates/products/new-product.php:131
+#: templates/products/new-product-single.php:392
+msgid "Delete image"
+msgstr "Удалить изображение"
+
+#: templates/products/new-product.php:102
+msgid "Upload Product Image"
+msgstr "Загрузить изображение товара"
+
+#: templates/products/new-product.php:71
+msgid "You have successfully created <a href=\"%s\"><strong>%s</strong></a> product"
+msgstr "Вы успешно создали <a href=\"%s\"><strong>%s </strong></a> товар"
+
+#: templates/products/new-product.php:70
+#: templates/products/new-product-single.php:138 assets/js/vue-admin.js:6011
+msgid "Success!"
+msgstr "Успешно!"
+
+#: templates/products/new-product.php:61
+#: templates/products/new-product-single.php:130
+#: templates/global/seller-warning.php:11
+msgid "Error!"
+msgstr "Ошибка!"
+
+#: templates/products/new-product.php:49
+#: templates/products/tmpl-add-product-popup.php:8
+msgid "Add New Product"
+msgstr "Добавить новый товар"
+
+#: templates/products/listing-filter.php:61
+msgid "Search Products"
+msgstr "Поиск по товарам"
+
+#: templates/products/listing-filter.php:56 includes/Product/functions.php:312
+msgid "Search"
+msgstr "Поиск"
+
+#: templates/products/listing-filter.php:48 templates/orders/date-export.php:39
+#: templates/store-lists-filter.php:40
+msgid "Filter"
+msgstr "Фильтр"
+
+#: templates/products/listing-filter.php:26
+#: templates/products/new-product.php:204
+#: templates/products/tmpl-add-product-popup.php:102
+#: templates/products/new-product-single.php:266
+msgid "- Select a category -"
+msgstr "- Выберите категорию -"
+
+#: templates/products/inventory.php:65
+msgid "Allow only one quantity of this product to be bought in a single order"
+msgstr "Включите эту функцию, чтобы была возможно купить только одну позицию в одном заказе"
+
+#: templates/products/inventory.php:54
+msgid "Allow but notify customer"
+msgstr "Разрешить, но уведомить покупателя"
+
+#: templates/products/inventory.php:53
+msgid "Do not allow"
+msgstr "Не позволять"
+
+#: templates/products/inventory.php:50
+msgid "Allow Backorders"
+msgstr "Разрешить резервирование"
+
+#: templates/products/inventory.php:44
+msgid "Low stock threshold"
+msgstr "Уровень низкого запаса товаров"
+
+#: templates/products/inventory.php:39 templates/products/inventory.php:45
+msgid "1"
+msgstr "1"
+
+#: templates/products/inventory.php:38
+msgid "Stock quantity"
+msgstr "Запас товара на складе"
+
+#: templates/products/inventory.php:32
+msgid "Enable product stock management"
+msgstr "Включить управление наличия товара"
+
+#: templates/products/inventory.php:23
+msgid "Out of Stock"
+msgstr "Нет на складе"
+
+#: templates/products/inventory.php:22
+msgid "In Stock"
+msgstr "В наличии"
+
+#: templates/products/inventory.php:19
+msgid "Stock Status"
+msgstr "Остаток"
+
+#: templates/products/inventory.php:14
+msgid "(Stock Keeping Unit)"
+msgstr "(Поддержание наличия)"
+
+#: templates/products/inventory.php:4
+msgid "Manage inventory for this product."
+msgstr "Управление складскими запасами для данного продукта."
+
+#: templates/products/inventory.php:3 includes/Product/functions.php:180
+msgid "Inventory"
+msgstr "Инвентаризация"
+
+#: templates/products/listing-status-filter.php:13
+#: includes/template-tags.php:198
+msgid "All (%d)"
+msgstr "Все (%d)"
+
+#: templates/products/products-listing-row.php:156
+msgid "Last Modified"
+msgstr "Последнее изменение"
+
+#: templates/products/products-listing-row.php:153 includes/functions.php:765
+msgid "Scheduled"
+msgstr "Запланировано"
+
+#: templates/products/products-listing-row.php:151
+msgid "Missed schedule"
+msgstr "Пропущенный график"
+
+#: templates/products/products-listing-row.php:148
+msgid "Published"
+msgstr "Опубликован"
+
+#: templates/products/products-listing-row.php:139
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: templates/products/products-listing-row.php:137
+#: templates/orders/listing.php:118
+msgid "%s ago"
+msgstr "%s назад"
+
+#: templates/products/products-listing-row.php:130
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: templates/products/products-listing-row.php:127
+#: templates/orders/listing.php:111
+msgid "Unpublished"
+msgstr "Неопубликованный"
+
+#: templates/products/products-listing-row.php:124
+#: templates/products/products-listing.php:99 templates/orders/listing.php:55
+#: templates/orders/listing.php:108
+#: templates/withdraw/approved-request-listing.php:16
+#: templates/withdraw/cancelled-request-listing.php:16
+#: templates/withdraw/pending-request-listing.php:16 templates/my-orders.php:28
+#: templates/sub-orders.php:26 assets/js/vue-admin.js:3699
+msgid "Date"
+msgstr "Дата"
+
+#: templates/products/products-listing-row.php:121
+#: templates/products/products-listing.php:98
+msgid "Views"
+msgstr "Просмотры"
+
+#: templates/products/products-listing-row.php:114
+msgid "Variable"
+msgstr "Значения"
+
+#: templates/products/products-listing-row.php:110
+msgid "Simple"
+msgstr "Простой"
+
+#: templates/products/products-listing-row.php:108
+#: templates/products/download-virtual.php:4
+msgid "Downloadable"
+msgstr "Загружаемый"
+
+#: templates/products/products-listing-row.php:106
+#: templates/products/download-virtual.php:9
+msgid "Virtual"
+msgstr "Виртуальный"
+
+#: templates/products/products-listing-row.php:102
+msgid "External/Affiliate"
+msgstr "Внешний/Партнерский"
+
+#: templates/products/products-listing-row.php:100
+msgid "Grouped"
+msgstr "Сгруппированные"
+
+#: templates/products/products-listing-row.php:97
+#: templates/products/products-listing.php:97
+msgid "Type"
+msgstr "Тип"
+
+#: templates/products/products-listing-row.php:86
+#: templates/products/products-listing.php:96
+#: templates/dashboard/big-counter-widget.php:21
+msgid "Earning"
+msgstr "Начисления"
+
+#: templates/emails/vendor-new-order.php:49
+#: templates/products/products-listing-row.php:77
+#: templates/products/new-product.php:156
+#: templates/products/products-listing.php:95
+#: templates/products/tmpl-add-product-popup.php:57
+#: templates/products/new-product-single.php:195
+msgid "Price"
+msgstr "Цена"
+
+#: templates/products/products-listing-row.php:68
+#: templates/products/products-listing.php:94
+#: includes/Product/functions.php:182
+msgid "Stock"
+msgstr "Наличие"
+
+#: templates/products/products-listing-row.php:59
+#: templates/products/inventory.php:14
+#: templates/products/products-listing.php:93
+msgid "SKU"
+msgstr "Артикул"
+
+#: templates/products/products-listing-row.php:53
+#: templates/products/products-listing.php:89 templates/orders/listing.php:53
+#: templates/orders/listing.php:80
+#: templates/withdraw/pending-request-listing.php:18 templates/my-orders.php:29
+#: templates/sub-orders.php:27 includes/Product/functions.php:166
+#: assets/js/vue-admin.js:3687 assets/js/vue-admin.js:5869
+msgid "Status"
+msgstr "Статус"
+
+#: templates/products/products-listing-row.php:40
+#: templates/products/products-listing.php:88
+#: templates/products/downloadable.php:35
+msgid "Name"
+msgstr "Имя"
+
+#: templates/products/products-listing-row.php:33
+#: templates/products/products-listing.php:87
+msgid "Image"
+msgstr "Изображение"
+
+#: templates/emails/withdraw-approve.php:32
+msgid "We'll transfer this amount to your preferred payment method shortly."
+msgstr "В ближайшее время мы переведем эту сумму выбранным вами способом."
+
+#: templates/emails/withdraw-cancel.php:21
+msgid "Your withdraw request was cancelled!"
+msgstr "Ваш запрос на снятие был отменен!"
+
+#: templates/emails/contact-seller.php:19
+msgid "From : %s (%s)"
+msgstr "Из : %s (%s)"
+
+#: templates/emails/plain/withdraw-approve.php:29
+#: templates/emails/withdraw-approve.php:34
+msgid "Thanks for being with us."
+msgstr "Спасибо за то, что вы с нами."
+
+#: templates/emails/plain/withdraw-approve.php:27
+msgid "We'll transfer this amount to your preferred destination shortly."
+msgstr "Мы переведем эту сумму по выбранному Вами месту назнанчения в ближайшее время."
+
+#: templates/emails/plain/withdraw-approve.php:20
+#: templates/emails/withdraw-approve.php:21
+msgid "Your withdraw request has been approved, congrats!"
+msgstr "Ваш запрос на вывод средств одобрен, поздравляем!"
+
+#: templates/emails/plain/withdraw-cancel.php:27
+#: templates/emails/withdraw-cancel.php:32
+msgid "Here's the reason, why : "
+msgstr "Здесь указана причина:"
+
+#: templates/emails/plain/withdraw-cancel.php:25
+#: templates/emails/plain/withdraw-approve.php:25
+#: templates/emails/withdraw-cancel.php:29
+#: templates/emails/withdraw-approve.php:29
+msgid "Method : "
+msgstr "Способ:"
+
+#: templates/emails/plain/withdraw-cancel.php:24
+#: templates/emails/plain/withdraw-approve.php:24
+#: templates/emails/withdraw-cancel.php:26
+#: templates/emails/withdraw-approve.php:26
+msgid "Amount : "
+msgstr "Количество:"
+
+#: templates/emails/plain/withdraw-cancel.php:22
+#: templates/emails/plain/withdraw-approve.php:22
+#: templates/emails/withdraw-cancel.php:24
+#: templates/emails/withdraw-approve.php:24
+msgid "You sent a withdraw request of:"
+msgstr "Вы отправили запрос на снятие:"
+
+#: templates/emails/plain/withdraw-cancel.php:20
+msgid "Your withdraw request was cancelled"
+msgstr "Ваш запрос на вывод средств был отменен"
+
+#: templates/emails/plain/withdraw-cancel.php:18
+#: templates/emails/plain/withdraw-approve.php:18
+#: templates/emails/withdraw-cancel.php:18
+#: templates/emails/withdraw-approve.php:18
+msgid "Hi "
+msgstr "Здравствуйте"
+
+#: templates/emails/plain/contact-seller.php:18
+msgid "From : "
+msgstr "От:"
+
+#: templates/emails/plain/withdraw-new.php:27
+msgid "You can approve or deny it by going here : "
+msgstr "Вы можете подтвердить или отклонить это, перейдя сюда:"
+
+#: templates/emails/plain/withdraw-new.php:25
+msgid "Profile : "
+msgstr "Профиль: : "
+
+#: templates/emails/plain/withdraw-new.php:22
+msgid "Payment Method : "
+msgstr "Метод оплаты:"
+
+#: templates/emails/plain/withdraw-new.php:21
+msgid "Request Amount : "
+msgstr "Требуемое значение:"
+
+#: templates/emails/plain/withdraw-new.php:19
+msgid "A new withdraw request has been made by - "
+msgstr "Новый запрос на вывод средств был создан - "
+
+#: templates/emails/plain/new-product.php:31
+msgid "The product is currently in \"publish\" state. So everyone can view the product."
+msgstr "В настоящее время продукт находится в состоянии «публикации». Таким образом, каждый может просмотреть продукт."
+
+#: templates/emails/plain/new-product.php:20
+msgid "A new product is submitted to your site."
+msgstr "Новый товар был подтвержден и добавлен на сайт."
+
+#: templates/emails/plain/product-published.php:22
+msgid "Update : "
+msgstr "Обновить:"
+
+#: templates/emails/plain/product-published.php:21
+msgid "View product : "
+msgstr "Посмотреть товар: "
+
+#: templates/emails/plain/product-published.php:19
+msgid "has been approved by one of our admin, congrats!"
+msgstr "был одобрен одним из наших администраторов, поздравляем!"
+
+#: templates/emails/plain/product-published.php:19
+msgid "Your product "
+msgstr "Ваш Товар"
+
+#: templates/emails/plain/new-product-pending.php:33
+#: templates/emails/plain/new-product.php:33
+msgid "In case it needs to be moderated  <a href=\"%s\"> click here </a>"
+msgstr "В случае необходимости модерирования <a href=\"%s\"> нажмите сюда</a>"
+
+#: templates/emails/plain/new-product-pending.php:31
+msgid "The product is currently in \"pending\" state."
+msgstr "В настоящее время товар находится в состоянии \"ожидания\"."
+
+#: templates/emails/plain/new-product-pending.php:29
+#: templates/emails/plain/new-product.php:29
+msgid "Category: "
+msgstr "Категория:"
+
+#: templates/emails/plain/new-product-pending.php:27
+#: templates/emails/plain/new-product.php:27
+msgid "Price: "
+msgstr "Цена:"
+
+#: templates/emails/plain/new-product-pending.php:26
+#: templates/emails/plain/new-product.php:26
+msgid "Title: "
+msgstr "Название:"
+
+#: templates/emails/plain/new-product-pending.php:20
+msgid "A new product is submitted to your site and pending review"
+msgstr "Новый Товар добавлен на сайт и ожидает рассмотрения"
+
+#: templates/emails/plain/new-seller-registered.php:28
+msgid "To edit vendor access and details visit : "
+msgstr "Для редактирования входа Продавца и деталей, перейдите:"
+
+#: templates/emails/plain/new-seller-registered.php:26
+msgid "Vendor Store: "
+msgstr "Магазин Продавца:"
+
+#: templates/emails/plain/new-seller-registered.php:25
+#: templates/emails/plain/new-product-pending.php:28
+#: templates/emails/plain/new-product.php:28
+msgid "Vendor: "
+msgstr "Продавец:"
+
+#: templates/emails/plain/new-seller-registered.php:20
+msgid "A new vendor has registered in your marketplace  "
+msgstr "На вашей торговой площадке зарегистрирован новый продавец "
+
+#: templates/emails/withdraw-new.php:46
+msgid "You can approve or deny it by going <a href=\"%s\"> here </a>"
+msgstr "Вы можете подтвердить или отклонить это, перейдя <a href=\"%s\"> сюда </a>"
+
+#: templates/emails/withdraw-new.php:40
+msgid "Payment Method: "
+msgstr "Способ оплаты: "
+
+#: templates/emails/withdraw-new.php:34
+msgid "Request Amount:"
+msgstr "Сумма запроса:"
+
+#: templates/emails/withdraw-new.php:27
+#: templates/emails/plain/withdraw-new.php:24
+msgid "Username : "
+msgstr "Имя пользователя: "
+
+#: templates/emails/withdraw-new.php:21
+msgid "A new withdraw request has been made by"
+msgstr "Новый запрос на снятие был сделан"
+
+#: templates/emails/withdraw-new.php:18
+#: templates/emails/plain/withdraw-new.php:17
+msgid "Hi,"
+msgstr "Привет,"
+
+#: templates/emails/new-product.php:51
+msgid "The product is currently in \"publish\" status. So, everyone can view the product."
+msgstr "Данный товар опубликован на сайте. Это значит, что любой пользователь может его видеть."
+
+#: templates/emails/new-product.php:20
+msgid "A new product is submitted to your site"
+msgstr "На сайте появился новый товар"
+
+#: templates/emails/product-published.php:24
+msgid "To Edit product click : <a href=\"%s\">here</a>"
+msgstr "Для того чтобы изменит товар нажмите:<a href=\"%s\">сюда</a>"
+
+#: templates/emails/product-published.php:21
+msgid "Your product : <a href=\"%s\">%s</a> is approved by the admin, congrats!"
+msgstr "Поздравляем! Ваш товар: <a href=\"%s\">%s</a> одобрен администратором."
+
+#: templates/emails/product-published.php:18
+#: templates/emails/plain/product-published.php:17
+msgid "Hello "
+msgstr "Здравствуйте"
+
+#: templates/emails/new-product-pending.php:51
+msgid "The product is currently in \"pending\" status."
+msgstr "Товар находится в состоянии \"ожидание\"."
+
+#: templates/emails/new-product-pending.php:45
+#: templates/emails/new-product.php:45
+msgid "Category :"
+msgstr "Категория :"
+
+#: templates/emails/new-product-pending.php:32
+#: templates/emails/new-product.php:32
+msgid "Price :"
+msgstr "Цена:"
+
+#: templates/emails/new-product-pending.php:26
+#: templates/emails/new-product.php:26
+msgid "Title :"
+msgstr "Название :"
+
+#: templates/emails/new-product-pending.php:21
+#: templates/emails/new-product.php:21
+#: templates/emails/plain/new-product-pending.php:22
+#: templates/emails/plain/new-product.php:22
+msgid "Summary of the product:"
+msgstr "Краткое описание товара:"
+
+#: templates/emails/new-product-pending.php:20
+msgid "A new product is submitted to your site and is pending review"
+msgstr "Новый товар был принят на ваш сайт и ожидает утверждения"
+
+#: templates/emails/new-product-pending.php:18
+#: templates/emails/new-product.php:18
+msgid "Hello,"
+msgstr "Здравствуйте,"
+
+#: templates/emails/new-seller-registered.php:42
+msgid "To edit vendor access and details <a href=\"%s\">Click Here</a>"
+msgstr "Чтобы изменить доступ Продавца и его детали <a href=\"%s\">нажмите здесь</a>"
+
+#: templates/emails/new-seller-registered.php:36
+msgid "Vendor Store :"
+msgstr "Магазин продавца:"
+
+#: templates/emails/new-seller-registered.php:30
+#: templates/emails/new-product-pending.php:38
+#: templates/emails/new-product.php:38
+msgid "Vendor :"
+msgstr "Поставщик:"
+
+#: templates/emails/new-seller-registered.php:24
+#: templates/emails/plain/new-seller-registered.php:21
+msgid "Vendor Details:"
+msgstr "Информация о продавце:"
+
+#: templates/emails/new-seller-registered.php:20
+msgid "A new vendor has registered in your marketplace "
+msgstr "Новый Продавец зарегистрировался на вашей торговой площадке"
+
+#: templates/emails/new-seller-registered.php:18
+#: templates/emails/plain/new-seller-registered.php:18
+#: templates/emails/plain/new-product-pending.php:18
+#: templates/emails/plain/new-product.php:18
+msgid "Hello there,"
+msgstr "Привет,"
+
+#: templates/settings/header.php:13 templates/store-lists-loop.php:78
+#: includes/template-tags.php:490
+msgid "Visit Store"
+msgstr "Посетить магазин"
+
+#: templates/settings/address-form.php:118
+msgid "State "
+msgstr "Регион"
+
+#: templates/settings/address-form.php:91
+msgid "Country "
+msgstr "Страна"
+
+#: templates/settings/address-form.php:78
+msgid "Postcode / Zip"
+msgstr "Почтовый индекс"
+
+#: templates/settings/address-form.php:70
+msgid "Post/ZIP Code"
+msgstr "Почтовый индекс"
+
+#: templates/settings/address-form.php:65
+msgid "Town / City"
+msgstr "Город"
+
+#: templates/settings/address-form.php:49
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr "Квартира, комната, блок и т.д. (необязательно)"
+
+#: templates/settings/address-form.php:36
+msgid "Street address"
+msgstr "Адрес улицы"
+
+#: templates/settings/address-form.php:28
+msgid "Street "
+msgstr "Улица"
+
+#: templates/settings/store-form.php:301 templates/settings/payment.php:45
+msgid "Update Settings"
+msgstr "Обновить"
+
+#: templates/settings/store-form.php:290 includes/Vendor/Vendor.php:853
+msgid "Store is closed"
+msgstr "Магазин закрыт"
+
+#: templates/settings/store-form.php:286
+msgid "Store Close Notice"
+msgstr "Уведомление о закрытии магазина"
+
+#: templates/settings/store-form.php:280 includes/Vendor/Vendor.php:839
+msgid "Store is open"
+msgstr "Магазин открыт"
+
+#: templates/settings/store-form.php:276
+msgid "Store Open Notice"
+msgstr "Примечание к часам работы магазина"
+
+#: templates/settings/store-form.php:259
+msgid "Open"
+msgstr "Открыт"
+
+#: templates/settings/store-form.php:235
+msgid "Show store opening closing time widget in store page"
+msgstr "Показать виджет времени времени работы магазина на странице магазина"
+
+#: templates/settings/store-form.php:228
+msgid "Store Opening Closing Time"
+msgstr "Время открытия магазина"
+
+#: templates/settings/store-form.php:209
+msgid "TOC Details"
+msgstr "TOC подробности"
+
+#: templates/settings/store-form.php:203
+msgid "Show terms and conditions in store page"
+msgstr "Отображать Условия использования в магазине"
+
+#: templates/settings/store-form.php:199 includes/functions.php:1210
+msgid "Terms and Conditions"
+msgstr "Условия использования"
+
+#: templates/maps/google-maps-with-search.php:6
+#: templates/maps/mapbox-with-search.php:6
+msgid "Find Address"
+msgstr "Найти адрес"
+
+#: templates/maps/google-maps-with-search.php:5
+msgid "Type an address to find"
+msgstr "Найти адрес"
+
+#: templates/settings/store-form.php:180
+msgid "Map"
+msgstr "Карта"
+
+#: templates/settings/store-form.php:172
+msgid "Enable tab on product single page view"
+msgstr "Включить вкладку на странице товара"
+
+#: templates/settings/store-form.php:167
+msgid "More products"
+msgstr "Больше Товаров"
+
+#: templates/settings/store-form.php:160 includes/Vendor/SetupWizard.php:234
+msgid "Show email address in store"
+msgstr "Показать адрес электронной почты в магазине"
+
+#: templates/settings/store-form.php:150
+msgid "+123456.."
+msgstr "+123456.."
+
+#: templates/settings/store-form.php:148
+msgid "Phone No"
+msgstr "Номер телефона"
+
+#: templates/settings/store-form.php:125 includes/Vendor/SetupWizard.php:185
+msgid "Store Product Per Page"
+msgstr "Товаров на странице магазина"
+
+#: templates/settings/store-form.php:118
+msgid "store name"
+msgstr "Название магазина"
+
+#: templates/settings/store-form.php:109
+msgid "Upload Photo"
+msgstr "Загрузить фото"
+
+#: templates/settings/store-form.php:99
+msgid "Profile Picture"
+msgstr "Изображение профиля"
+
+#: templates/settings/store-form.php:86
+msgid "Upload a banner for your store. Banner size is (%sx%s) pixels."
+msgstr "Загрузите баннер для вашего магазина. Размер баннера (%s x %s) пикселей."
+
+#: templates/settings/store-form.php:73 includes/Admin/UserProfile.php:118
+msgid "Upload banner"
+msgstr "Загрузите баннер"
+
+#: languages/dokan-lite.php:127 assets/js/vue-admin.js:7267
+msgid "Cancelled <span class='count'>(%s)</span>"
+msgstr "Удалено <span class='count'>(%s)</span>"
+
+#: languages/dokan-lite.php:126 assets/js/vue-admin.js:7152
+#: assets/js/vue-admin.js:7194
+msgid "Update Note"
+msgstr "Обновить примечание"
+
+#: languages/dokan-lite.php:125 assets/js/vue-admin.js:7146
+msgid "Withdraw Requests"
+msgstr "Запросы на вывод денег"
+
+#: languages/dokan-lite.php:124 assets/js/vue-admin.js:7215
+#: assets/js/vue-admin.js:10451
+msgid "Pending <span class='count'>(%s)</span>"
+msgstr "В ожидании <span class='count'>(%s)</span>"
+
+#: languages/dokan-lite.php:123 assets/js/vue-admin.js:7241
+#: assets/js/vue-admin.js:10425
+msgid "Approved <span class='count'>(%s)</span>"
+msgstr "Одобрено <span class='count'>(%s)</span>"
+
+#: languages/dokan-lite.php:120 includes/Admin/Menu.php:47
+#: assets/js/vue-admin.js:10367
+msgid "Vendors"
+msgstr "Продавцы"
+
+#: languages/dokan-lite.php:119 includes/functions.php:2342
+#: includes/Privacy.php:200 assets/js/vue-bootstrap.js:6315
+msgid "Instagram"
+msgstr "Instagram"
+
+#: languages/dokan-lite.php:118 includes/functions.php:2330
+#: includes/Privacy.php:197 assets/js/vue-bootstrap.js:6280
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: languages/dokan-lite.php:117 includes/Privacy.php:198
+#: assets/js/vue-bootstrap.js:6245
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: languages/dokan-lite.php:116 includes/functions.php:2338
+#: includes/Privacy.php:199 assets/js/vue-bootstrap.js:6210
+msgid "Youtube"
+msgstr "Youtube"
+
+#: languages/dokan-lite.php:115 includes/functions.php:2326
+#: includes/Privacy.php:196 assets/js/vue-bootstrap.js:6175
+msgid "Twitter"
+msgstr "Twitter"
+
+#: languages/dokan-lite.php:114 includes/functions.php:2322
+#: includes/Privacy.php:195 assets/js/vue-bootstrap.js:6144
+msgid "Google Plus"
+msgstr "Google+"
+
+#: languages/dokan-lite.php:113 includes/functions.php:2346
+#: includes/Privacy.php:201 assets/js/vue-bootstrap.js:6113
+msgid "Flickr"
+msgstr "Flickr"
+
+#: languages/dokan-lite.php:111 includes/functions.php:2318
+#: includes/Privacy.php:194 assets/js/vue-bootstrap.js:6082
+msgid "Facebook"
+msgstr "Facebook"
+
+#: languages/dokan-lite.php:108 includes/functions.php:3523
+#: assets/js/vue-bootstrap.js:1295 assets/js/vue-admin.js:1295
+msgid "Percentage"
+msgstr "процент"
+
+#: languages/dokan-lite.php:107 includes/functions.php:3522
+#: assets/js/vue-bootstrap.js:1295 assets/js/vue-bootstrap.js:1296
+#: assets/js/vue-admin.js:1295 assets/js/vue-admin.js:1296
+msgid "Flat"
+msgstr "Квартира"
+
+#: languages/dokan-lite.php:103
+#: templates/admin-setup-wizard/step-selling.php:31
+#: includes/Admin/Settings.php:328 assets/js/vue-bootstrap.js:3133
+#: assets/js/vue-bootstrap.js:3209 assets/js/vue-admin.js:3138
+#: assets/js/vue-admin.js:3214
+msgid "Admin Commission"
+msgstr "Комиссия администратора"
+
+#: languages/dokan-lite.php:101 includes/Privacy.php:290
+#: assets/js/vue-bootstrap.js:3056 assets/js/vue-admin.js:3061
+msgid "PayPal Email"
+msgstr "Paypal Email"
+
+#: languages/dokan-lite.php:99 includes/Withdraw/functions.php:203
+#: includes/Privacy.php:278 assets/js/vue-bootstrap.js:2966
+#: assets/js/vue-admin.js:2971
+msgid "IBAN"
+msgstr "IBAN"
+
+#: languages/dokan-lite.php:98 includes/Admin/UserProfile.php:275
+#: includes/Privacy.php:277 assets/js/vue-bootstrap.js:2929
+#: assets/js/vue-admin.js:2934
+msgid "Routing Number"
+msgstr "Маршрутный номер"
+
+#: languages/dokan-lite.php:97 includes/Privacy.php:276
+#: assets/js/vue-bootstrap.js:2894 assets/js/vue-bootstrap.js:2909
+#: assets/js/vue-admin.js:2899 assets/js/vue-admin.js:2914
+msgid "Bank Address"
+msgstr "Адрес банка"
+
+#: languages/dokan-lite.php:96 includes/Privacy.php:275
+#: assets/js/vue-bootstrap.js:2859 assets/js/vue-bootstrap.js:2874
+#: assets/js/vue-admin.js:2864 assets/js/vue-admin.js:2879
+msgid "Bank Name"
+msgstr "Название банка"
+
+#: languages/dokan-lite.php:94 includes/Privacy.php:274
+#: assets/js/vue-bootstrap.js:2824 assets/js/vue-admin.js:2829
+msgid "Account Number"
+msgstr "Номер счета"
+
+#: languages/dokan-lite.php:93 includes/Privacy.php:273
+#: assets/js/vue-bootstrap.js:2789 assets/js/vue-bootstrap.js:2804
+#: assets/js/vue-admin.js:2794 assets/js/vue-admin.js:2809
+msgid "Account Name"
+msgstr "Имя аккаунта"
+
+#: languages/dokan-lite.php:91
+#: templates/admin-setup-wizard/step-store-wc-fields.php:58
+#: templates/admin-setup-wizard/step-store-wc-fields.php:59
+#: includes/Privacy.php:221 includes/Vendor/SetupWizard.php:221
+#: assets/js/vue-bootstrap.js:2614 assets/js/vue-bootstrap.js:2631
+#: assets/js/vue-admin.js:2619 assets/js/vue-admin.js:2636
+msgid "State"
+msgstr "Регион"
+
+#: languages/dokan-lite.php:89
+#: templates/admin-setup-wizard/step-store-wc-fields.php:24
+#: includes/Admin/UserProfile.php:88 includes/Privacy.php:220
+#: includes/Vendor/SetupWizard.php:213 assets/js/vue-bootstrap.js:2584
+#: assets/js/vue-admin.js:2589
+msgid "Country"
+msgstr "Страна"
+
+#: languages/dokan-lite.php:87 templates/settings/address-form.php:57
+#: templates/admin-setup-wizard/step-store-wc-fields.php:51
+#: includes/Privacy.php:218 includes/Vendor/SetupWizard.php:203
+#: assets/js/vue-bootstrap.js:2522 assets/js/vue-bootstrap.js:2537
+#: assets/js/vue-admin.js:2527 assets/js/vue-admin.js:2542
+msgid "City"
+msgstr "Город"
+
+#: languages/dokan-lite.php:86 templates/settings/address-form.php:41
+#: includes/Vendor/SetupWizard.php:197 assets/js/vue-bootstrap.js:2487
+#: assets/js/vue-bootstrap.js:2502 assets/js/vue-admin.js:2492
+#: assets/js/vue-admin.js:2507
+msgid "Street 2"
+msgstr "Улица 2"
+
+#: languages/dokan-lite.php:83 includes/Admin/UserProfile.php:39
+#: includes/Assets.php:399 assets/js/vue-bootstrap.js:533
+#: assets/js/vue-bootstrap.js:569 assets/js/vue-admin.js:533
+#: assets/js/vue-admin.js:569
+msgid "Not Available"
+msgstr "Не доступно"
+
+#: languages/dokan-lite.php:82 includes/Admin/UserProfile.php:38
+#: includes/Ajax.php:139 includes/Assets.php:398 assets/js/vue-bootstrap.js:523
+#: assets/js/vue-bootstrap.js:559 assets/js/vue-bootstrap.js:595
+#: assets/js/vue-admin.js:523 assets/js/vue-admin.js:559
+#: assets/js/vue-admin.js:595
+msgid "Available"
+msgstr "Доступно"
+
+#: languages/dokan-lite.php:76 templates/account/vendor-registration.php:21
+#: templates/login-form/login-form.php:8 assets/js/vue-bootstrap.js:2231
+#: assets/js/vue-bootstrap.js:2253 assets/js/vue-admin.js:2236
+#: assets/js/vue-admin.js:2258
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: languages/dokan-lite.php:73 templates/settings/store-form.php:155
+#: includes/Vendor/SetupWizard.php:230 assets/js/vue-bootstrap.js:2176
+#: assets/js/vue-admin.js:2181
+msgid "Email"
+msgstr "Email"
+
+#: languages/dokan-lite.php:71 templates/account/vendor-registration.php:33
+#: templates/global/seller-registration-form.php:38
+#: includes/Admin/UserProfile.php:211 assets/js/vue-bootstrap.js:2145
+#: assets/js/vue-admin.js:2150
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: languages/dokan-lite.php:69 includes/Admin/UserProfile.php:141
+#: assets/js/vue-bootstrap.js:2088 assets/js/vue-admin.js:2093
+msgid "Store URL"
+msgstr "URL магазина"
+
+#: languages/dokan-lite.php:67 templates/settings/store-form.php:115
+#: includes/Privacy.php:173 assets/js/vue-bootstrap.js:2047
+#: assets/js/vue-bootstrap.js:2071 assets/js/vue-admin.js:2052
+#: assets/js/vue-admin.js:2076
+msgid "Store Name"
+msgstr "Название магазина"
+
+#: languages/dokan-lite.php:66 templates/account/vendor-registration.php:14
+#: templates/global/seller-registration-form.php:20
+#: includes/wc-functions.php:867 assets/js/vue-bootstrap.js:2016
+#: assets/js/vue-bootstrap.js:2031 assets/js/vue-admin.js:2021
+#: assets/js/vue-admin.js:2036
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: languages/dokan-lite.php:65 templates/account/vendor-registration.php:9
+#: templates/global/seller-registration-form.php:15
+#: includes/wc-functions.php:866 assets/js/vue-bootstrap.js:1985
+#: assets/js/vue-bootstrap.js:2000 assets/js/vue-admin.js:1990
+#: assets/js/vue-admin.js:2005
+msgid "First Name"
+msgstr "Имя"
+
+#: languages/dokan-lite.php:61 assets/js/vue-admin.js:5111
+msgid "Choose your file"
+msgstr "Выберите файл"
+
+#: languages/dokan-lite.php:60 assets/js/vue-admin.js:9917
+msgid "Dismiss this notice."
+msgstr "Закрыть это уведомление."
+
+#: languages/dokan-lite.php:59 dokan.php:438 includes/Admin/AdminBar.php:68
+#: includes/Admin/Menu.php:59 includes/template-tags.php:354
+#: includes/Dashboard/Templates/Settings.php:58
+#: includes/Dashboard/Templates/Settings.php:62 assets/js/vue-admin.js:9887
+msgid "Settings"
+msgstr "Настройки"
+
+#: languages/dokan-lite.php:58 assets/js/vue-admin.js:8022
+msgid "is built using Dokan"
+msgstr "Создано с использованием Dokan"
+
+#: languages/dokan-lite.php:57 assets/js/vue-admin.js:8019
+msgid "We are proud to say the official"
+msgstr "Мы рады официально заявить"
+
+#: languages/dokan-lite.php:56 assets/js/vue-admin.js:7971
+msgid "People We Have Helped"
+msgstr "Люди, которым мы помогли"
+
+#: languages/dokan-lite.php:55 assets/js/vue-admin.js:7959
+msgid "Payment Options:"
+msgstr "Варианты оплаты:"
+
+#: languages/dokan-lite.php:54 assets/js/vue-admin.js:7951
+msgid "Terms & Condition Applied"
+msgstr "Примененные Условия Использования"
+
+#: languages/dokan-lite.php:53 assets/js/vue-admin.js:7937
+msgid "After successful purchase, you will be eligible for conditional refund"
+msgstr "После совершения покупки, вы будете иметь право на условный возврат"
+
+#: languages/dokan-lite.php:52 assets/js/vue-admin.js:7931
+msgid "14 Days Money Back Guarantee"
+msgstr "14-дневная гарантия возврата денег"
+
+#: languages/dokan-lite.php:51 assets/js/vue-admin.js:7864
+#: assets/js/vue-admin.js:7880 assets/js/vue-admin.js:7896
+#: assets/js/vue-admin.js:7912
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: languages/dokan-lite.php:50 assets/js/vue-admin.js:7777
+msgid "The Packages We Provide"
+msgstr "Пакеты, которые мы предоставляем"
+
+#: languages/dokan-lite.php:49 assets/js/vue-admin.js:7697
+msgid "Comparison With Dokan PRO"
+msgstr "Сравнение с Dokan PRO"
+
+#: languages/dokan-lite.php:48 assets/js/vue-admin.js:7663
+msgid "And Many More"
+msgstr "И многое другое"
+
+#: languages/dokan-lite.php:47 assets/js/vue-admin.js:7624
+msgid "Why Upgrade"
+msgstr "Зачем обновлять"
+
+#: languages/dokan-lite.php:46 assets/js/vue-admin.js:7612
+msgid "Seems To Be Convinced, You Need More Out Of Your Marketplace"
+msgstr "Кажется, чтобы убедиться, вам нужно получить больше от вашего Маркетплейса"
+
+#: languages/dokan-lite.php:45 assets/js/vue-admin.js:7598
+#: assets/js/vue-admin.js:7599 assets/js/vue-admin.js:7606
+msgid "Upgrade to Dokan Pro!"
+msgstr "Обновиться до версии Dokan Pro!"
+
+#: languages/dokan-lite.php:44 assets/js/vue-admin.js:8232
+msgid "Help"
+msgstr "Помощь"
+
+#: languages/dokan-lite.php:43 includes/functions.php:2956
+#: assets/js/vue-admin.js:7045
+msgid "Overview"
+msgstr "Обзор"
+
+#: languages/dokan-lite.php:42 assets/js/vue-admin.js:7019
+msgid "Thank you for subscribing!"
+msgstr "Спасибо что подписались!"
+
+#: languages/dokan-lite.php:41 assets/js/vue-admin.js:7010
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: languages/dokan-lite.php:40 assets/js/vue-admin.js:6945
+msgid "We're constantly developing new features, stay up-to-date by subscribing to our newsletter."
+msgstr "Мы постоянно разрабатываем новые функции, будьте в курсе, подписавшись на нашу рассылку."
+
+#: languages/dokan-lite.php:39 assets/js/vue-admin.js:6936
+msgid "Stay up-to-date"
+msgstr "Будьте в курсе"
+
+#: languages/dokan-lite.php:38 assets/js/vue-admin.js:6894
+msgid "Dokan News Updates"
+msgstr "Что нового"
+
+#: languages/dokan-lite.php:37 assets/js/vue-admin.js:6867
+msgid "%s Withdrawals"
+msgstr "%s Снятие средств"
+
+#: languages/dokan-lite.php:36 assets/js/vue-admin.js:6833
+msgid "created this month"
+msgstr "создано в этом месяце"
+
+#: languages/dokan-lite.php:35 assets/js/vue-admin.js:6822
+msgid "%s Products"
+msgstr "%s Товары"
+
+#: languages/dokan-lite.php:34 assets/js/vue-admin.js:6804
+#: assets/js/vue-admin.js:6877
+msgid "awaiting approval"
+msgstr "ожидающие утверждения"
+
+#: languages/dokan-lite.php:33 assets/js/vue-admin.js:6753
+msgid "signup this month"
+msgstr "подписки в этом месяце"
+
+#: languages/dokan-lite.php:32 assets/js/vue-admin.js:6742
+#: assets/js/vue-admin.js:6794
+msgid "%s Vendor"
+msgstr "Продавец %s"
+
+#: languages/dokan-lite.php:31 assets/js/vue-admin.js:6708
+msgid "commission earned"
+msgstr "заработанная комиссия"
+
+#: languages/dokan-lite.php:30 assets/js/vue-admin.js:6657
+msgid "net sales this month"
+msgstr "чистых продаж в этом месяце"
+
+#: languages/dokan-lite.php:29 assets/js/vue-admin.js:6617
+msgid "At a Glance"
+msgstr "С одного взгляда"
+
+#: languages/dokan-lite.php:28 includes/Install/Installer.php:157
+#: includes/Admin/AdminBar.php:47 includes/Admin/Menu.php:42
+#: includes/Admin/Settings.php:411 includes/template-tags.php:323
+#: assets/js/vue-admin.js:6606
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: languages/dokan-lite.php:13 templates/settings/address-form.php:23
+#: templates/maps/mapbox-with-search.php:5
+#: templates/admin-setup-wizard/step-store-wc-fields.php:33
+#: includes/Privacy.php:176 assets/js/vue-bootstrap.js:2442
+#: assets/js/vue-bootstrap.js:5979 assets/js/vue-admin.js:2447
+#: assets/js/vue-admin.js:6150
+msgid "Address"
+msgstr "Адрес"
+
+#: languages/dokan-lite.php:20 includes/Admin/Pointers.php:114
+#: includes/Admin/Pointers.php:131 includes/Admin/Pointers.php:181
+#: includes/Admin/Pointers.php:198 includes/Admin/Pointers.php:215
+#: assets/js/vue-admin.js:6141
+msgid "Next"
+msgstr "следующий"
+
+#: languages/dokan-lite.php:16 assets/js/vue-bootstrap.js:3755
+msgid "Please select an image,"
+msgstr "Пожалуйста, выберите изображение,"
+
+#: languages/dokan-lite.php:15 assets/js/vue-bootstrap.js:3708
+#: assets/js/vue-bootstrap.js:3713 assets/js/vue-bootstrap.js:3718
+msgid "Select an image"
+msgstr "Выберите изображение"
+
+#: languages/dokan-lite.php:14 assets/js/vue-bootstrap.js:5234
+msgid "Close modal panel"
+msgstr "Закрыть модульную панель"
+
+#: languages/dokan-lite.php:8 assets/js/vue-admin.js:5113
+#: assets/js/vue-admin.js:9775
+msgid "Select"
+msgstr "Выбрать"
+
+#: languages/dokan-lite.php:7 assets/js/vue-admin.js:9749
+msgid "Active"
+msgstr "Активный"
+
+#: languages/dokan-lite.php:5 templates/settings/store-form.php:256
+#: templates/orders/details.php:353 includes/Product/functions.php:272
+#: assets/js/dokan-upgrade.js:234 assets/js/vue-bootstrap.js:1649
+#: assets/js/vue-admin.js:1654
+msgid "Close"
+msgstr "Закрыть"
+
+#: languages/dokan-lite.php:4 assets/js/vue-bootstrap.js:1639
+#: assets/js/vue-admin.js:1644
+msgid "Clear"
+msgstr "Очистить"
+
+#: languages/dokan-lite.php:3 assets/js/vue-bootstrap.js:1610
+#: assets/js/vue-admin.js:1615
+msgid "Select Color"
+msgstr "Выбрать цвет"
+
+#: includes/Admin/Settings.php:43 includes/Admin/Settings.php:71
+#: includes/Abstracts/DokanPromotion.php:190
+msgid "Invalid nonce"
+msgstr "Неверный код"
+
+#: includes/Abstracts/DokanPromotion.php:186
+msgid "You have no permission to do that"
+msgstr "У Вас нет разрешения на это действие"
+
+#: includes/Abstracts/DokanPromotion.php:81
+msgid "Learn More &rarr;"
+msgstr "Узнать больше &rarr;"
+
+#: templates/products/new-product.php:167
+#: templates/products/tmpl-add-product-popup.php:68
+#: templates/products/new-product-single.php:217
+#: templates/orders/details.php:199
+#: templates/withdraw/pending-request-listing.php:17
+#: templates/withdraw/pending-request-listing.php:35
+#: templates/store-lists-filter.php:81 templates/my-orders.php:83
+#: includes/Product/functions.php:262 assets/js/vue-admin.js:3732
+#: assets/js/vue-admin.js:3753
+msgid "Cancel"
+msgstr "Отмена"
+
+#: templates/products/inventory.php:55
+msgid "Allow"
+msgstr "Разрешить"
+
+#. Author URI of the plugin
+msgid "https://wedevs.com/"
+msgstr "https://wedevs.com/"
+
+#. Description of the plugin
+msgid "An e-commerce marketplace plugin for WordPress. Powered by WooCommerce and weDevs."
+msgstr "Плагин площадки электронной комерции для WordPress.Работает на WooCommerce и  weDevs."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/dokan-lite/"
+msgstr "https://wordpress.org/plugins/dokan-lite/"
+
+#. Plugin Name of the plugin
+#: includes/Admin/AdminBar.php:38 includes/Admin/Menu.php:39
+#: includes/Privacy.php:30
+msgid "Dokan"
+msgstr "Dokan"

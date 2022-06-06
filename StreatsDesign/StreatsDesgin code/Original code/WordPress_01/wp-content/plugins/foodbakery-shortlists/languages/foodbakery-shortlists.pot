@@ -1,0 +1,54 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodbakery Shortlists\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-26 07:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: foodbakery-shortlists.php:56
+msgid "Are you sure to do this?"
+msgstr ""
+
+#: foodbakery-shortlists.php:135
+msgid "Shortlists Manage"
+msgstr ""
+
+#: foodbakery-shortlists.php:154
+msgid ""
+"<em><b>Foodbakery Shortlists</b></em> needs the <b>Foodbakery</b> plugin. "
+"Please install and activate it."
+msgstr ""
+
+#: foodbakery-shortlists.php:251
+msgid "Shortlists"
+msgstr ""
+
+#: foodbakery-shortlists.php:260
+msgid "You don't have any shortlists."
+msgstr ""
+
+#. Name of the plugin
+msgid "Foodbakery Shortlists"
+msgstr ""
+
+#. Description of the plugin
+msgid "Foodbakery Shortlists Add on"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/Chimpstudio/"
+msgstr ""
+
+#. Author of the plugin
+msgid "ChimpStudio"
+msgstr ""

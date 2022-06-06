@@ -1,0 +1,260 @@
+# Translation of Plugins - WooCommerce iDEAL Gateway - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WooCommerce iDEAL Gateway - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-11 20:24:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WooCommerce iDEAL Gateway - Stable (latest release)\n"
+
+#: woo-ideal-gateway.php:247
+msgid "Use"
+msgstr "Använd"
+
+#: woo-ideal-gateway.php:247
+msgid "as decimal seperator!"
+msgstr "som decimalseparator!"
+
+#: woo-ideal-gateway.php:247
+msgid "The amount of the transaction fee."
+msgstr "Summan av transaktionsavgiften."
+
+#: woo-ideal-gateway.php:241
+msgid "Let the customer pay the transaction fee specified below"
+msgstr "Låt kunden betala transaktionsavgiften specifierad nedan"
+
+#: woo-ideal-gateway.php:358
+msgid "You will be redirected to iDEAL"
+msgstr "Du kommer att omdirigeras till iDEAL"
+
+#: woo-ideal-gateway.php:232
+msgid "Show dropdown with banks"
+msgstr "Visa rullgardinsmeny med banker"
+
+#: woo-ideal-gateway.php:313
+msgid "iDEAL Payment canceled by customer"
+msgstr "iDEAL-betalning avbruten av kund"
+
+#: woo-ideal-gateway.php:414
+msgid "New iDEAL payment initiated by customer"
+msgstr "Ny iDEAL-betalning initierad av kund"
+
+#: woo-ideal-gateway.php:405
+msgid "Error"
+msgstr "Fel"
+
+#: woo-ideal-gateway.php:253
+msgid "Visible error codes"
+msgstr "Synliga felkoder"
+
+#: woo-ideal-gateway.php:404 woo-ideal-gateway.php:454
+msgid "Stripe error"
+msgstr "Fel från Stripe"
+
+#: woo-ideal-gateway.php:136
+msgid "live"
+msgstr "live"
+
+#: woo-ideal-gateway.php:132
+msgid "test"
+msgstr "test"
+
+#: woo-ideal-gateway.php:108 woo-ideal-gateway.php:188
+msgid "iDEAL"
+msgstr "iDEAL"
+
+#: includes/woo-ideal-gateway-class-notification.php:16
+msgid "The API Key you are currently using for %api_key_type% payments is the default one. Please change it to a working one found in your Stripe Dashboard."
+msgstr "API-nyckeln du använder för %api_key_type%-betalningar är den ursprungliga. Var vänlig ändra till din egen som du hittar i Stripe Dashboard."
+
+#: includes/woo-ideal-gateway-class-notification.php:16
+msgid "Notice"
+msgstr "Meddelande"
+
+#: woo-ideal-gateway.php:441
+msgid "A refund through iDEAL is not possible because the order has not been paid yet. Or the order was initially not using this payment gateway."
+msgstr "En återbetalning genom iDEAL är inte möjligt för att ordern inte har betalats ännu eller inte använde denna betalningslösning initialt."
+
+#: woo-ideal-gateway.php:255
+msgid "If there is an error while checking out, show the error code to the user. This might be useful for you to solve an issue a customer has."
+msgstr "Om ett fel uppstår i kassan, visa felkoden för användaren. Detta kan vara användbart för att lösa ett problem som en kund har."
+
+#: woo-ideal-gateway.php:218
+msgid "Read <a href=\"https://nl.wordpress.org/plugins/woo-ideal-gateway/#installation\">here</a> how to setup this webhook"
+msgstr "Läs hur du skapar denna webhook <a href=\"https://nl.wordpress.org/plugins/woo-ideal-gateway/#installation\">här</a>"
+
+#: woo-ideal-gateway.php:110
+msgid "WooCommerce iDEAL Gateway will generate a iDEAL source at Stripe using their API, then send the customer to their bank of choice. At this point the order is put on-hold, once the order is payed, Stripe will use a webhook to let WooCommerce know the payment succeeded. To use this payment gateway you are required to have a <a href=\"https://stripe.com/\">Stripe API key</a>, you can read more about Stripe's Authentication <a href=\"https://stripe.com/docs/api#authentication\">here</a>."
+msgstr "WooCommerce iDEAL Gateway genererar en iDEAL-källa hos Stripe genom deras API och sedan skickas kunden vidare till vald bank. Ordern genomförs med hjälp av en webhook för att informera WooCommerce om att betalning har mottagits. För att använda denna betalningslösning måste du ha en <a href=\"https://stripe.com/\">API-nyckel från Stripe</a>. Du kan läsa mer om autentisering genom Stripe <a href=\"https://stripe.com/docs/api#authentication\">här</a>."
+
+#: includes/woo-ideal-gateway-class-stripe.php:197
+msgid "Could not refund because Charge ID required to refund the payment is for some reason not found"
+msgstr "Det gick inte att återbetala för att ”Charge ID” krävs och kan inte hittas."
+
+#: includes/woo-ideal-gateway-class-stripe.php:25
+msgid "Creating Stripe source failed because no bank was chosen"
+msgstr "Kan inte skapa Stripe-källa för att ingen bank valdes."
+
+#: woo-ideal-gateway.php:405 woo-ideal-gateway.php:406
+msgid "iDEAL payment failed, please try again"
+msgstr "iDEAL-betalning misslyckades, var vänlig försök igen"
+
+#: woo-ideal-gateway.php:388
+msgid "Please choose your bank and try again"
+msgstr "Var vänlig välj din bank och försök igen"
+
+#: woo-ideal-gateway.php:347
+msgid "Choose your bank"
+msgstr "Välj din bank"
+
+#: includes/woo-ideal-gateway-class-stripe.php:246
+msgid "Refund ID:"
+msgstr "Återbetalnings-ID:"
+
+#: includes/woo-ideal-gateway-class-stripe.php:246
+msgid "iDEAL Payment refunded"
+msgstr "iDEAL-betalning återbetald"
+
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:108
+msgid "Name:"
+msgstr "Namn:"
+
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:113
+msgid "IBAN: x"
+msgstr "IBAN: x"
+
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:113
+msgid "iDEAL Payment succeeded"
+msgstr "iDEAL-betalning genomförd"
+
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:124
+msgid "Order status has been changed to processing"
+msgstr "Orderstatus har ändrats till ”inväntar betalning”"
+
+#: woo-ideal-gateway.php:203
+msgid "sk_live_XXXXXXXXXXXXXXXXXXXXXXXX"
+msgstr "sk_live_XXXXXXXXXXXXXXXXXXXXXXXX"
+
+#: woo-ideal-gateway.php:65
+msgid "Support"
+msgstr "Support"
+
+#: includes/woo-ideal-gateway-class-stripe.php:189
+msgid "Refund for order"
+msgstr "Återbetalning för order"
+
+#: woo-ideal-gateway.php:195
+msgid "Enable test mode to see if you have correctly setup Stripe iDEAL payements"
+msgstr "Aktivera testläge för att verifiera att du har ställt in Stripe iDEAL-betalningar korrekt"
+
+#: woo-ideal-gateway.php:216
+msgid "Stripe Webhook Key"
+msgstr "Stripe webhook-nyckel"
+
+#: woo-ideal-gateway.php:210
+msgid "Secret API Key from Stripe used for test payments"
+msgstr "Hemlig API-nyckel från Stripe som används för testbetalningar"
+
+#: woo-ideal-gateway.php:208
+msgid "Stripe Secret API Key (Test)"
+msgstr "Stripe hemlig API-nyckel (test)"
+
+#: woo-ideal-gateway.php:202
+msgid "Secret API Key from Stripe used for live payments"
+msgstr "Hemlig API-nyckel från Stripe som används för riktiga (live) betalningar"
+
+#: woo-ideal-gateway.php:200
+msgid "Stripe Secret API Key (Live)"
+msgstr "Stripe hemlig API-nyckel (live)"
+
+#: woo-ideal-gateway.php:193
+msgid "Enable/Disable Test Mode"
+msgstr "Aktivera/inaktivera testläge"
+
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:170
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:177
+msgid "Source is not using the iDEAL payment method!"
+msgstr "Källan använder inte iDEAL som betalsätt!"
+
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:161
+msgid "Source is not in a chargeable state"
+msgstr "Källan kan inte debiteras"
+
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:149
+msgid "Stripe source and WooCommerce Order Source are not the same!"
+msgstr "Stripe-källan och WooCommerce orderkälla stämmer inte överens!"
+
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:135
+msgid "Source is not successfully charged"
+msgstr "Källan har inte debiterats"
+
+#: woo-ideal-gateway.php:218
+msgid "Your webhook URL:"
+msgstr "Din webhook-URL:"
+
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:131
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:145
+#: includes/woo-ideal-gateway-class-stripe-webhook.php:156
+msgid "iDEAL payment failed"
+msgstr "iDEAL-betalning misslyckades"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woo-ideal-gateway/"
+msgstr "https://wordpress.org/plugins/woo-ideal-gateway/"
+
+#: woo-ideal-gateway.php:239 woo-ideal-gateway.php:246
+#: includes/woo-ideal-gateway-class-fee.php:31
+msgid "Transaction fee"
+msgstr "Transaktionsavgift"
+
+#: woo-ideal-gateway.php:227
+msgid "Payment for #{order_number}"
+msgstr "Betalning för #{order_number}"
+
+#: woo-ideal-gateway.php:64
+msgid "Settings"
+msgstr "Inställningar"
+
+#: woo-ideal-gateway.php:180
+msgid "Enable iDEAL payments"
+msgstr "Aktivera iDEAL-betalningar"
+
+#: woo-ideal-gateway.php:224
+msgid "Payment reference"
+msgstr "Betalningsreferens"
+
+#: woo-ideal-gateway.php:185
+msgid "Title"
+msgstr "Rubrik"
+
+#: woo-ideal-gateway.php:226
+msgid "Payment reference a customer sees in their iDEAL-enviroment"
+msgstr "Betalningsreferens som kunden ser i sin iDEAL-miljö"
+
+#: woo-ideal-gateway.php:187
+msgid "Title of this payment gateway a customer sees when checking out"
+msgstr "Rubrik för betalningslösningen som kunden ser i kassan"
+
+#: woo-ideal-gateway.php:178
+msgid "Enable/Disable"
+msgstr "Aktivera/inaktivera"
+
+#. Author URI of the plugin
+msgid "https://wardpieters.nl/"
+msgstr "https://wardpieters.nl/"
+
+#. Author of the plugin
+msgid "Ward Pieters"
+msgstr "Ward Pieters"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce iDEAL Gateway"
+msgstr "WooCommerce iDEAL Gateway"
+
+#: woo-ideal-gateway.php:211
+msgid "sk_test_XXXXXXXXXXXXXXXXXXXXXXXX"
+msgstr "sk_test_XXXXXXXXXXXXXXXXXXXXXXXX"

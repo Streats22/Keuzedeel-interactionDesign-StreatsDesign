@@ -1,0 +1,971 @@
+# Translation of Plugins - Food Online for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Food Online for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-07 20:46:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Food Online for WooCommerce - Stable (latest release)\n"
+
+#: fdoe-order.php:716
+msgid "Not Available"
+msgstr "No disponible"
+
+#: includes/start-args.php:11
+msgid "Either show the Menu on shop page or use shortcode [foodonline] or [foodonline2] on any page."
+msgstr "Mostrar el menú en la página de la tienda o utilizar el shortcode [foodonline] o [foodonline2] en cualquier página."
+
+#: fdoe-order.php:1155
+msgid "Product not added to cart!"
+msgstr "¡Producto no añadido al carrito!"
+
+#: fdoe-order.php:715 fdoe-order.php:1158
+msgid "We apologize! You can not add another one of this product to the cart."
+msgstr "¡Pedimos disculpas! No puede añadir otro de este producto al carrito."
+
+#: classes/class-fdoe-settings.php:50
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: classes/class-fdoe-ajax.php:83
+msgid "Average"
+msgstr "Promedio"
+
+#: classes/class-fdoe-orders.php:78
+msgid "Deliver the order in "
+msgstr "Entregar el pedido en"
+
+#: classes/class-fdoe-ajax.php:82
+msgid "Good"
+msgstr "Bueno"
+
+#: classes/class-fdoe-ajax.php:59
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta a %s"
+
+#: classes/class-fdoe-ajax.php:64
+msgid "Name"
+msgstr "Nombre"
+
+#: classes/class-fdoe-ajax.php:81
+msgid "Perfect"
+msgstr "Perfecto"
+
+#: classes/class-fdoe-ajax.php:69
+msgid "Submit"
+msgstr "Enviar"
+
+#: classes/class-fdoe-orders.php:71
+msgid "The customer will pickup the order in "
+msgstr "El cliente recogerá el pedido en"
+
+#: classes/class-fdoe-orders.php:64
+msgid "This order will be delivered."
+msgstr "Este pedido será entregado."
+
+#: classes/class-fdoe-ajax.php:85
+msgid "Very poor"
+msgstr "Muy pobre"
+
+#: classes/class-fdoe-ajax.php:89
+msgid "Your review"
+msgstr "Tu reseña"
+
+#: classes/class-fdoe-settings.php:49
+msgid "Delivery Features"
+msgstr "Características de la entrega"
+
+#: classes/class-fdoe-orders.php:77 classes/class-fdoe-orders.php:80
+msgid "Delivery Order"
+msgstr "Entrega del pedido"
+
+#: classes/class-fdoe-settings.php:142
+msgid "Drag them to the Menu box"
+msgstr "Arrastrarlos a la caja del menú"
+
+#: classes/class-fdoe-ajax.php:66
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: classes/class-fdoe-settings.php:47 classes/class-fdoe-settings.php:82
+msgid "Menu Category Sorting"
+msgstr "Clasificación de la categoría del menú"
+
+#: classes/class-fdoe-settings.php:46
+msgid "Menu Layout & Styling"
+msgstr "Diseño y estilo del menú"
+
+#: classes/class-fdoe-ajax.php:84
+msgid "Not that bad"
+msgstr "No está mal"
+
+#: classes/class-fdoe-orders.php:71 classes/class-fdoe-orders.php:73
+msgid "Pick Up Order"
+msgstr "Recogida del pedido"
+
+#: classes/class-fdoe-ajax.php:80
+msgid "Rate&hellip;"
+msgstr "Valorar&hellip;"
+
+#: classes/class-fdoe-settings.php:141
+msgid "Selectable Product Categories"
+msgstr "Categorías de productos seleccionables"
+
+#: classes/class-fdoe-settings.php:160
+msgid "Sort your product categories as you would like them in the menu"
+msgstr "Clasifica las categorías de tus productos como te gustarían en el menú"
+
+#: classes/class-fdoe-ajax.php:75
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "Debes estar <a href=\"%s\">conectado</a> para publicar una valoración."
+
+#: classes/class-fdoe-orders.php:62
+msgid "Your order will be delivered in "
+msgstr "Tu pedido será entregado en"
+
+#: classes/class-fdoe-ajax.php:79
+msgid "Your rating"
+msgstr "Tu valoración"
+
+#: classes/class-fdoe-settings.php:84
+msgid "This setting is only for the shop page of WooCommerce."
+msgstr "Este ajuste es solo para la página de la tienda de WooCommerce."
+
+#: includes/start-args.php:270
+msgid "2020 Template"
+msgstr "Plantilla 2020"
+
+#: includes/start-args.php:162
+msgid "Add to bottom"
+msgstr "Añadir a la parte inferior"
+
+#: includes/start-args.php:804
+msgid "Add to customer completed e-mail?"
+msgstr "¿Añadir al correo electrónico completado por el cliente?"
+
+#: includes/start-args.php:796
+msgid "Add to customer processing e-mail?"
+msgstr "¿Añadir al correo electrónico de procesamiento de clientes?"
+
+#: includes/start-args.php:163
+msgid "Add to top"
+msgstr "Añadir a la parte superior"
+
+#: includes/start-args.php:790
+msgid "Attach to e-mails etc."
+msgstr "Adjuntar a correos electrónicos, etc."
+
+#: includes/start-args.php:730
+msgid "By bicycle"
+msgstr "En bicicleta"
+
+#: includes/start-args.php:729
+msgid "By car or truck"
+msgstr "En coche o camión"
+
+#: includes/start-args.php:749
+msgid "By fixed time & orders in progress & shipping time"
+msgstr "Por tiempo fijo y pedidos en curso y tiempo de envío"
+
+#: includes/start-args.php:748
+msgid "By fixed time & shipping time"
+msgstr "Por tiempo fijo y tiempo de envío"
+
+#: includes/start-args.php:461
+msgid "Category Description"
+msgstr "Descripción de la categoría"
+
+#: includes/start-args.php:451
+msgid "Category Images"
+msgstr "Imágenes de la categoría"
+
+#: includes/start-args.php:549
+msgid "Change the message that inform that shipping method has been changed"
+msgstr "Cambiar el mensaje que informa que se ha cambiado el método de envío"
+
+#: includes/start-args.php:490
+msgid "Enable the Delivery Selector"
+msgstr "Activar el selector de entrega"
+
+#: includes/start-args.php:764 includes/start-args.php:775
+msgid "Fixed shipping time"
+msgstr "Tiempo de envío fijo"
+
+#: includes/start-args.php:401
+msgid "Item Icon"
+msgstr "Icono de elemento"
+
+#: includes/start-args.php:103
+msgid "Limited field"
+msgstr "Campo limitado"
+
+#: includes/start-args.php:8 classes/class-fdoe-settings.php:45
+msgid "Main Settings"
+msgstr "Ajustes principales"
+
+#: includes/start-args.php:564
+msgid "Minimum Items per Order"
+msgstr "Artículos mínimos por pedido"
+
+#: includes/start-args.php:90
+msgid "Phone, E-mail and Name"
+msgstr "Teléfono, correo electrónico y nombre"
+
+#: includes/start-args.php:228
+msgid "Product Description"
+msgstr "Descripción del producto"
+
+#: includes/start-args.php:423
+msgid "Product Images"
+msgstr "Imágenes del producto"
+
+#: includes/start-args.php:294
+msgid "Show a bar above the Menu?"
+msgstr "¿Mostrar una barra encima del menú?"
+
+#: includes/start-args.php:466
+msgid "Show description for categories in menu?"
+msgstr "¿Mostrar la descripción de las categorías en el menú?"
+
+#: includes/start-args.php:741
+msgid "Show time until delivery?"
+msgstr "¿Mostrar tiempo hasta la entrega?"
+
+#: fdoe-order.php:693
+msgid "The free version of Food Online can display 50 products"
+msgstr "La versión gratuita de Food Online puede mostrar 50 productos"
+
+#: includes/start-args.php:290
+msgid "Top Bar"
+msgstr "Barra superior"
+
+#: includes/start-args.php:195
+msgid "Use Popups"
+msgstr "Usar ventanas emergentes"
+
+#: classes/class-fdoe-orders.php:55
+msgid "When to pick up?"
+msgstr "¿Cuándo recoger?"
+
+#: classes/class-fdoe-orders.php:61
+msgid "When will we deliver to you?"
+msgstr "¿Cuándo te lo entregaremos?"
+
+#: includes/start-args.php:505
+msgid " <p><a href=\"https://cloud.google.com/maps-platform/#get-started\" target=\"_blank\">Visit Google to get your API Key &raquo;</a></p>"
+msgstr " <p><a href=\"https://cloud.google.com/maps-platform/#get-started\" target=\"_blank\"> Visita Google para obtener tu clave de la API &raquo;</a></p>"
+
+#: includes/start-args.php:486
+msgid "A Google Maps API Key is needed to let customers fill in their delivery address. ( Maps JavaScript API, Places API, Geocoding API, Directions API)"
+msgstr "Se necesitas una clave de la API de Google Maps para permitir que los clientes rellenen su dirección de entrega. (Maps JavaScript API, Places API, Geocoding API, Directions API)"
+
+#: includes/start-args.php:808
+msgid "Add the order time to customer e-mails for completed order."
+msgstr "Añade la hora del pedido en los correos electrónicos del cliente para el pedido completado."
+
+#: includes/start-args.php:800
+msgid "Add the order time to customer e-mails for processing order."
+msgstr "Añade la hora del pedido en los correos electrónicos del cliente para procesar el pedido."
+
+#: includes/start-args.php:816
+msgid "Add the order time to the \"Thank You\" page showing when an order is received."
+msgstr "Añade la hora del pedido en la página «Gracias» que se muestra cuándo se recibe un pedido."
+
+#: includes/start-args.php:812
+msgid "Add to \"Thank You\" page?"
+msgstr "¿Añadir a la página «Gracias»?"
+
+#: includes/start-args.php:197
+msgid "Add to cart instantly"
+msgstr "Añadir al carrito instantáneamente"
+
+#: includes/start-args.php:539
+msgid "Allow checkout to change shipping method to \"Pick Up\" and override the choice of the \"Delivery selector\" "
+msgstr "Permitir que en el pago se cambie el método de envío a «Recoger» y anular la elección del «Selector de entrega» "
+
+#: includes/start-args.php:534
+msgid "Allow shipping method fallback to \"Pick Up\""
+msgstr "Permitir que el método de envío se cambie a «Recoger»"
+
+#: includes/start-args.php:322
+msgid "Bottom Mobile Bar"
+msgstr "Barra inferior en el móvil"
+
+#: includes/start-args.php:706 includes/start-args.php:747
+msgid "By fixed time & orders in progress"
+msgstr "Por tiempo fijo y pedidos en curso"
+
+#: includes/start-args.php:765
+msgid "Calculate shipping time"
+msgstr "Calcular el tiempo de envío"
+
+#: includes/start-args.php:298
+msgid "Categories Left Menu"
+msgstr "Categorías del menú izquierdo"
+
+#: includes/start-args.php:544
+msgid "Change checkout notice"
+msgstr "Cambiar el aviso de pago"
+
+#: includes/start-args.php:78
+msgid "Checkout Settings"
+msgstr "Ajustes de finalizar la compra"
+
+#: includes/start-args.php:107
+msgid "Checkout field for \"Delivery\" choice "
+msgstr "Campo de pago para la opción de «Entrega» "
+
+#: includes/start-args.php:94
+msgid "Checkout field for \"Pick Up\" or when the delivery Switch is turned off."
+msgstr "Campo de pago para «Recofer» o cuando el conmutador de entrega está desactivado."
+
+#: includes/start-args.php:91 includes/start-args.php:104
+msgid "Default Woocommerce Setup"
+msgstr "Configuración por defecto de WooCommerce"
+
+#: includes/start-args.php:510
+msgid "Default mode of the Delivery Selector?"
+msgstr "¿Modo por defecto del selector de entrega?"
+
+#: includes/start-args.php:484
+msgid "Delivery Features Settings"
+msgstr "Ajustes de las características de entrega"
+
+#: includes/start-args.php:718
+msgid "Delivery Orders"
+msgstr "Entrega de los pedidos"
+
+#: includes/start-args.php:614
+msgid "Do not restrict Google Autocomplete to IP-located country"
+msgstr "No restringir el completado automático de Google a un país por ubicación de la IP"
+
+#: includes/start-args.php:113
+msgid "Extra? Popup"
+msgstr "¿Extra? Mensaje emergente"
+
+#: includes/start-args.php:210
+msgid "Food Online Original"
+msgstr "Food Online Original"
+
+#: includes/start-args.php:211
+msgid "Food Online Style 1"
+msgstr "Estilo 1 de Food Online"
+
+#: includes/start-args.php:593
+msgid "Force Enqueue Google Maps JS"
+msgstr "Forzar en la cola el JS de Google Maps"
+
+#: includes/start-args.php:501
+msgid "Google Maps API Key"
+msgstr "Clave de la API de Google Maps"
+
+#: includes/start-args.php:71
+msgid "Hide the Menu, Search fields and Cart in the page headings? (Only for the Storefront Theme)"
+msgstr "¿Ocultar el menú, los campos de búsqueda y el carrito en los encabezados de las páginas? (Solo para el tema Storefront)"
+
+#: includes/start-args.php:66
+msgid "Hide the Storefront Theme Headings"
+msgstr "Ocultar los encabezados del tema Storefront"
+
+#: includes/start-args.php:236
+msgid "Hide the increment buttons"
+msgstr "Ocultar los botones de incremento"
+
+#: includes/start-args.php:240
+msgid "Hide the increment buttons (+/-) in the quantity input field?"
+msgstr "¿Ocultar los botones de incremento (+/-) en el campo de entrada de la cantidad?"
+
+#: includes/start-args.php:529
+msgid "Let users input their delivery address at checkout page. No address validation will be performed."
+msgstr "Permite que los usuarios introduzcan su dirección de entrega en la página de pago. No se realizará ninguna validación de dirección."
+
+#: includes/start-args.php:340
+msgid "Menu Style"
+msgstr "Estilo del menú"
+
+#: includes/start-args.php:157
+msgid "Minicart Order"
+msgstr "Pedido del minicarrito"
+
+#: includes/start-args.php:130
+msgid "Minicart Settings"
+msgstr "Ajustes del minicarrito"
+
+#: includes/start-args.php:554
+msgid "Minimum Order Value"
+msgstr "Valor mínimo del pedido"
+
+#: includes/start-args.php:314
+msgid "Mobile Categories Top Menu"
+msgstr "Menú superior de las categorías en móviles"
+
+#: includes/start-args.php:88
+msgid "Phone Only"
+msgstr "Solo el teléfono"
+
+#: includes/start-args.php:89
+msgid "Phone and E-mail"
+msgstr "Teléfono y correo electrónico"
+
+#: includes/start-args.php:694
+msgid "Pickup Orders"
+msgstr "Recogida de pedidos"
+
+#: fdoe-order.php:698
+msgid "Please select some product options before adding this product to your cart."
+msgstr "Por favor, selecciona algunas opciones del producto antes de añadir este producto a tu carrito."
+
+#: includes/start-args.php:227
+msgid "Product Rating"
+msgstr "Valoración del producto"
+
+#: includes/start-args.php:198
+msgid "Redirect to product page"
+msgstr "Redirigir a la página del producto"
+
+#: includes/start-args.php:735
+msgid "Select a vehicle type that will be used to calculate shipping time. It will also be used to decide the delivery icon."
+msgstr "Selecciona el tipo de vehículo que se utilizará para calcular el tiempo de envío. También se utilizará para decidir el icono de entrega."
+
+#: includes/start-args.php:518
+msgid "Select the default mode of the delivery selector at page load."
+msgstr "Selecciona el modo por defecto del selector de entrega en la carga de la página."
+
+#: includes/start-args.php:168
+msgid "Select where added products appear in minicart"
+msgstr "Selecciona dónde aparecen los productos añadidos en el minicarro"
+
+#: includes/start-args.php:780
+msgid "Set a fixed time in minutes for shipping an order."
+msgstr "Establece un tiempo fijo en minutos para el envío de un pedido."
+
+#: includes/start-args.php:569
+msgid "Set a minimum of items per order for delivery, default is 0 which means no limit."
+msgstr "Establece un mínimo de artículos por pedido para la entrega, por defecto es 0, lo que significa que no hay límite."
+
+#: includes/start-args.php:559
+msgid "Set a minimum order value limit for delivery, default is 0 which means no limit."
+msgstr "Establece un límite mínimo del valor del pedido para la entrega, el valor por defecto es 0, lo que significa que no hay límite."
+
+#: includes/start-args.php:759
+msgid "Set shipping time"
+msgstr "Establece el tiempo de envío"
+
+#: includes/start-args.php:724
+msgid "Set vehicle"
+msgstr "Establece el vehículo"
+
+#: includes/start-args.php:274
+msgid "Show Menu like Accordian?"
+msgstr "¿Mostrar el menú como un acordeón?"
+
+#: includes/start-args.php:282
+msgid "Show Sub Categories along with Parent Category?"
+msgstr "¿Mostrar las subcategorías junto con la categoría principal?"
+
+#: includes/start-args.php:324
+msgid "Show a bottom bar for mobile devices?"
+msgstr "¿Mostrar una barra inferior para los dispositivos móviles?"
+
+#: includes/start-args.php:495
+msgid "Show a switch to let customers choose between \"Pick Up\" or \"Delivery\"."
+msgstr "Mostrar un conmutador para permitir que los clientes elijan entre «Recoger» o «Entregar»."
+
+#: includes/start-args.php:319
+msgid "Show categories in top-bar menu on mobile devices?"
+msgstr "¿Mostrar las categorías en la barra superior del menú en los dispositivos móviles?"
+
+#: includes/start-args.php:456
+msgid "Show images for categories in menu?"
+msgstr "¿Mostrar imágenes para las categorías en el menú?"
+
+#: includes/start-args.php:278
+msgid "Show only one category at time with accoridan behaviour"
+msgstr "Mostrar solo una categoría a la vez con comportamiento de acordeón"
+
+#: includes/start-args.php:286
+msgid "Show sub categories together with their parent category and not as a independent category"
+msgstr "Mostrar las subcategorías junto con su categoría principal y no como una categoría independiente"
+
+#: includes/start-args.php:752 includes/start-args.php:769
+msgid "Show the time until a delivery order can be delivered."
+msgstr "Mostrar el tiempo hasta que se pueda entregar un pedido."
+
+#: includes/start-args.php:523
+msgid "Skip address input and validation at Menu page"
+msgstr "Omitir la entrada y validación de direcciones en la página del menú"
+
+#: fdoe-order.php:1139
+msgid "Stock is low!"
+msgstr "¡El inventario es bajo!"
+
+#: includes/start-args.php:192
+msgid "The \"Add to cart instantly\" option is applicable when variation products doesn´t have options"
+msgstr "La opción «Añadir al carrito instantáneamente» es aplicable cuando los productos de variación no tienen opciones"
+
+#: classes/class-fdoe-orders.php:57
+msgid "This order is for pick up."
+msgstr "Este pedido es para recoger."
+
+#: fdoe-order.php:1142
+msgid "We apologize! Your desired amount is not available in stock."
+msgstr "¡Pedimos disculpas! La cantidad deseada no está disponible en el inventario."
+
+#: classes/class-fdoe-orders.php:55
+msgid "Your order will be ready in "
+msgstr "Tu pedido estará listo en "
+
+#: includes/start-args.php:117
+msgid "Show a popup at checkout with featured products as supplementary?"
+msgstr "¿Mostrar una ventana emergente al finalizar la compra con los productos destacados como complemento?"
+
+#: includes/start-args.php:29
+msgid "Make side/top menu bars sticky?"
+msgstr "¿Poner las barras de menú lateral/superior fijas?"
+
+#: fdoe-order.php:707
+msgid "Please make a choice"
+msgstr "Por favor, haz una elección"
+
+#: includes/start-args.php:43
+msgid "Delivery Selector"
+msgstr "Selector de entrega"
+
+#: templates/cart/mini-cart-incre.php:94
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: classes/class-fdoe-orders.php:125 classes/class-fdoe-orders.php:130
+#: classes/class-fdoe-orders.php:142 classes/class-fdoe-orders.php:147
+#: classes/class-fdoe-orders.php:154 classes/class-fdoe-orders.php:162
+msgid " min"
+msgstr " minuto(s)"
+
+#: includes/start-args.php:150
+msgid "+ / - Buttons"
+msgstr "Botones + / -"
+
+#: includes/start-args.php:306
+msgid "Categories Top Menu"
+msgstr "Menú superior de categorías"
+
+#: includes/start-args.php:39
+msgid "Choose what to make sticky on mobile devices?"
+msgstr "¿Elige qué hacer fijo en los dispositivos móviles?"
+
+#: includes/start-args.php:311
+msgid "Show categories in top-bar menu?"
+msgstr "¿Mostrar las categorías en el menú de la barra superior?"
+
+#: includes/start-args.php:34
+msgid "Sticky for mobile devices?"
+msgstr "¿Fijar para dispositivos móviles?"
+
+#: includes/start-args.php:41
+msgid "Top Category Menu"
+msgstr "Menú superior de categorías"
+
+#: includes/start-args.php:44
+msgid "Top Category Menu & Delivery Selector"
+msgstr "Menú superior de categorías y selector de entrega"
+
+#: includes/start-args.php:652
+msgid "Override WooCommerce and sort products by title on shop page?"
+msgstr "¿Anular WooCommerce y clasificar los productos por el título en la página de la tienda?"
+
+#: includes/start-args.php:648
+msgid "Product Sorting by Title?"
+msgstr "¿Clasificación de los productos por título?"
+
+#: fdoe-order.php:697
+msgid "Added to cart"
+msgstr "Añadido al carrito"
+
+#: includes/start-args.php:632
+msgid "Show error messages at checkout?"
+msgstr "¿Mostrar mensajes de error al finalizar la compra?"
+
+#: includes/start-args.php:636
+msgid "Show WooCommerce error messages at checkout?"
+msgstr "¿Mostrar los mensajes de error de WooCommerce en el pago?"
+
+#: includes/start-args.php:57
+msgid "Show confirmation when added to cart"
+msgstr "Mostrar una confirmación cuando se añade al carrito"
+
+#: includes/start-args.php:62
+msgid "Show confirmation when an item is added to cart?"
+msgstr "¿Mostrar una confirmación cuando se añade un artículo al carrito?"
+
+#: includes/start-args.php:188
+msgid "Pop-up variable products?"
+msgstr "¿Productos variables emergentes?"
+
+#: includes/start-args.php:215
+msgid "Choose how to display content in product popup?"
+msgstr "¿Elegir cómo mostrar el contenido en la ventana emergente del producto?"
+
+#: includes/start-args.php:218
+msgid "Product Popup Content"
+msgstr "Contenido emergente del producto"
+
+#: includes/start-args.php:225
+msgid "Product Image"
+msgstr "Imagen del producto"
+
+#: includes/start-args.php:209
+msgid "Theme Template"
+msgstr "Plantilla del tema"
+
+#. Plugin URI of the plugin
+msgid "https://foodonlineplugin.com"
+msgstr "https://foodonlineplugin.com"
+
+#: templates/woocommerce/single-product/image/product-image.php:43
+msgid "Awaiting product image"
+msgstr "Esperando la imagen del producto"
+
+#: includes/start-args.php:180
+msgid "Pop-up simple products?"
+msgstr "¿Ventana emergente de productos simples?"
+
+#: includes/start-args.php:204
+msgid "Product Popup Source"
+msgstr "Fuente del producto para la ventana emergente"
+
+#: includes/start-args.php:232
+msgid "Select content for the product popup."
+msgstr "Selecciona el contenido de la ventana emergente del producto."
+
+#: includes/start-args.php:184
+msgid "Use pop-up for simple products when add-to-cart."
+msgstr "Usa una ventana emergente para los productos simples cuando se añaden al carrito."
+
+#: includes/start-args.php:674
+msgid "Fixed time per order"
+msgstr "Tiempo fijo por pedido"
+
+#: includes/start-args.php:700
+msgid "Show time until ready for pickup?"
+msgstr "¿Mostrar tiempo hasta que esté listo para la recogida?"
+
+#: includes/start-args.php:704 includes/start-args.php:745
+msgid "Hide"
+msgstr "Ocultar"
+
+#: includes/start-args.php:705 includes/start-args.php:746
+msgid "By a fixed time"
+msgstr "Por un tiempo fijo"
+
+#: includes/start-args.php:682
+msgid "Extra time per processing order"
+msgstr "Tiempo adicional para el procesado del pedido"
+
+#: includes/start-args.php:679
+msgid "Set a fixed time in minutes for preparing an order."
+msgstr "Establece un tiempo fijo en minutos para preparar un pedido."
+
+#: includes/start-args.php:687
+msgid "Set extra time in minutes per order already processing."
+msgstr "Establece un tiempo adicional en minutos por pedido ya procesado."
+
+#: includes/start-args.php:670
+msgid "Show an approximate time for an order to be ready."
+msgstr "Mostrar un tiempo aproximado para que un pedido esté preparado."
+
+#: includes/start-args.php:709
+msgid "Show the time until a pickup order is ready."
+msgstr "Mostrar el tiempo hasta que la recogida de un pedido esté preparada."
+
+#: includes/start-args.php:667
+msgid "Time to finished order"
+msgstr "Tiempo para finalizar el pedido"
+
+#: classes/class-fdoe-settings.php:48
+msgid "Order Time Management"
+msgstr "Gestión del tiempo de pedido"
+
+#: includes/start-args.php:640
+msgid "Delete settings?"
+msgstr "¿Borrar los ajustes?"
+
+#: classes/class-fdoe-orders.php:55 classes/class-fdoe-orders.php:62
+#: classes/class-fdoe-orders.php:71 classes/class-fdoe-orders.php:78
+msgid " minutes."
+msgstr "minutos."
+
+#: includes/start-args.php:644
+msgid "Delete all settings on plugin removal?"
+msgstr "¿Borrar todos los ajustes al eliminar el plugin?"
+
+#: includes/start-args.php:624
+msgid "Multiple shortcode instances?"
+msgstr "¿Múltiples instancias del shortcode?"
+
+#: includes/start-args.php:352
+msgid "Menu Background Color"
+msgstr "Color de fondo del menú"
+
+#: includes/start-args.php:149
+msgid "Basic Style"
+msgstr "Estilo básico"
+
+#: includes/start-args.php:154
+msgid "Choose how to style the minicart?"
+msgstr "¿Elegir el estilo del minicarrito?"
+
+#: includes/start-args.php:373
+msgid "Menu Items Separator Color"
+msgstr "Color del separador de los elementos del menú"
+
+#: includes/start-args.php:143
+msgid "Minicart Style"
+msgstr "Estilo del minicarrito"
+
+#: includes/start-args.php:148
+msgid "Popup Style"
+msgstr "Estilo del mensaje emergente"
+
+#: includes/start-args.php:49
+msgid "Smooth Scrolling"
+msgstr "Scroll suave"
+
+#: includes/start-args.php:24
+msgid "Sticky"
+msgstr "Fijo"
+
+#: includes/start-args.php:151
+msgid "Theme Default"
+msgstr "Tema por defecto"
+
+#: includes/start-args.php:54
+msgid "Use smooth scrolling navigating in the Menu?"
+msgstr "¿Utilizar el scroll suave al navegar en el menú?"
+
+#: includes/start-args.php:390
+msgid "Star"
+msgstr "Estrella"
+
+#: includes/start-args.php:392
+msgid "Pizza"
+msgstr "Pizza"
+
+#: includes/start-args.php:393
+msgid "Hamburger"
+msgstr "Hamburguesa"
+
+#: includes/start-args.php:394
+msgid "Apple"
+msgstr "Manzana"
+
+#: includes/start-args.php:391
+msgid "Chili Pepper"
+msgstr "Guindilla"
+
+#: templates/woocommerce/loop/loop-start.php:74 fdoe-order.php:690
+#: classes/class-fdoe-settings.php:159
+#: classes/class-fdoe-shortcode-extern.php:216
+msgid "Menu"
+msgstr "Menú"
+
+#: includes/start-args.php:15
+msgid "Main shop page"
+msgstr "Pagina principal de la tienda"
+
+#: includes/start-args.php:303
+msgid "Show categories in left-bar menu?"
+msgstr "¿Mostrar categorías en el menú de la barra izquierda?"
+
+#: includes/start-args.php:19
+msgid "Show the menu on main shop page"
+msgstr "Mostrar el menú en la página principal de la tienda"
+
+#: fdoe-order.php:446
+msgid "Food Online can not be activated when the premuim version is active."
+msgstr "Food Online no se puede activar cuando la versión premium está activa."
+
+#: includes/start-args.php:429
+msgid "Normal Size"
+msgstr "Tamaño normal"
+
+#: includes/start-args.php:428
+msgid "Small size"
+msgstr "Tamaño pequeño"
+
+#: includes/start-args.php:430
+msgid "Big Size"
+msgstr "Tamaño grande"
+
+#: includes/start-args.php:389
+msgid "Ring"
+msgstr "Anillo"
+
+#: includes/start-args.php:135
+msgid "Hide the Cart"
+msgstr "Ocultar el carrito"
+
+#: includes/start-args.php:258 includes/start-args.php:263
+msgid "Menu Layout"
+msgstr "Diseño del menú"
+
+#: includes/start-args.php:268
+msgid "One Column"
+msgstr "Una columna"
+
+#: includes/start-args.php:269
+msgid "Two Columns"
+msgstr "Dos columnas"
+
+#: includes/start-args.php:45 includes/start-args.php:367
+#: includes/start-args.php:395 includes/start-args.php:415
+#: includes/start-args.php:763
+msgid "None"
+msgstr "Ninguno"
+
+#: includes/start-args.php:380
+msgid "Menu Titles Icon"
+msgstr "Icono de títulos de menú"
+
+#: includes/start-args.php:386
+msgid "Dots"
+msgstr "Puntos"
+
+#: includes/start-args.php:387
+msgid "Lines"
+msgstr "Líneas"
+
+#: includes/start-args.php:398
+msgid "Icon to display with the menu titles?"
+msgstr "Icono para mostrar con los títulos de menú?"
+
+#: includes/start-args.php:407
+msgid "Standard"
+msgstr "Estándar"
+
+#: includes/start-args.php:408
+msgid "Plus"
+msgstr "Más"
+
+#: includes/start-args.php:409
+msgid "Square Shape Plus"
+msgstr "Forma cuadrada más"
+
+#: includes/start-args.php:411
+msgid "Shopping Basket"
+msgstr "Cesta de compras"
+
+#: includes/start-args.php:412
+msgid "Shopping Cart"
+msgstr "Carrito"
+
+#: includes/start-args.php:413
+msgid "Shopping Cart with plus"
+msgstr "Carrito de compras con Plus"
+
+#: includes/start-args.php:414
+msgid "Knife & Fork"
+msgstr "Cuchillo y tenedor"
+
+#: includes/start-args.php:139
+msgid "Hide the Cart from Menu page?"
+msgstr "¿Ocultar el carrito de la página del menú?"
+
+#: includes/start-args.php:364
+msgid "Dashed"
+msgstr "Discontinua"
+
+#: includes/start-args.php:366
+msgid "Dotted"
+msgstr "Punteado"
+
+#: includes/start-args.php:365
+msgid "Solid"
+msgstr "Sólido"
+
+#: includes/start-args.php:418
+msgid "Item \"Add\" icon in the Menu?"
+msgstr "¿Icono de «Añadir» artículo en el menú?"
+
+#: includes/start-args.php:388 includes/start-args.php:410
+msgid "Leef"
+msgstr "Hoja"
+
+#: includes/start-args.php:359
+msgid "Menu Items Separator"
+msgstr "Separador de los elementos del menú"
+
+#: includes/start-args.php:370
+msgid "Style of the Menu items separator?"
+msgstr "¿Estilo del separador de los elementos del menú?"
+
+#: includes/start-args.php:586
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: fdoe-order.php:434
+msgid "Food Online requires WooCommerce to be activated to work."
+msgstr "Food Online Order requiere WooCommerce activado para funcionar."
+
+#: templates/woocommerce/loop/loop-end.php:43 fdoe-order.php:1107
+#: classes/class-fdoe-shortcode-extern.php:241
+msgid "Your Order"
+msgstr "Tu Pedido"
+
+#: fdoe-order.php:689
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/start-args.php:345
+msgid "Menu Color"
+msgstr "Color del menú"
+
+#: includes/start-args.php:431
+msgid "Hide images"
+msgstr "Ocultar imágenes"
+
+#: templates/cart/mini-cart-incre.php:87 templates/cart/mini-cart.php:77
+#: templates/cart/mini-cart.php:100
+msgid "Remove this item"
+msgstr "Eliminar este artículo"
+
+#: templates/cart/mini-cart-incre.php:165 templates/cart/mini-cart.php:114
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: templates/cart/mini-cart-incre.php:204 templates/cart/mini-cart.php:153
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+#: includes/start-args.php:226
+msgid "Product Meta"
+msgstr "Meta del producto"
+
+#. Description of the plugin
+msgid "A restaurant ordering system for WooCommerce."
+msgstr "Un sistema de pedidos de restaurantes para WooCommerce."
+
+#: classes/class-fdoe-settings.php:13
+msgid "Food Online"
+msgstr "Food Online"
+
+#: fdoe-order.php:406 fdoe-order.php:937 fdoe-order.php:1019
+#: includes/start-args.php:84
+msgid "Checkout"
+msgstr "Pago"
+
+#: templates/woocommerce/loop/loop-end.php:21 fdoe-order.php:930
+#: classes/class-fdoe-shortcode-extern.php:233
+msgid "Go to Checkout"
+msgstr "Ir al pago"
+
+#: includes/start-args.php:175
+msgid "Product Popup Options"
+msgstr "Opciones del mensaje emergente de los productos"
+
+#: includes/start-args.php:434
+msgid "Show images for products in menu?"
+msgstr "¿Mostrar imágenes para los productos en el menú?"

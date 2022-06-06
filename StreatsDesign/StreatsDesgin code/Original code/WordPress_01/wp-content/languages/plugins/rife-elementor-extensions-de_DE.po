@@ -1,0 +1,327 @@
+# Translation of Plugins - Rife Elementor Extensions &amp; Templates - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Rife Elementor Extensions &amp; Templates - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-16 22:07:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Rife Elementor Extensions &amp; Templates - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "https://apollo13themes.com/"
+msgstr "https://apollo13themes.com/"
+
+#. Plugin URI of the plugin
+msgid "https://apollo13themes.com/rife-elementor-extensions"
+msgstr "https://apollo13themes.com/rife-elementor-extensions"
+
+#. Plugin Name of the plugin
+msgid "Rife Elementor Extensions &amp; Templates"
+msgstr "Rife Elementor-Erweiterungen &amp; -Templates"
+
+#. translators: %s: WordPress version
+#: rife-elementor-extensions.php:97
+msgid "Rife Elementor Extensions plugin requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Das Rife Elementor Extensions Plugin benötigt WordPress in Version %s+. Da du eine ältere WordPress-Version verwendest, wird das Plugin derzeit NICHT AUSGEFÜHRT."
+
+#. translators: %s: PHP version
+#: rife-elementor-extensions.php:77
+msgid "Rife Elementor Extensions plugin requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Das Rife Elementor Extensions Plugin erfordert PHP-Version %s+. Das Plugin wird derzeit NICHT AUSGEFÜHRT."
+
+#. translators: %s: Required Elementor version
+#: includes/plugin.php:178
+msgid "Rife Elementor Extensions plugin requires Elementor version %s or greater."
+msgstr "Das Rife Elementor Extensions Plugin erfordert Elementor Version %s oder höher."
+
+#: includes/plugin.php:93 includes/plugin.php:106
+msgid "Something went wrong."
+msgstr "Irgend etwas ging schief."
+
+#: includes/importer.php:242 includes/importer.php:452
+msgid "More from Apollo13Themes"
+msgstr "Mehr von Apollo13Themes"
+
+#: includes/importer.php:451
+msgid "Plugin Instructions"
+msgstr "Plugin-Anweisungen"
+
+#: includes/importer.php:450
+msgid "Templates import"
+msgstr "Template-Import"
+
+#: includes/importer.php:303
+msgid "Everything done!"
+msgstr "Alles erledigt!"
+
+#: includes/importer.php:302
+msgid "Cleaning..."
+msgstr "Säubern …"
+
+#: includes/importer.php:301
+msgid "Importing templates"
+msgstr "Templates importieren"
+
+#: includes/importer.php:300
+msgid "Downloading files"
+msgstr "Dateien werden heruntergeladen"
+
+#: includes/importer.php:299
+msgid "Starting import"
+msgstr "Import starten"
+
+#: includes/importer.php:274
+msgid "Rife Elementor Extensions plugin requires Elementor plugin to be active. Without it import of templates will not work."
+msgstr "Das Rife Elementor Extensions Plugin benötigt als Basis das Elementor-Plugin. Ohne das Elementor aktiv ist, funktioniert der Import von Templates nicht."
+
+#: includes/importer.php:257
+msgid "Check out Rife Theme"
+msgstr "Schau dir das Rife Theme an"
+
+#: includes/importer.php:256
+msgid "Footer unravel effect in Rife Theme."
+msgstr "Footer-entwirren-Effekt im Rife Theme."
+
+#: includes/importer.php:255
+msgid "Check all Rife Theme Features."
+msgstr "Probiere alle Funktionen des Rife Themes."
+
+#: includes/importer.php:253
+msgid ""
+"With the Rife theme, you get access to powerful features, that can push your projects beyond the limits of Page builders.\n"
+"\t\tJust check our Rife features!"
+msgstr ""
+"Mit dem Rife Theme erhältst du Zugriff auf leistungsstarke Funktionen, die deine Projekte über die Grenzen von Page Buildern hinausführen können.\n"
+"\t\tSchau dir einfach unsere Rife-Funktionen an!"
+
+#: includes/importer.php:252
+msgid "Shield logo in Rife Theme."
+msgstr "Schildlogo im Rife Theme."
+
+#: includes/importer.php:251
+msgid "Features beyond page builders"
+msgstr "Funktionen jenseits von Page Buildern"
+
+#: includes/importer.php:249
+msgid "Check all Rife Theme Designs."
+msgstr "Probiere alle Rife Theme-Designs."
+
+#: includes/importer.php:246
+msgid ""
+"Would you like to get even more great &amp; beautiful  templates for Elementor?\n"
+"\t\tIn our Rife theme, we have designed whole websites, with use of theme features and Elementor power.\n"
+"\t\tWe call them Designs."
+msgstr ""
+"Möchtest du noch mehr tolle &amp; schöne Templates für Elementor erhalten?\n"
+"\t\tIn unserem Rife Theme haben wir ganze Websites entworfen, unter der Verwendung von Theme-Builder-Funktionen und weiteren starken Eigenschaften von Elementor.\n"
+"\t\tWir nennen sie Designs."
+
+#: includes/importer.php:245
+msgid "Rife Theme Designs."
+msgstr "Rife Theme-Designs."
+
+#: includes/importer.php:244
+msgid "More Elementor templates"
+msgstr "Weitere Elementor-Templates"
+
+#: includes/importer.php:243
+msgid "Rife theme"
+msgstr "Rife Theme"
+
+#: includes/importer.php:224
+msgid "Soon we will be adding more widgets. So please stay tuned."
+msgstr "Bald werden wir weitere Widgets hinzufügen. Sei gespannt."
+
+#: includes/importer.php:222
+msgid "Writing effect in action."
+msgstr "Schreibeffekt in Aktion."
+
+#: includes/importer.php:220
+msgid ""
+"It can be found under name \"Writing Effect Headline\" in \"Basic\" Widgets.\n"
+"\t\tPlease see below animation:"
+msgstr ""
+"Du findest sie unter dem Namen „Schreibeffekt-Überschrift\" in den „Grundlegenden“ Widgets.\n"
+"\t\tBitte schau dir die untenstehende Animation an:"
+
+#: includes/importer.php:219
+msgid "Writing effect offers you to create titles that are half static, and half written as user scrolls to it. You can achieve with it very interesting effects."
+msgstr "Der Schreibeffekt ermöglicht es dir, Titel zu erstellen, die halb statisch und halb geschrieben sind, während der Besucher darüber scrollt. Du kannst damit sehr interessante Effekte erzielen."
+
+#: includes/importer.php:218
+msgid "Writing Effect"
+msgstr "Schreibeffekt"
+
+#: includes/importer.php:217
+msgid "With Rife Elementor Extensions, you also get access to cool widgets that you can use in Elementor. See details below."
+msgstr "Mit Rife Elementor Extensions erhältst du auch Zugang zu coolen Widgets, die du in Elementor verwenden kannst. Siehe Details unten."
+
+#: includes/importer.php:216
+msgid "Elementor Widgets"
+msgstr "Elementor Widgets"
+
+#: includes/importer.php:214
+msgid "Import templates in Elementor"
+msgstr "Templates in Elementor importieren"
+
+#: includes/importer.php:213
+msgid "Add templates button in Elementor"
+msgstr "Template-Button in Elementor hinzufügen"
+
+#: includes/importer.php:211
+msgid ""
+"To use templates in Elementor choose \"Add Template\" and in \"My templates\" you will find \"Rife Templates\".\n"
+"\t\tPlease see below screenshots:"
+msgstr ""
+"Um Templates in Elementor zu verwenden, wähle „Template hinzufügen\" und in \"Meine Templates“ findest du \"Rife Templates“.\n"
+"\t\tBitte schau dir die folgenden Screenshots an:"
+
+#: includes/importer.php:210
+msgid "After you are done with importing on \"Templates import\" tab, you will be able to add/use these templates in Elementor."
+msgstr "Nachdem du mit dem Import im Tab „Template-Import\" fertig bist, kannst du diese Templates in Elementor hinzufügen/ verwenden."
+
+#: includes/importer.php:209
+msgid "Elementor Templates"
+msgstr "Elementor Templates"
+
+#: includes/importer.php:208
+msgid "Plugin instructions"
+msgstr "Plugin-Anweisungen"
+
+#: includes/importer.php:191 includes/importer.php:225
+msgid "Visit plugins page"
+msgstr "Plugin-Seite besuchen"
+
+#: includes/importer.php:190
+msgid "Soon we will be adding more templates &amp; widgets. So please stay tuned."
+msgstr "Bald werden wir weitere Templates und Widgets hinzufügen. Sei gespannt."
+
+#: includes/importer.php:185
+msgid "The Importer is ready to start."
+msgstr "Der Importer ist startbereit."
+
+#: includes/importer.php:183
+msgid "Start Free Pack Import"
+msgstr "Starte den kostenlosen Paketimport"
+
+#: includes/importer.php:180
+msgid ""
+"Please use below button to import templates to your WordPress installation.\n"
+"\t\t More information, on where to find templates after import, can be found in \"Plugin Instructions\" tab."
+msgstr ""
+"Bitte verwende den untenstehenden Button, um Templates in deine WordPress-Installation zu importieren.\n"
+"\t\t Weitere Informationen darüber, wo du nach dem Import Templates findest, findest du unter dem Tab \"Plugin-Anweisungen\"."
+
+#: includes/importer.php:179
+msgid "Image of templates to import."
+msgstr "Bild der zu importierenden Templates."
+
+#: includes/importer.php:119
+msgid "Here you can import templates and get more information about plugin. Thanks for being with us!"
+msgstr "Hier kannst du Templates importieren und weitere Informationen über das Plugin erhalten. Danke, dass du unser Produkt verwendest!"
+
+#. translators: %s: Plugin name
+#: includes/importer.php:55
+msgid "Welcome to %s"
+msgstr "Willkommen bei %s"
+
+#: includes/elementor/widgets/writing-effect-headline.php:168
+#: includes/elementor/widgets/writing-effect-headline.php:201
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: includes/elementor/widgets/writing-effect-headline.php:138
+msgid "HTML Tag"
+msgstr "HTML Wert"
+
+#: includes/elementor/widgets/writing-effect-headline.php:123
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/elementor/widgets/writing-effect-headline.php:119
+msgid "Center"
+msgstr "Zentriert"
+
+#: includes/elementor/widgets/writing-effect-headline.php:115
+msgid "Left"
+msgstr "Links"
+
+#: includes/elementor/widgets/writing-effect-headline.php:110
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: includes/elementor/widgets/writing-effect-headline.php:102
+msgid "On"
+msgstr "An"
+
+#: includes/elementor/widgets/writing-effect-headline.php:101
+msgid "Off"
+msgstr "Aus"
+
+#: includes/elementor/widgets/writing-effect-headline.php:98
+msgid "Loop writing effect"
+msgstr "Loop-Schreibeffekt"
+
+#: includes/elementor/widgets/writing-effect-headline.php:80
+msgid "Lower is faster"
+msgstr "Niedriger ist schneller"
+
+#: includes/elementor/widgets/writing-effect-headline.php:78
+msgid "Writing speed"
+msgstr "Schreibgeschwindigkeit"
+
+#: includes/elementor/widgets/writing-effect-headline.php:67
+msgid "After Text"
+msgstr "Text danach"
+
+#: includes/elementor/widgets/writing-effect-headline.php:56
+#: includes/elementor/widgets/writing-effect-headline.php:57
+msgid "Enter each word in a separate line"
+msgstr "Trage jedes Wort in eine eigene Zeile ein"
+
+#: includes/elementor/widgets/writing-effect-headline.php:54
+#: includes/elementor/widgets/writing-effect-headline.php:193
+msgid "Written Text"
+msgstr "Geschriebener Text"
+
+#: includes/elementor/widgets/writing-effect-headline.php:45
+#: includes/elementor/widgets/writing-effect-headline.php:69
+msgid "Enter your headline"
+msgstr "Überschrift eingeben"
+
+#: includes/elementor/widgets/writing-effect-headline.php:42
+msgid "Before Text"
+msgstr "Text davor"
+
+#: includes/elementor/widgets/writing-effect-headline.php:35
+#: includes/elementor/widgets/writing-effect-headline.php:160
+msgid "Headline"
+msgstr "Überschrift"
+
+#: includes/elementor/widgets/writing-effect-headline.php:19
+msgid "Writing Effect Headline"
+msgstr "Schreibeffekt-Überschrift"
+
+#: includes/admin.php:114
+msgid "Apollo13Themes Team  &#10084;"
+msgstr "Apollo13Themes Team &#10084;"
+
+#: includes/admin.php:113
+msgid "Thanks for using Rife Elementor Extensions &amp; Templates plugin!"
+msgstr "Danke, dass du das Rife Elementor Extensions &amp; Templates Plugin verwendest!"
+
+#: includes/admin.php:87 includes/admin.php:137 includes/importer.php:178
+msgid "Import templates"
+msgstr "Templates importieren"
+
+#. Author of the plugin
+msgid "Apollo13Themes"
+msgstr "Apollo13Themes"
+
+#. Description of the plugin
+msgid "Brings new widgets to be used in Elementor and allows you to import beautiful full page templates for Elementor page builder designed by Apollo13Themes"
+msgstr "Bringt neue Widgets für die Verwendung in Elementor und ermöglicht den Import von schönen, kompletten Website-Templates für den Elementor Page Builder. Alle Templates wurden von Apollo13 Themes entwickelt."
