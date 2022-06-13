@@ -1,4 +1,3 @@
-/*Hier wordt Tailwind geconfigureerd*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -36,4 +35,35 @@
     p {
         @apply mb-2 text-gray-700;
     }
+}
+
+.huisstijl-groen{
+    background-color:#007467;
+}
+
+.huisstijl-lichblauw{
+    background-color: #BED8E6;
+}
+
+.huisstijl-blauw{
+    background-color: #007DA4;
+}
+
+.huisstijl-footer{
+    background-color: #007DA4;
+    background: rgb(0,116,103);
+    background: linear-gradient(90deg, #007DA4 0%, #007467 5%);
+    background-repeat: no-repeat;
+}
+
+.huisstijl-groen-text{
+    color:#007467;
+}
+
+.huisstijl-lichblauw-text{
+    color: #BED8E6;
+}
+
+.huisstijl-blauw-text{
+    color: #007DA4;
 }

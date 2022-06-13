@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "_setup.css";
+/*@import "_huisstijl.css";*/
