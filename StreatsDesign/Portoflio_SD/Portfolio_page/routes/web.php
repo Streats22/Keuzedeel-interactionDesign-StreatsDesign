@@ -24,9 +24,9 @@ Route::get('/', function () {
 });
 Route::get('/design', [DesignController::class, 'Design']);
 Route::get('/Logo', [LogoController::class, 'Logo']);
-Route::get('/About', [AboutController::class, 'about'])
-Route::get('/Web', [WebController::class, 'webPage']);;
-Route::get('/Contact', [ContactController::class, 'contact']);
+Route::get('/About', [AboutController::class, 'about']);
+Route::get('/Web', [WebController::class, 'webPage']);
+Route::get('/Contact', [ContactController::class, 'Contact']);
 
 Route::get('/dashboard', function () {
     return view('dashboard');
