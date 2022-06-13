@@ -1,0 +1,39 @@
+/*Hier wordt Tailwind geconfigureerd*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Alvast wat basis stijlen instellen */
+@layer base {
+    body {
+        /* De body standaard het serif lettertype toewijzen (zie tailwind.config.js) */
+        @apply font-serif huisstijl-blauw text-black;
+    }
+
+    h1 {
+        /* De h1 krijgt standaard een 2xl grootte
+        Lees de Tailwind CSS docs voor een overzicht van alle classes en wat ze doen
+         */
+        @apply text-2xl text-black;
+    }
+
+    h2 {
+        @apply text-xl text-black;
+    }
+
+    h1, h2, h3, h4, h5 {
+        @apply font-sans text-black text-xl mb-1;
+    }
+
+    a, a:hover {
+        @apply text-black underline;
+    }
+
+    a:hover {
+        @apply text-green-500;
+    }
+
+    p {
+        @apply mb-2 text-gray-700;
+    }
+}
