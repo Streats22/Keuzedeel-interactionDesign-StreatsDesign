@@ -28,7 +28,7 @@ Route::get('/About', [AboutController::class, 'about']);
 Route::get('/Web', [WebController::class, 'webPage']);
 Route::get('/Contact', [ContactController::class, 'Contact']);
 
-Route::get('/dashboard', function () {
+Route::get('/Dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
 
