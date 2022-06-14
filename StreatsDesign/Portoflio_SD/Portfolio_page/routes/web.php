@@ -36,8 +36,8 @@ Route::get('/Posting', function () {
     return view('Posting');
 })->middleware(['auth'])->name('Posting');
 
-Route::get('/usermanger', function () {
-    return view('usermanger');
-})->middleware(['auth'])->name('usermanger');
+Route::get('/Usermanger', function () {
+    return view('Usermanger');
+})->middleware(['auth'])->name('Usermanger');
 
 require __DIR__.'/auth.php';
