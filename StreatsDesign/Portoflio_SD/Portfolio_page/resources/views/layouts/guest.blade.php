@@ -41,8 +41,76 @@
             </div>
         </div>
     </nav>
+
+
         <div class="font-sans text-gray-900 antialiased">
             {{ $slot }}
         </div>
+     <footer>
+         <section>
+             <div class="w-full huisstijl-blauw 50% text-white lg:table content-center sm:text-center lg:text-left decoration-0">
+                 <div class="p-2 lg:w-1/3 py-4 px-2 lg:inline-block ">
+
+                     <ol class="lg:w-full py-8 px-20 p-20">
+                         <h1 class="text-lg underline text-white">Social Media</h1>
+                         <li>
+                             <a class="hover:text-black" href="https://www.facebook.com/Streatsdesign/">Facebook
+                             </a>
+
+                         </li>
+                         <li>
+                             <a class="hover:text-black" href="https://twitter.com/streatsdesign">Twitter
+                             </a>
+
+                         </li>
+                         <li>
+                             <a class="hover:text-black" href="https://www.instagram.com/streatsdesign/">Instagram
+                             </a>
+
+                         </li>
+                     </ol>
+
+                 </div>
+
+                 <div class="p-2 lg:w-1/3 py-4 px-2 lg:inline-block ">
+                     <ol class=" py-8 px-20 p-20">
+                         <h1 class="text-lg underline text-white">About</h1>
+                         <li>
+                             <a class="hover:text-black" href="Over_ons.html">Company
+                             </a>
+                         </li>
+                         <li>
+                             <a class="hover:text-black" href="Portfolio.html">Wat bieden wij?
+                             </a>
+                         </li>
+                         <li>
+                             <a class="hover:text-black" href="Over_ons.html">KVK
+                             </a>
+                         </li>
+                     </ol>
+                 </div>
+                 <div class="p-2 lg:w-1/3 py-4 px-2 lg:inline-block">
+                     <ol class=" py-8 px-20 p-20">
+                         <h1 class="text-lg underline text-white">StreatsDesign</h1>
+                         <li>
+                             <a class="hover:text-black" href="Portfolio.html">Portfolio
+                             </a>
+                         </li>
+                         <li>
+                             <a class="hover:text-black" href="Pricing.html">Prijs
+                             </a>
+                         </li>
+                         <li>
+                             <a class="hover:text-black" href="mailto:info@streatsdesign.com">Heeft u vragen? Mail nu!
+                             </a>
+                         </li>
+                     </ol>
+                 </div>
+                 <div class="h-2 "></div>
+                 <h1 class="w-full text-center p-1 italic  text-white">Copyright by StreatsDesign</h1>
+             </div>
+         </section>
+
+     </footer>
     </body>
 </html>

@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\PostController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DesignController;
 use App\Http\Controllers\LogoController;
@@ -28,16 +29,26 @@ Route::get('/About', [AboutController::class, 'about']);
 Route::get('/Web', [WebController::class, 'webPage']);
 Route::get('/Contact', [ContactController::class, 'Contact']);
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth'])->name('dashboard');
+//Route::get('/dashboard', function () {
+//    return view('dashboard');
+//})->middleware(['auth'])->name('dashboard');
 
-Route::get('/Posting', function () {
-    return view('Posting');
-})->middleware(['auth'])->name('Posting');
+
 
 Route::get('/Usermanger', function () {
     return view('Usermanger');
 })->middleware(['auth'])->name('Usermanger');
 
+Route::prefix( '/dashboard')->middleware(['auth'])->group(function (){
+
+    Route::get('/', function () {
+        return view('dashboard');
+    })->name('dashboard');
+
+    Route::resources([
+        'post' => PostController::class,
+    ]);
+});
+
 require __DIR__.'/auth.php';
+
