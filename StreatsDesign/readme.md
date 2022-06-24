@@ -32,7 +32,8 @@ Bewijsstukken -> examen stukken Keuzedeel:
  Stedelijk Project:
  	- MoodBoard
 	- Onderzoek Stedelijk Museum 
-	- Wireframe (online) (link gestuurd naar Milos en Milena)  
+	- Visueel ontwerp (online) (link gestuurd naar Milos en Milena) 
+		Link: https://xd.adobe.com/view/68292f85-41ca-4cfe-b9d4-7b1f037ae383-3d7a/
 	voor reverentie naar de live site:  http://examenschool.streatsdesign.com
 
  Transformers Community:
