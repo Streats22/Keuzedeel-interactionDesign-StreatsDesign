@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\DesignControllers;
 use App\Http\Controllers\PostController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DesignController;
@@ -7,6 +8,7 @@ use App\Http\Controllers\LogoController;
 use App\Http\Controllers\WebController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\AboutController;
+use App\Http\Controllers\UsermangerController;
 
 /*
 |--------------------------------------------------------------------------
@@ -35,9 +37,9 @@ Route::get('/Contact', [ContactController::class, 'Contact']);
 
 
 
-Route::get('/Usermanger', function () {
-    return view('Usermanger');
-})->middleware(['auth'])->name('Usermanger');
+//Route::get('/UsermangerController', function () {
+//    return view('UsermangerController');
+//})->name('UsermangerController');
 
 Route::prefix( '/dashboard')->middleware(['auth'])->group(function (){
 
@@ -47,6 +49,12 @@ Route::prefix( '/dashboard')->middleware(['auth'])->group(function (){
 
     Route::resources([
         'post' => PostController::class,
+    ]);
+    Route::resources([
+        'design' => DesignControllers::class,
+    ]);
+    Route::resources([
+        'users' => UsermangerController::class,
     ]);
 });
 

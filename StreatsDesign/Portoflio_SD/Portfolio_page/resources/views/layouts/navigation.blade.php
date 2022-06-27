@@ -18,8 +18,11 @@
                     <x-nav-link :href="route('post.index')" :active="request()->routeIs('post.index')">
                         {{ __('Posting') }}
                     </x-nav-link>
-                    <x-nav-link :href="route('Usermanger')" :active="request()->routeIs('Usermanger')">
+                    <x-nav-link :href="route('users.index')" :active="request()->routeIs('users.index')">
                         {{ __('Usermanger') }}
+                    </x-nav-link>
+                    <x-nav-link :href="route('design.index')" :active="request()->routeIs('design.index')">
+                        {{ __('designCont') }}
                     </x-nav-link>
                 </div>
             </div>
@@ -75,8 +78,11 @@
             <x-responsive-nav-link :href="route('post.index')" :active="request()->routeIs('post.index')">
                 {{ __('Posting') }}
             </x-responsive-nav-link>
-            <x-responsive-nav-link :href="route('Usermanger')" :active="request()->routeIs('Usermanger')">
+            <x-responsive-nav-link :href="route('users.index')" :active="request()->routeIs('users.index')">
                 {{ __('Usermanger') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('design.index')" :active="request()->routeIs('design.index')">
+                {{ __('designCont') }}
             </x-responsive-nav-link>
         </div>
 

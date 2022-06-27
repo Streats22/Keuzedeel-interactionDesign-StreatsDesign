@@ -2,10 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\design;
+use App\Models\usermanger;
 use Illuminate\Http\Request;
+use App\Models\User;
 
-class DesignControllers extends Controller
+class UsermangerController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,7 +15,9 @@ class DesignControllers extends Controller
      */
     public function index()
     {
-        return view('designCont');
+        $user = User::all();
+
+        return view('Usermanger', ['user' => $user]);
     }
 
     /**
@@ -24,7 +27,7 @@ class DesignControllers extends Controller
      */
     public function create()
     {
-        //
+
     }
 
     /**
@@ -41,10 +44,10 @@ class DesignControllers extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\design  $design
+     * @param  \App\Models\Usermanger  $usermanger
      * @return \Illuminate\Http\Response
      */
-    public function show(design $design)
+    public function show(UsermangerController $usermanger)
     {
         //
     }
@@ -52,10 +55,10 @@ class DesignControllers extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\design  $design
+     * @param  \App\Models\Usermanger  $usermanger
      * @return \Illuminate\Http\Response
      */
-    public function edit(design $design)
+    public function edit(UsermangerController $usermanger)
     {
         //
     }
@@ -64,10 +67,10 @@ class DesignControllers extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\design  $design
+     * @param  \App\Models\Usermanger  $usermanger
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, design $design)
+    public function update(Request $request, UsermangerController $usermanger)
     {
         //
     }
@@ -75,10 +78,10 @@ class DesignControllers extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\design  $design
+     * @param  \App\Models\Usermanger  $usermanger
      * @return \Illuminate\Http\Response
      */
-    public function destroy(design $design)
+    public function destroy(UsermangerController $usermanger)
     {
         //
     }
