@@ -24,7 +24,7 @@ class DesignControllers extends Controller
      */
     public function create()
     {
-        //
+        return view('designCont.create');
     }
 
     /**

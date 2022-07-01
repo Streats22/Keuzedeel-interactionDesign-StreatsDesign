@@ -14,7 +14,7 @@ class LogoControllers extends Controller
      */
     public function index()
     {
-        //
+        return view('LogoControllers');
     }
 
     /**

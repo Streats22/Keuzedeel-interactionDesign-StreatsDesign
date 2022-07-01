@@ -27,7 +27,7 @@ class UsermangerController extends Controller
      */
     public function create()
     {
-
+        return view('Usermanger.create');
     }
 
     /**

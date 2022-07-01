@@ -13,8 +13,10 @@
                     Users:
 
                     @foreach($user as $user)
-                        <a href=""><br>{{ $user->firstname }} {{ $user->lastname }}<br></a>
+                        <a href=""><br><b>{{ $user->lastname }}</b>, {{ $user->firstname }} <br></a>
                     @endforeach
+                    <br>
+
                 </div>
             </div>
         </div>

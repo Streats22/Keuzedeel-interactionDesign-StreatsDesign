@@ -6,9 +6,11 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DesignController;
 use App\Http\Controllers\LogoController;
 use App\Http\Controllers\WebController;
+use App\Http\Controllers\WebControllers;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\UsermangerController;
+use App\Http\Controllers\LogoControllers;
 
 /*
 |--------------------------------------------------------------------------
@@ -55,6 +57,12 @@ Route::prefix( '/dashboard')->middleware(['auth'])->group(function (){
     ]);
     Route::resources([
         'users' => UsermangerController::class,
+    ]);
+    Route::resources([
+        'Web' => WebControllers::class,
+    ]);
+    Route::resources([
+        'logo' => LogoControllers::class,
     ]);
 });
 
